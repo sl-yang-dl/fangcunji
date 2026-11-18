@@ -93,46 +93,49 @@ export default function Guestbook({ stampName }) {
           <h2>留言板</h2>
         </div>
         <p className="guestbook-desc">
-          欢迎留下你的意见、建议或邮票心得，留言将收录到项目的 GitHub Issues。
+          {stampName ? `正在为《${stampName}》留言 —— ` : ""}
+          欢迎写下你的邮识、心得或建议，留言将收录到项目的 GitHub Issues。
         </p>
 
-        <form className="guestbook-form" onSubmit={handleSubmit}>
-          <input
-            type="text"
-            className="gb-input"
-            placeholder="你的昵称（必填）"
-            value={name}
-            maxLength={30}
-            onChange={(e) => setName(e.target.value)}
-          />
-          <textarea
-            className="gb-textarea"
-            placeholder="写下你的留言…（必填）"
-            value={message}
-            maxLength={1000}
-            rows={4}
-            onChange={(e) => setMessage(e.target.value)}
-          />
-          <div className="gb-actions">
-            <span className="gb-counter">{message.length}/1000</span>
-            <button
-              type="submit"
-              className="gb-submit"
-              disabled={!canSubmit || status === "sending"}
-            >
-              {status === "sending" ? "提交中…" : "提交留言"}
-            </button>
-          </div>
-        </form>
+        <div className="gb-panel">
+          <form className="guestbook-form" onSubmit={handleSubmit}>
+            <input
+              type="text"
+              className="gb-input"
+              placeholder="你的昵称（必填）"
+              value={name}
+              maxLength={30}
+              onChange={(e) => setName(e.target.value)}
+            />
+            <textarea
+              className="gb-textarea"
+              placeholder="写下你的留言…（必填）"
+              value={message}
+              maxLength={1000}
+              rows={4}
+              onChange={(e) => setMessage(e.target.value)}
+            />
+            <div className="gb-actions">
+              <span className="gb-counter">{message.length}/1000</span>
+              <button
+                type="submit"
+                className="gb-submit"
+                disabled={!canSubmit || status === "sending"}
+              >
+                {status === "sending" ? "提交中…" : "提交留言"}
+              </button>
+            </div>
+          </form>
 
-        {status === "success" && (
-          <div className="gb-tip success">
-            留言提交成功！将在几分钟内出现在仓库 Issues 中。
-          </div>
-        )}
-        {status === "error" && (
-          <div className="gb-tip error">{errorMsg}</div>
-        )}
+          {status === "success" && (
+            <div className="gb-tip success">
+              留言提交成功！将在几分钟内出现在仓库 Issues 中。
+            </div>
+          )}
+          {status === "error" && (
+            <div className="gb-tip error">{errorMsg}</div>
+          )}
+        </div>
       </div>
     </section>
   );

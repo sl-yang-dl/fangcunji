@@ -816,12 +816,12 @@ body::before {
   background: var(--paper);
   border-top: 1px solid var(--line);
 }
-/* 弹窗内的留言板：紧凑布局，去掉页面级外衬 */
+/* 弹窗内留言板：作为与“邮票介绍”同级的分区，消除上方大留白 */
 .modal .guestbook {
-  padding: 8px 0 4px;
+  margin: 0;
+  padding: 0;
   background: transparent;
-  border-top: 1px solid var(--line);
-  margin-top: 4px;
+  border-top: none;
 }
 .modal .guestbook-inner {
   max-width: none;
@@ -829,9 +829,40 @@ body::before {
   background: transparent;
   border: none;
   border-radius: 0;
-  padding: 24px 0 8px;
+  padding: 0;
   box-shadow: none;
 }
+/* 标题复用分区标题样式（金点 + 横线），与“邮票介绍”视觉统一 */
+.modal .guestbook-head {
+  margin-bottom: 14px;
+}
+.modal .guestbook-head h2 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--cinnabar);
+  letter-spacing: 1px;
+  margin: 0;
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", serif;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.modal .guestbook-head h2::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, var(--line), transparent);
+}
+.modal .guestbook-desc { margin: 0 0 16px; font-size: 13px; color: var(--ink-soft); line-height: 1.7; }
+
+/* 表单卡片：让留言输入区成为一块独立、聚焦的面板 */
+.gb-panel {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 18px;
+}
+.modal .gb-panel { background: var(--paper); }
 .guestbook-inner {
   max-width: 760px;
   margin: 0 auto;

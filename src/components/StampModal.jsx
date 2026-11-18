@@ -77,8 +77,8 @@ export default function StampModal({ stamp, onClose }) {
               <h3><span className="sec-dot"></span>邮票介绍</h3>
               <p>{stamp.intro || "暂无介绍"}</p>
             </div>
+            <Guestbook stampName={stamp.name} />
           </div>
-          <Guestbook stampName={stamp.name} />
         </div>
       </div>
     </div>
