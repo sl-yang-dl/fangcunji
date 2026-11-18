@@ -8,7 +8,7 @@
 const YEAR_1958 = [
   {
     "zihao": "Mi:362",
-    "name": "First Five-Year Plan",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1958,
     "date": "1958年1月30日",
@@ -31,7 +31,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:363",
-    "name": "First Five-Year Plan",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1958,
     "date": "1958年1月30日",
@@ -54,7 +54,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:364",
-    "name": "First Five-Year Plan",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1958,
     "date": "1958年1月30日",
@@ -77,7 +77,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:365",
-    "name": "Sungyu Pagoda",
+    "name": "特21 中国古塔建筑艺术",
     "nameZh": "特21 中国古塔建筑艺术",
     "year": 1958,
     "date": "1958年3月15日",
@@ -100,7 +100,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:366",
-    "name": "Chienhsun Pagoda",
+    "name": "特21 中国古塔建筑艺术",
     "nameZh": "特21 中国古塔建筑艺术",
     "year": 1958,
     "date": "1958年3月15日",
@@ -123,7 +123,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:367",
-    "name": "Sakyamuni Pagoda",
+    "name": "特21 中国古塔建筑艺术",
     "nameZh": "特21 中国古塔建筑艺术",
     "year": 1958,
     "date": "1958年3月15日",
@@ -146,7 +146,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:368",
-    "name": "Flying Rainbow Pagoda",
+    "name": "特21 中国古塔建筑艺术",
     "nameZh": "特21 中国古塔建筑艺术",
     "year": 1958,
     "date": "1958年3月15日",
@@ -169,7 +169,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:369",
-    "name": "Finds of prehistoric animals-Trilobite",
+    "name": "特22 中国古代科学家（化石）",
     "nameZh": "特22 中国古代科学家（化石）",
     "year": 1958,
     "date": "1958年4月15日",
@@ -192,7 +192,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:370",
-    "name": "Finds of Prehistoric Animals - Dinosaur",
+    "name": "特22 中国古代科学家（化石）",
     "nameZh": "特22 中国古代科学家（化石）",
     "year": 1958,
     "date": "1958年4月15日",
@@ -215,7 +215,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:371",
-    "name": "Prehistoric animals - Sinomegaceros pachyosteus",
+    "name": "特22 中国古代科学家（化石）",
     "nameZh": "特22 中国古代科学家（化石）",
     "year": 1958,
     "date": "1958年4月15日",
@@ -238,7 +238,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:372",
-    "name": "Heroes Monument",
+    "name": "纪54 人民英雄纪念碑",
     "nameZh": "纪54 人民英雄纪念碑",
     "year": 1958,
     "date": "1958年5月1日",
@@ -251,7 +251,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "Unveiling of People's Heroes Monument, 北京",
+    "intro": "' , 北京",
     "stamps": [],
     "mintage": "",
     "color": "胭脂红",
@@ -261,7 +261,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:373",
-    "name": "Karl Marx (1818-1883)",
+    "name": "纪47 马克思诞生一四零周年",
     "nameZh": "纪47 马克思诞生一四零周年",
     "year": 1958,
     "date": "1958年5月5日",
@@ -284,7 +284,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:374",
-    "name": "Karl Marx speaking",
+    "name": "纪47 马克思诞生一四零周年",
     "nameZh": "纪47 马克思诞生一四零周年",
     "year": 1958,
     "date": "1958年5月5日",
@@ -307,7 +307,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:375",
-    "name": "Cogwheels and Factories",
+    "name": "纪45 中国工会第八次代表大会",
     "nameZh": "纪45 中国工会第八次代表大会",
     "year": 1958,
     "date": "1958年5月25日",
@@ -330,7 +330,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:376",
-    "name": "Cogwheels and Factories",
+    "name": "纪45 中国工会第八次代表大会",
     "nameZh": "纪45 中国工会第八次代表大会",
     "year": 1958,
     "date": "1958年5月25日",
@@ -353,7 +353,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:377",
-    "name": "Dove over Globe",
+    "name": "纪54 世界工会第四次代表大会",
     "nameZh": "纪54 世界工会第四次代表大会",
     "year": 1958,
     "date": "1958年6月1日",
@@ -376,7 +376,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:378",
-    "name": "Dove over Globe",
+    "name": "纪54 世界工会第四次代表大会",
     "nameZh": "纪54 世界工会第四次代表大会",
     "year": 1958,
     "date": "1958年6月1日",
@@ -399,7 +399,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:379",
-    "name": "Children’s Day",
+    "name": "纪49 国际儿童节",
     "nameZh": "纪49 国际儿童节",
     "year": 1958,
     "date": "1958年6月1日",
@@ -412,7 +412,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,孩童,家庭,植物 (花卉),莲花",
+    "intro": "鲜花,孩童,家庭,植物(花卉),莲花",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -422,7 +422,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:380",
-    "name": "Children’s Day",
+    "name": "纪49 国际儿童节",
     "nameZh": "纪49 国际儿童节",
     "year": 1958,
     "date": "1958年6月1日",
@@ -435,7 +435,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,孩童,向日葵,植物 (花卉)",
+    "intro": "鲜花,孩童,向日葵,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -445,7 +445,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:381",
-    "name": "Children’s Day",
+    "name": "纪49 国际儿童节",
     "nameZh": "纪49 国际儿童节",
     "year": 1958,
     "date": "1958年6月1日",
@@ -468,7 +468,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:382",
-    "name": "Children’s Day",
+    "name": "纪49 国际儿童节",
     "nameZh": "纪49 国际儿童节",
     "year": 1958,
     "date": "1958年6月1日",
@@ -491,7 +491,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:383",
-    "name": "“Dream of Butterflies.”",
+    "name": "特24 中国民间舞蹈（京剧）",
     "nameZh": "特24 中国民间舞蹈（京剧）",
     "year": 1958,
     "date": "1958年6月20日",
@@ -504,7 +504,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "画,歌剧,蝴蝶和飞蛾",
+    "intro": "京剧为国之粹，梅兰芳为一代宗师；脸谱以夸张谱式辨忠奸。邮票绘名剧与谱式，京韵悠长。",
     "stamps": [],
     "mintage": "",
     "color": "灰绿色,奶白",
@@ -514,7 +514,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:384",
-    "name": "Kuan Han-ching",
+    "name": "特24 中国民间舞蹈（京剧）",
     "nameZh": "特24 中国民间舞蹈（京剧）",
     "year": 1958,
     "date": "1958年6月20日",
@@ -527,7 +527,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "名人,作家,文学,歌剧,文学人物（诗人和作家）",
+    "intro": "京剧为国之粹，梅兰芳为一代宗师；脸谱以夸张谱式辨忠奸。邮票绘名剧与谱式，京韵悠长。",
     "stamps": [],
     "mintage": "",
     "color": "巧克力色,奶白",
@@ -537,7 +537,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:385",
-    "name": "“The Riverside Pavilion.”",
+    "name": "特24 中国民间舞蹈（京剧）",
     "nameZh": "特24 中国民间舞蹈（京剧）",
     "year": 1958,
     "date": "1958年6月20日",
@@ -550,7 +550,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "歌剧,建筑物",
+    "intro": "京剧为国之粹，梅兰芳为一代宗师；脸谱以夸张谱式辨忠奸。邮票绘名剧与谱式，京韵悠长。",
     "stamps": [],
     "mintage": "",
     "color": "棕褐色,奶白",
@@ -560,7 +560,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:386",
-    "name": "Geophysical year",
+    "name": "特26 我国第一个原子反应堆（天文）",
     "nameZh": "特26 我国第一个原子反应堆（天文）",
     "year": 1958,
     "date": "1958年6月25日",
@@ -573,7 +573,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "北京 Planetarium",
+    "intro": "北京",
     "stamps": [],
     "mintage": "",
     "color": "碧绿色",
@@ -583,7 +583,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:387",
-    "name": "Geophysical year",
+    "name": "特26 我国第一个原子反应堆（天文）",
     "nameZh": "特26 我国第一个原子反应堆（天文）",
     "year": 1958,
     "date": "1958年6月25日",
@@ -596,7 +596,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "北京 Planetarium",
+    "intro": "北京",
     "stamps": [],
     "mintage": "",
     "color": "深蓝",
@@ -606,7 +606,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:388",
-    "name": "Marx and Engels",
+    "name": "纪46 共产党宣言发表一百一十周年",
     "nameZh": "纪46 共产党宣言发表一百一十周年",
     "year": 1958,
     "date": "1958年7月1日",
@@ -629,7 +629,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:389",
-    "name": "\"Communist Manifesto\"",
+    "name": "纪46 共产党宣言发表一百一十周年",
     "nameZh": "纪46 共产党宣言发表一百一十周年",
     "year": 1958,
     "date": "1958年7月1日",
@@ -652,7 +652,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:390",
-    "name": "Cygnus columbianus and Radio Pylon",
+    "name": "普9 天安门（天鹅与广播塔）",
     "nameZh": "普9 天安门（天鹅与广播塔）",
     "year": 1958,
     "date": "1958年7月10日",
@@ -675,7 +675,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:391",
-    "name": "Cygnus columbianus and Radio Pylon",
+    "name": "普9 天安门（天鹅与广播塔）",
     "nameZh": "普9 天安门（天鹅与广播塔）",
     "year": 1958,
     "date": "1958年7月10日",
@@ -698,7 +698,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:392",
-    "name": "Peony and Doves",
+    "name": "纪51 国际友谊与和平（裁军）",
     "nameZh": "纪51 国际友谊与和平（裁军）",
     "year": 1958,
     "date": "1958年7月20日",
@@ -721,7 +721,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:393",
-    "name": "Olive branch",
+    "name": "纪51 国际友谊与和平（裁军）",
     "nameZh": "纪51 国际友谊与和平（裁军）",
     "year": 1958,
     "date": "1958年7月20日",
@@ -734,7 +734,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "植物 (花卉)",
+    "intro": "植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "绿色",
@@ -744,7 +744,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:394",
-    "name": "Atomic symbol and factory plant",
+    "name": "纪51 国际友谊与和平（裁军）",
     "nameZh": "纪51 国际友谊与和平（裁军）",
     "year": 1958,
     "date": "1958年7月20日",
@@ -767,7 +767,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:395",
-    "name": "Meteorological services",
+    "name": "特25 气象服务",
     "nameZh": "特25 气象服务",
     "year": 1958,
     "date": "1958年8月25日",
@@ -790,7 +790,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:396b",
-    "name": "Meteorological services",
+    "name": "特25 气象服务",
     "nameZh": "特25 气象服务",
     "year": 1958,
     "date": "1958年8月25日",
@@ -813,7 +813,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:397a",
-    "name": "Meteorological services",
+    "name": "特25 气象服务",
     "nameZh": "特25 气象服务",
     "year": 1958,
     "date": "1958年8月25日",
@@ -836,7 +836,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:398",
-    "name": "Intl. Union of Students, 5th Cong., Peking",
+    "name": "纪48 国际学生联合会",
     "nameZh": "纪48 国际学生联合会",
     "year": 1958,
     "date": "1958年9月4日",
@@ -859,7 +859,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:399",
-    "name": "Intl. Union of Students, 5th Cong., Peking",
+    "name": "纪48 国际学生联合会",
     "nameZh": "纪48 国际学生联合会",
     "year": 1958,
     "date": "1958年9月4日",
@@ -882,7 +882,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:400",
-    "name": "Telegraph Building",
+    "name": "特23 邮电大楼",
     "nameZh": "特23 邮电大楼",
     "year": 1958,
     "date": "1958年9月29日",
@@ -905,7 +905,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:401",
-    "name": "Telegraph Building",
+    "name": "特23 邮电大楼",
     "nameZh": "特23 邮电大楼",
     "year": 1958,
     "date": "1958年9月29日",
@@ -928,7 +928,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:402",
-    "name": "National Exhibition of Industry and Communication",
+    "name": "纪55 全国工业交通展览会",
     "nameZh": "纪55 全国工业交通展览会",
     "year": 1958,
     "date": "1958年10月1日",
@@ -951,7 +951,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:403",
-    "name": "National Exhibition of Industry and Communication",
+    "name": "纪55 全国工业交通展览会",
     "nameZh": "纪55 全国工业交通展览会",
     "year": 1958,
     "date": "1958年10月1日",
@@ -974,7 +974,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:404",
-    "name": "National Exhibition of Industry and Communication",
+    "name": "纪55 全国工业交通展览会",
     "nameZh": "纪55 全国工业交通展览会",
     "year": 1958,
     "date": "1958年10月1日",
@@ -997,7 +997,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:405",
-    "name": "13 Ming Tombs Reservoir completion",
+    "name": "纪52 十三陵水库",
     "nameZh": "纪52 十三陵水库",
     "year": 1958,
     "date": "1958年10月25日",
@@ -1020,7 +1020,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:406",
-    "name": "13 Ming Tombs Reservoir completion",
+    "name": "纪52 十三陵水库",
     "nameZh": "纪52 十三陵水库",
     "year": 1958,
     "date": "1958年10月25日",
@@ -1043,7 +1043,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:407",
-    "name": "Sputnik 1",
+    "name": "特27 宇宙火箭",
     "nameZh": "特27 宇宙火箭",
     "year": 1958,
     "date": "1958年10月30日",
@@ -1066,7 +1066,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:408",
-    "name": "Sputnik 3",
+    "name": "特27 宇宙火箭",
     "nameZh": "特27 宇宙火箭",
     "year": 1958,
     "date": "1958年10月30日",
@@ -1089,7 +1089,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:409",
-    "name": "Trajectories of the missions Sputnik 1,2 and 3",
+    "name": "特27 宇宙火箭",
     "nameZh": "特27 宇宙火箭",
     "year": 1958,
     "date": "1958年10月30日",
@@ -1112,7 +1112,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:410",
-    "name": "Peony",
+    "name": "普9 天安门（花卉）",
     "nameZh": "普9 天安门（花卉）",
     "year": 1958,
     "date": "1958年9月25日",
@@ -1125,7 +1125,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "鲜花,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "明亮的淡紫色红色",
@@ -1135,7 +1135,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:411",
-    "name": "Lotus",
+    "name": "普9 天安门（花卉）",
     "nameZh": "普9 天安门（花卉）",
     "year": 1958,
     "date": "1958年9月25日",
@@ -1148,7 +1148,7 @@ const YEAR_1958 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "鲜花,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "蓝绿",
@@ -1158,7 +1158,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:412",
-    "name": "Chrysanthemums",
+    "name": "普9 天安门（花卉）",
     "nameZh": "普9 天安门（花卉）",
     "year": 1958,
     "date": "1958年9月25日",
@@ -1171,7 +1171,7 @@ const YEAR_1958 = [
     "spec": "22×24毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "鲜花,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "深橙色",
@@ -1181,7 +1181,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:413",
-    "name": "Return of the Chinese Volunteers from Korea",
+    "name": "纪53 志愿军凯旋回国",
     "nameZh": "纪53 志愿军凯旋回国",
     "year": 1958,
     "date": "1958年11月20日",
@@ -1204,7 +1204,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:414",
-    "name": "Return of the Chinese Volunteers from Korea",
+    "name": "纪53 志愿军凯旋回国",
     "nameZh": "纪53 志愿军凯旋回国",
     "year": 1958,
     "date": "1958年11月20日",
@@ -1227,7 +1227,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:415",
-    "name": "Return of the Chinese Volunteers from Korea",
+    "name": "纪53 志愿军凯旋回国",
     "nameZh": "纪53 志愿军凯旋回国",
     "year": 1958,
     "date": "1958年11月20日",
@@ -1250,7 +1250,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:416",
-    "name": "Forest",
+    "name": "特19 治理黄河（植树）",
     "nameZh": "特19 治理黄河（植树）",
     "year": 1958,
     "date": "1958年12月15日",
@@ -1273,7 +1273,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:417",
-    "name": "Forest",
+    "name": "特19 治理黄河（植树）",
     "nameZh": "特19 治理黄河（植树）",
     "year": 1958,
     "date": "1958年12月15日",
@@ -1296,7 +1296,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:418",
-    "name": "Forest",
+    "name": "特19 治理黄河（植树）",
     "nameZh": "特19 治理黄河（植树）",
     "year": 1958,
     "date": "1958年12月15日",
@@ -1319,7 +1319,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:419",
-    "name": "Forest",
+    "name": "特19 治理黄河（植树）",
     "nameZh": "特19 治理黄河（植树）",
     "year": 1958,
     "date": "1958年12月15日",
@@ -1342,7 +1342,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:420",
-    "name": "China’s first atomic reactor",
+    "name": "特26 我国第一个原子反应堆",
     "nameZh": "特26 我国第一个原子反应堆",
     "year": 1958,
     "date": "1958年12月30日",
@@ -1365,7 +1365,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:421",
-    "name": "China’s First Cyclotron",
+    "name": "特26 我国第一个原子反应堆",
     "nameZh": "特26 我国第一个原子反应堆",
     "year": 1958,
     "date": "1958年12月30日",
@@ -1388,7 +1388,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:422",
-    "name": "Sports - Aviation Publicity",
+    "name": "纪50 航空体育运动",
     "nameZh": "纪50 航空体育运动",
     "year": 1958,
     "date": "1958年12月30日",
@@ -1411,7 +1411,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:423",
-    "name": "Sports-aviation publicity",
+    "name": "纪50 航空体育运动",
     "nameZh": "纪50 航空体育运动",
     "year": 1958,
     "date": "1958年12月30日",
@@ -1434,7 +1434,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:424",
-    "name": "Sports-aviation publicity",
+    "name": "纪50 航空体育运动",
     "nameZh": "纪50 航空体育运动",
     "year": 1958,
     "date": "1958年12月30日",
@@ -1457,7 +1457,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:425",
-    "name": "Sports-aviation publicity",
+    "name": "纪50 航空体育运动",
     "nameZh": "纪50 航空体育运动",
     "year": 1958,
     "date": "1958年12月30日",
@@ -1480,7 +1480,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:BL5",
-    "name": "People's Heroes Monument",
+    "name": "纪54 人民英雄纪念碑",
     "nameZh": "纪54 人民英雄纪念碑",
     "year": 1958,
     "date": "1958年5月30日",
@@ -1503,7 +1503,7 @@ const YEAR_1958 = [
   },
   {
     "zihao": "Mi:BL6",
-    "name": "700th anniversary of publication of works of Kuan Han-ching",
+    "name": "特24 中国民间舞蹈（京剧）",
     "nameZh": "特24 中国民间舞蹈（京剧）",
     "year": 1958,
     "date": "1958年6月28日",
@@ -1516,7 +1516,7 @@ const YEAR_1958 = [
     "spec": "130×100毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "京剧为国之粹，梅兰芳为一代宗师；脸谱以夸张谱式辨忠奸。邮票绘名剧与谱式，京韵悠长。",
     "stamps": [],
     "mintage": "250000",
     "color": "多色的",

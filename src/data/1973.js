@@ -8,7 +8,7 @@
 const YEAR_1973 = [
   {
     "zihao": "Mi:1126",
-    "name": "Giant Panda (Ailuropoda melanoleuca)",
+    "name": "编57-62 熊猫",
     "nameZh": "编57-62 熊猫",
     "year": 1973,
     "date": "1973年1月15日",
@@ -21,7 +21,7 @@ const YEAR_1973 = [
     "spec": "31×41毫米",
     "designer": "",
     "printer": "",
-    "intro": "哺乳动物,熊,动物,大熊猫",
+    "intro": "大熊猫是中国特有珍稀物种，被誉为“国宝”与“活化石”。邮票多取吴作人所绘憨态可掬之形象，传递珍爱自然与友好情谊之意。",
     "stamps": [],
     "mintage": "",
     "color": "浅黄绿色",
@@ -31,7 +31,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1127",
-    "name": "Giant Panda (Ailuropoda melanoleuca)",
+    "name": "编57-62 熊猫",
     "nameZh": "编57-62 熊猫",
     "year": 1973,
     "date": "1973年1月15日",
@@ -44,7 +44,7 @@ const YEAR_1973 = [
     "spec": "41×31毫米",
     "designer": "",
     "printer": "",
-    "intro": "哺乳动物,熊,动物,大熊猫",
+    "intro": "大熊猫是中国特有珍稀物种，被誉为“国宝”与“活化石”。邮票多取吴作人所绘憨态可掬之形象，传递珍爱自然与友好情谊之意。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -54,7 +54,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1128",
-    "name": "Giant Panda (Ailuropoda melanoleuca)",
+    "name": "编57-62 熊猫",
     "nameZh": "编57-62 熊猫",
     "year": 1973,
     "date": "1973年1月15日",
@@ -67,7 +67,7 @@ const YEAR_1973 = [
     "spec": "41×31毫米",
     "designer": "",
     "printer": "",
-    "intro": "哺乳动物,熊,动物,大熊猫",
+    "intro": "大熊猫是中国特有珍稀物种，被誉为“国宝”与“活化石”。邮票多取吴作人所绘憨态可掬之形象，传递珍爱自然与友好情谊之意。",
     "stamps": [],
     "mintage": "",
     "color": "浅棕灰",
@@ -77,7 +77,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1129",
-    "name": "Giant Panda (Ailuropoda melanoleuca)",
+    "name": "编57-62 熊猫",
     "nameZh": "编57-62 熊猫",
     "year": 1973,
     "date": "1973年1月15日",
@@ -90,7 +90,7 @@ const YEAR_1973 = [
     "spec": "31×41毫米",
     "designer": "",
     "printer": "",
-    "intro": "哺乳动物,熊,动物,大熊猫",
+    "intro": "大熊猫是中国特有珍稀物种，被誉为“国宝”与“活化石”。邮票多取吴作人所绘憨态可掬之形象，传递珍爱自然与友好情谊之意。",
     "stamps": [],
     "mintage": "",
     "color": "浅蓝绿色",
@@ -100,7 +100,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1130",
-    "name": "Giant Panda (Ailuropoda melanoleuca)",
+    "name": "编57-62 熊猫",
     "nameZh": "编57-62 熊猫",
     "year": 1973,
     "date": "1973年1月15日",
@@ -113,7 +113,7 @@ const YEAR_1973 = [
     "spec": "31×41毫米",
     "designer": "",
     "printer": "",
-    "intro": "哺乳动物,熊,动物,大熊猫",
+    "intro": "大熊猫是中国特有珍稀物种，被誉为“国宝”与“活化石”。邮票多取吴作人所绘憨态可掬之形象，传递珍爱自然与友好情谊之意。",
     "stamps": [],
     "mintage": "",
     "color": "浅蓝灰色",
@@ -123,7 +123,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1131",
-    "name": "Giant Panda (Ailuropoda melanoleuca)",
+    "name": "编57-62 熊猫",
     "nameZh": "编57-62 熊猫",
     "year": 1973,
     "date": "1973年1月15日",
@@ -136,7 +136,7 @@ const YEAR_1973 = [
     "spec": "31×41毫米",
     "designer": "",
     "printer": "",
-    "intro": "哺乳动物,熊,动物,大熊猫",
+    "intro": "大熊猫是中国特有珍稀物种，被誉为“国宝”与“活化石”。邮票多取吴作人所绘憨态可掬之形象，传递珍爱自然与友好情谊之意。",
     "stamps": [],
     "mintage": "",
     "color": "淡紫色",
@@ -146,7 +146,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1132",
-    "name": "Coal Miner",
+    "name": "国际妇女节",
     "nameZh": "国际妇女节",
     "year": 1973,
     "date": "1973年3月8日",
@@ -169,7 +169,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1133",
-    "name": "Committee Member",
+    "name": "国际妇女节",
     "nameZh": "国际妇女节",
     "year": 1973,
     "date": "1973年3月8日",
@@ -192,7 +192,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1134",
-    "name": "Telephone Line Worker",
+    "name": "国际妇女节",
     "nameZh": "国际妇女节",
     "year": 1973,
     "date": "1973年3月8日",
@@ -215,7 +215,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1135",
-    "name": "Children’s Musical Dance - Han Chinese",
+    "name": "编78-81 国际儿童节",
     "nameZh": "编78-81 国际儿童节",
     "year": 1973,
     "date": "1973年6月1日",
@@ -238,7 +238,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1135",
-    "name": "Children's Day Set of 5",
+    "name": "编78-81 国际儿童节",
     "nameZh": "编78-81 国际儿童节",
     "year": 1973,
     "date": "1973年6月1日",
@@ -261,7 +261,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1136",
-    "name": "Children’s Musical Dance - Mongolian",
+    "name": "编78-81 国际儿童节",
     "nameZh": "编78-81 国际儿童节",
     "year": 1973,
     "date": "1973年6月1日",
@@ -284,7 +284,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1137",
-    "name": "Children’s Musical Dance - Tibetan",
+    "name": "编78-81 国际儿童节",
     "nameZh": "编78-81 国际儿童节",
     "year": 1973,
     "date": "1973年6月1日",
@@ -307,7 +307,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1138",
-    "name": "Children’s Musical Dance - Uyghurs",
+    "name": "编78-81 国际儿童节",
     "nameZh": "编78-81 国际儿童节",
     "year": 1973,
     "date": "1973年6月1日",
@@ -330,7 +330,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1139",
-    "name": "Children’s Musical Dance - Korean",
+    "name": "编78-81 国际儿童节",
     "nameZh": "编78-81 国际儿童节",
     "year": 1973,
     "date": "1973年6月1日",
@@ -353,7 +353,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1140",
-    "name": "Tournament Emblem",
+    "name": "编85-86 亚非拉乒乓球锦标赛",
     "nameZh": "编85-86 亚非拉乒乓球锦标赛",
     "year": 1973,
     "date": "1973年8月25日",
@@ -376,7 +376,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1141",
-    "name": "Players Arriving",
+    "name": "编85-86 亚非拉乒乓球锦标赛",
     "nameZh": "编85-86 亚非拉乒乓球锦标赛",
     "year": 1973,
     "date": "1973年8月25日",
@@ -399,7 +399,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1142",
-    "name": "Women Player",
+    "name": "编85-86 亚非拉乒乓球锦标赛",
     "nameZh": "编85-86 亚非拉乒乓球锦标赛",
     "year": 1973,
     "date": "1973年8月25日",
@@ -422,7 +422,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1143",
-    "name": "Three Women Players",
+    "name": "编85-86 亚非拉乒乓球锦标赛",
     "nameZh": "编85-86 亚非拉乒乓球锦标赛",
     "year": 1973,
     "date": "1973年8月25日",
@@ -445,7 +445,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1144",
-    "name": "Modern ballet",
+    "name": "编82-85 革命现代舞剧《白毛女》",
     "nameZh": "编82-85 革命现代舞剧《白毛女》",
     "year": 1973,
     "date": "1973年9月25日",
@@ -458,7 +458,7 @@ const YEAR_1973 = [
     "spec": "31×41毫米",
     "designer": "",
     "printer": "",
-    "intro": "舞蹈",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -468,7 +468,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1145",
-    "name": "Modern ballet",
+    "name": "编82-85 革命现代舞剧《白毛女》",
     "nameZh": "编82-85 革命现代舞剧《白毛女》",
     "year": 1973,
     "date": "1973年9月25日",
@@ -481,7 +481,7 @@ const YEAR_1973 = [
     "spec": "41×31毫米",
     "designer": "",
     "printer": "",
-    "intro": "舞蹈",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -491,7 +491,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1146",
-    "name": "Modern ballet",
+    "name": "编82-85 革命现代舞剧《白毛女》",
     "nameZh": "编82-85 革命现代舞剧《白毛女》",
     "year": 1973,
     "date": "1973年9月25日",
@@ -504,7 +504,7 @@ const YEAR_1973 = [
     "spec": "41×31毫米",
     "designer": "",
     "printer": "",
-    "intro": "舞蹈,芭蕾舞",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -514,7 +514,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1147",
-    "name": "Modern ballet",
+    "name": "编82-85 革命现代舞剧《白毛女》",
     "nameZh": "编82-85 革命现代舞剧《白毛女》",
     "year": 1973,
     "date": "1973年9月25日",
@@ -527,7 +527,7 @@ const YEAR_1973 = [
     "spec": "31×41毫米",
     "designer": "",
     "printer": "",
-    "intro": "舞蹈",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -537,7 +537,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1148",
-    "name": "Chinese export trade fair",
+    "name": "中国出口商品交易会",
     "nameZh": "中国出口商品交易会",
     "year": 1973,
     "date": "1973年10月20日",
@@ -560,7 +560,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1149",
-    "name": "Trains",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1973,
     "date": "1973年10月20日",
@@ -573,7 +573,7 @@ const YEAR_1973 = [
     "spec": "41×28毫米",
     "designer": "",
     "printer": "",
-    "intro": "First 出自 set of two. The next one is 以……发行 the beginning of 1974.",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "暗蓝绿色",
@@ -583,7 +583,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1150",
-    "name": "Teapot",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -606,7 +606,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1151",
-    "name": "Silver Pot",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -629,7 +629,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1152",
-    "name": "Pottery Horse",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -652,7 +652,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1153",
-    "name": "Clay Figure",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -675,7 +675,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1154",
-    "name": "Carved Stone Base",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -698,7 +698,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1155",
-    "name": "Bronze Horse",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -721,7 +721,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1156",
-    "name": "Bronze Inkwell",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -744,7 +744,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1157",
-    "name": "Bronze Lamp",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -767,7 +767,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1158",
-    "name": "Bronze Tripod",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -790,7 +790,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1159",
-    "name": "Square Bronze Pot",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -813,7 +813,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1160",
-    "name": "Bronze Wine Vessel",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",
@@ -836,7 +836,7 @@ const YEAR_1973 = [
   },
   {
     "zihao": "Mi:1161",
-    "name": "Red Clay Tripod",
+    "name": "编66-77 工艺美术",
     "nameZh": "编66-77 工艺美术",
     "year": 1973,
     "date": "1973年11月20日",

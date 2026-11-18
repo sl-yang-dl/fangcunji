@@ -8,7 +8,7 @@
 const YEAR_1956 = [
   {
     "zihao": "Mi:300",
-    "name": "Nurse",
+    "name": "特12 新中国的科学家（人物）",
     "nameZh": "特12 新中国的科学家（人物）",
     "year": 1956,
     "date": "1956年12月25日",
@@ -31,7 +31,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:303",
-    "name": "Chemist",
+    "name": "特12 新中国的科学家（人物）",
     "nameZh": "特12 新中国的科学家（人物）",
     "year": 1956,
     "date": "1956年12月25日",
@@ -54,7 +54,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:304a",
-    "name": "Farm Girl",
+    "name": "特12 新中国的科学家（人物）",
     "nameZh": "特12 新中国的科学家（人物）",
     "year": 1956,
     "date": "1956年1月5日",
@@ -77,7 +77,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:308",
-    "name": "Gate of Heavenly Peace",
+    "name": "普8 天安门",
     "nameZh": "普8 天安门",
     "year": 1956,
     "date": "1956年1月5日",
@@ -100,7 +100,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:309",
-    "name": "Gate of Heavenly Peace",
+    "name": "普8 天安门",
     "nameZh": "普8 天安门",
     "year": 1956,
     "date": "1956年2月4日",
@@ -123,7 +123,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:311",
-    "name": "Convoy of Lorries",
+    "name": "特17 康藏、青藏公路",
     "nameZh": "特17 康藏、青藏公路",
     "year": 1956,
     "date": "1956年3月30日",
@@ -146,7 +146,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:312",
-    "name": "Suspension Bridge over Tatu River",
+    "name": "特17 康藏、青藏公路",
     "nameZh": "特17 康藏、青藏公路",
     "year": 1956,
     "date": "1956年3月30日",
@@ -169,7 +169,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:313",
-    "name": "Opening Ceremony, Lhasa",
+    "name": "特17 康藏、青藏公路",
     "nameZh": "特17 康藏、青藏公路",
     "year": 1956,
     "date": "1956年3月30日",
@@ -192,7 +192,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:314",
-    "name": "Summer Palace and Marble Boat",
+    "name": "特15 首都名胜",
     "nameZh": "特15 首都名胜",
     "year": 1956,
     "date": "1956年6月15日",
@@ -215,7 +215,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:315",
-    "name": "Peihai Park with Jade Belt Marble Bridge",
+    "name": "特15 首都名胜",
     "nameZh": "特15 首都名胜",
     "year": 1956,
     "date": "1956年6月15日",
@@ -238,7 +238,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:316",
-    "name": "Temple of Heaven",
+    "name": "特15 首都名胜",
     "nameZh": "特15 首都名胜",
     "year": 1956,
     "date": "1956年6月15日",
@@ -261,7 +261,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:317",
-    "name": "Great Throne Hall",
+    "name": "特15 首都名胜",
     "nameZh": "特15 首都名胜",
     "year": 1956,
     "date": "1956年6月15日",
@@ -284,7 +284,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:319",
-    "name": "Salt making",
+    "name": "特14 东汉墓室壁画",
     "nameZh": "特14 东汉墓室壁画",
     "year": 1956,
     "date": "1956年10月1日",
@@ -307,7 +307,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:320",
-    "name": "Dwelling of the Eastern Han period",
+    "name": "特14 东汉墓室壁画",
     "nameZh": "特14 东汉墓室壁画",
     "year": 1956,
     "date": "1956年10月1日",
@@ -330,7 +330,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:321",
-    "name": "Duck hunting and harversting",
+    "name": "特14 东汉墓室壁画",
     "nameZh": "特14 东汉墓室壁画",
     "year": 1956,
     "date": "1956年10月1日",
@@ -353,7 +353,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:322",
-    "name": "Carriage crossing bridge",
+    "name": "特14 东汉墓室壁画",
     "nameZh": "特14 东汉墓室壁画",
     "year": 1956,
     "date": "1956年10月1日",
@@ -376,7 +376,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:323",
-    "name": "Ancient Coins and “Save”",
+    "name": "特16 节约储蓄",
     "nameZh": "特16 节约储蓄",
     "year": 1956,
     "date": "1956年10月1日",
@@ -399,7 +399,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:324",
-    "name": "Ancient Coins and “Save”",
+    "name": "特16 节约储蓄",
     "nameZh": "特16 节约储蓄",
     "year": 1956,
     "date": "1956年10月1日",
@@ -422,7 +422,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:325",
-    "name": "Gate of Heavenly Peace",
+    "name": "纪37 中国共产党第八次全国代表大会",
     "nameZh": "纪37 中国共产党第八次全国代表大会",
     "year": 1956,
     "date": "1956年11月10日",
@@ -445,7 +445,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:326",
-    "name": "Gate of Heavenly Peace",
+    "name": "纪37 中国共产党第八次全国代表大会",
     "nameZh": "纪37 中国共产党第八次全国代表大会",
     "year": 1956,
     "date": "1956年11月10日",
@@ -468,7 +468,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:327",
-    "name": "Gate of Heavenly Peace",
+    "name": "纪37 中国共产党第八次全国代表大会",
     "nameZh": "纪37 中国共产党第八次全国代表大会",
     "year": 1956,
     "date": "1956年11月10日",
@@ -491,7 +491,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:328",
-    "name": "Sun Yat-sen",
+    "name": "纪38 孙中山诞生九十周年",
     "nameZh": "纪38 孙中山诞生九十周年",
     "year": 1956,
     "date": "1956年11月12日",
@@ -514,7 +514,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:329",
-    "name": "Sun Yat-sen",
+    "name": "纪38 孙中山诞生九十周年",
     "nameZh": "纪38 孙中山诞生九十周年",
     "year": 1956,
     "date": "1956年11月12日",
@@ -537,7 +537,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:BL1",
-    "name": "Chang Heng",
+    "name": "特12 新中国的科学家（古代）",
     "nameZh": "特12 新中国的科学家（古代）",
     "year": 1956,
     "date": "1956年1月1日",
@@ -560,7 +560,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:BL2",
-    "name": "Tsu Chung-chih",
+    "name": "特12 新中国的科学家（古代）",
     "nameZh": "特12 新中国的科学家（古代）",
     "year": 1956,
     "date": "1956年1月1日",
@@ -583,7 +583,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:BL3",
-    "name": "Chang Sui",
+    "name": "特12 新中国的科学家（古代）",
     "nameZh": "特12 新中国的科学家（古代）",
     "year": 1956,
     "date": "1956年1月1日",
@@ -606,7 +606,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:BL4",
-    "name": "Li Shih-chen",
+    "name": "特12 新中国的科学家（古代）",
     "nameZh": "特12 新中国的科学家（古代）",
     "year": 1956,
     "date": "1956年1月1日",
@@ -629,7 +629,7 @@ const YEAR_1956 = [
   },
   {
     "zihao": "Mi:V",
-    "name": "Gate of Heavenly Peace",
+    "name": "特15 首都名胜",
     "nameZh": "特15 首都名胜",
     "year": 1956,
     "date": "1956年6月15日",
@@ -642,7 +642,7 @@ const YEAR_1956 = [
     "spec": "44×35毫米",
     "designer": "",
     "printer": "",
-    "intro": "版 withdrawn, only few copies were sold. Very rare - the image shows a later reprint.  邮票 Number 目录: No.292 exists with sun rays in background.",
+    "intro": "版 , . - . 邮票 目录: .292 .",
     "stamps": [],
     "mintage": "",
     "color": "红橘色",

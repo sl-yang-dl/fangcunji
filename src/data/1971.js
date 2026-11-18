@@ -8,7 +8,7 @@
 const YEAR_1971 = [
   {
     "zihao": "Mi:1062",
-    "name": "Tiananmen Square",
+    "name": "普12 革命圣地图案（建筑）",
     "nameZh": "普12 革命圣地图案（建筑）",
     "year": 1971,
     "date": "1971年2月10日",
@@ -21,7 +21,7 @@ const YEAR_1971 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "建筑物",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "浅橙红色",
@@ -31,7 +31,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1070",
-    "name": "100 years Paris Commune",
+    "name": "编8-11 巴黎公社一百周年",
     "nameZh": "编8-11 巴黎公社一百周年",
     "year": 1971,
     "date": "1971年3月18日",
@@ -54,7 +54,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1071",
-    "name": "100 years Paris Commune",
+    "name": "编8-11 巴黎公社一百周年",
     "nameZh": "编8-11 巴黎公社一百周年",
     "year": 1971,
     "date": "1971年3月18日",
@@ -77,7 +77,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1072",
-    "name": "100 years Paris Commune",
+    "name": "编8-11 巴黎公社一百周年",
     "nameZh": "编8-11 巴黎公社一百周年",
     "year": 1971,
     "date": "1971年3月18日",
@@ -100,7 +100,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1073",
-    "name": "100 years Paris Commune",
+    "name": "编8-11 巴黎公社一百周年",
     "nameZh": "编8-11 巴黎公社一百周年",
     "year": 1971,
     "date": "1971年3月18日",
@@ -123,7 +123,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1074",
-    "name": "Communist Party Building, Shanghai",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -146,7 +146,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1075",
-    "name": "Training Institute",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -169,7 +169,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1076",
-    "name": "Ching Kang Peaks",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -192,7 +192,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1077",
-    "name": "Conference Building, Tsunyi",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -215,7 +215,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1078",
-    "name": "Yenan, Pagoda",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -238,7 +238,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1079",
-    "name": "Industrial workers",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -261,7 +261,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1079",
-    "name": "50 years of Chinese Communist Party se-tenant",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -284,7 +284,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1080",
-    "name": "50 years of Chinese Communist Party",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -307,7 +307,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1081",
-    "name": "50 years of Chinese Communist Party",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -330,7 +330,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1082",
-    "name": "50 years of Chinese Communist Party",
+    "name": "编1-6 中国共产党成立五十周年",
     "nameZh": "编1-6 中国共产党成立五十周年",
     "year": 1971,
     "date": "1971年7月1日",
@@ -353,7 +353,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1083",
-    "name": "First National Congress of the CPC",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1971,
     "date": "1971年12月20日",
@@ -366,7 +366,7 @@ const YEAR_1971 = [
     "spec": "26×31毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -376,7 +376,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1084",
-    "name": "Agriculture Building, Canton",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1971,
     "date": "1971年9月20日",
@@ -389,7 +389,7 @@ const YEAR_1971 = [
     "spec": "31×26毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -399,7 +399,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1085",
-    "name": "1929 Party Day House Pu Tien",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1971,
     "date": "1971年9月20日",
@@ -412,7 +412,7 @@ const YEAR_1971 = [
     "spec": "31×26毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -422,7 +422,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1088",
-    "name": "Monument,Tsu Ping",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1971,
     "date": "1971年9月20日",
@@ -435,7 +435,7 @@ const YEAR_1971 = [
     "spec": "31×26毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -445,7 +445,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1089",
-    "name": "Yenan",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1971,
     "date": "1971年12月20日",
@@ -458,7 +458,7 @@ const YEAR_1971 = [
     "spec": "31×26毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -468,7 +468,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1090",
-    "name": "Shao Shan Village, Birthplace of Mao",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1971,
     "date": "1971年9月20日",
@@ -481,7 +481,7 @@ const YEAR_1971 = [
     "spec": "31×26毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -491,7 +491,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1091",
-    "name": "Conference building, Tsunyi",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1971,
     "date": "1971年9月20日",
@@ -504,7 +504,7 @@ const YEAR_1971 = [
     "spec": "31×26毫米",
     "designer": "",
     "printer": "",
-    "intro": "建筑物",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -514,7 +514,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1092",
-    "name": "Chingkang Peaks",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1971,
     "date": "1971年9月20日",
@@ -527,7 +527,7 @@ const YEAR_1971 = [
     "spec": "31×26毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -537,7 +537,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1093",
-    "name": "People's Hall Peking",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1971,
     "date": "1971年9月20日",
@@ -550,7 +550,7 @@ const YEAR_1971 = [
     "spec": "31×26毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -560,7 +560,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1094",
-    "name": "Asian African table tennis competitions",
+    "name": "编21-24 亚非乒乓球友好邀请赛",
     "nameZh": "编21-24 亚非乒乓球友好邀请赛",
     "year": 1971,
     "date": "1971年11月3日",
@@ -583,7 +583,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1095",
-    "name": "Asian African table tennis competitions",
+    "name": "编21-24 亚非乒乓球友好邀请赛",
     "nameZh": "编21-24 亚非乒乓球友好邀请赛",
     "year": 1971,
     "date": "1971年11月3日",
@@ -606,7 +606,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1096",
-    "name": "Asian African table tennis competitions",
+    "name": "编21-24 亚非乒乓球友好邀请赛",
     "nameZh": "编21-24 亚非乒乓球友好邀请赛",
     "year": 1971,
     "date": "1971年11月3日",
@@ -629,7 +629,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1097",
-    "name": "Asian African table tennis competitions",
+    "name": "编21-24 亚非乒乓球友好邀请赛",
     "nameZh": "编21-24 亚非乒乓球友好邀请赛",
     "year": 1971,
     "date": "1971年11月3日",
@@ -652,7 +652,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1098",
-    "name": "Enver Hoxha",
+    "name": "编13-16 阿尔巴尼亚劳动党三十周年",
     "nameZh": "编13-16 阿尔巴尼亚劳动党三十周年",
     "year": 1971,
     "date": "1971年11月8日",
@@ -675,7 +675,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1099",
-    "name": "Museum - Party's Birthplace",
+    "name": "编13-16 阿尔巴尼亚劳动党三十周年",
     "nameZh": "编13-16 阿尔巴尼亚劳动党三十周年",
     "year": 1971,
     "date": "1971年11月8日",
@@ -698,7 +698,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1100",
-    "name": "Albania Flag",
+    "name": "编13-16 阿尔巴尼亚劳动党三十周年",
     "nameZh": "编13-16 阿尔巴尼亚劳动党三十周年",
     "year": 1971,
     "date": "1971年11月8日",
@@ -721,7 +721,7 @@ const YEAR_1971 = [
   },
   {
     "zihao": "Mi:1101",
-    "name": "Soldier and worker",
+    "name": "编13-16 阿尔巴尼亚劳动党三十周年",
     "nameZh": "编13-16 阿尔巴尼亚劳动党三十周年",
     "year": 1971,
     "date": "1971年11月8日",

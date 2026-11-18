@@ -8,7 +8,7 @@
 const YEAR_1980 = [
   {
     "zihao": "Mi:1491",
-    "name": "Jingshan Park",
+    "name": "景山公园",
     "nameZh": "景山公园",
     "year": 1980,
     "date": "",
@@ -21,7 +21,7 @@ const YEAR_1980 = [
     "spec": "25×40毫米",
     "designer": "",
     "printer": "",
-    "intro": "树,公园,夏天,宫殿,森林,植物 (花卉)",
+    "intro": "树,公园,夏天,宫殿,森林,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -31,7 +31,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1493",
-    "name": "Beihai Park",
+    "name": "北海公园",
     "nameZh": "北海公园",
     "year": 1980,
     "date": "",
@@ -54,7 +54,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1565",
-    "name": "Peonies",
+    "name": "牡丹",
     "nameZh": "牡丹",
     "year": 1980,
     "date": "1980年1月15日",
@@ -67,7 +67,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "画",
+    "intro": "牡丹花大色艳，素有“国色天香”“花中之王”之誉，象征富贵吉祥。邮票撷取洛阳、菏泽名品，工笔重彩尽显雍容华贵。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -77,7 +77,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1566",
-    "name": "Squirrels and grapes",
+    "name": "松鼠葡萄",
     "nameZh": "松鼠葡萄",
     "year": 1980,
     "date": "1980年1月15日",
@@ -100,7 +100,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1567",
-    "name": "Torch, jug and crabs",
+    "name": "油灯螃蟹",
     "nameZh": "油灯螃蟹",
     "year": 1980,
     "date": "1980年1月15日",
@@ -123,7 +123,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1568",
-    "name": "Tadpoles in spring",
+    "name": "小蝌蚪",
     "nameZh": "小蝌蚪",
     "year": 1980,
     "date": "1980年1月15日",
@@ -146,7 +146,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1569",
-    "name": "Chicks",
+    "name": "小鸡",
     "nameZh": "小鸡",
     "year": 1980,
     "date": "1980年5月20日",
@@ -169,7 +169,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1570",
-    "name": "Lotus",
+    "name": "荷花",
     "nameZh": "荷花",
     "year": 1980,
     "date": "1980年5月20日",
@@ -192,7 +192,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1571",
-    "name": "Red plums",
+    "name": "红梅",
     "nameZh": "红梅",
     "year": 1980,
     "date": "1980年5月20日",
@@ -215,7 +215,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1572",
-    "name": "Kingfisher",
+    "name": "翠鸟",
     "nameZh": "翠鸟",
     "year": 1980,
     "date": "1980年5月20日",
@@ -238,7 +238,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1573",
-    "name": "Pumpkins",
+    "name": "南瓜",
     "nameZh": "南瓜",
     "year": 1980,
     "date": "1980年5月20日",
@@ -251,7 +251,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "画,植物 (花卉)",
+    "intro": "画,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -261,7 +261,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1574",
-    "name": "Autumn",
+    "name": "秋色",
     "nameZh": "秋色",
     "year": 1980,
     "date": "1980年5月20日",
@@ -274,7 +274,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "画,植物 (花卉)",
+    "intro": "画,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -284,7 +284,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1575",
-    "name": "Wisteria",
+    "name": "藤萝",
     "nameZh": "藤萝",
     "year": 1980,
     "date": "1980年5月20日",
@@ -297,7 +297,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "画,植物 (花卉)",
+    "intro": "画,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -307,7 +307,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1576",
-    "name": "Chrysanthemums",
+    "name": "菊花",
     "nameZh": "菊花",
     "year": 1980,
     "date": "1980年5月20日",
@@ -320,7 +320,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,画",
+    "intro": "菊花凌霜而开，与梅、兰、竹并称“四君子”，象征高洁。邮票汇集名贵品种，姿态纷呈，为中国传统名花系列之一。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -330,7 +330,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1577",
-    "name": "Shrimps",
+    "name": "虾",
     "nameZh": "虾",
     "year": 1980,
     "date": "1980年1月15日",
@@ -353,7 +353,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1578",
-    "name": "Litchi",
+    "name": "荔枝",
     "nameZh": "荔枝",
     "year": 1980,
     "date": "1980年1月15日",
@@ -366,7 +366,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "画,植物 (花卉)",
+    "intro": "画,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -376,7 +376,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1579",
-    "name": "Cabbage and mushrooms",
+    "name": "白菜蘑菇",
     "nameZh": "白菜蘑菇",
     "year": 1980,
     "date": "1980年1月15日",
@@ -399,7 +399,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1580",
-    "name": "Peaches",
+    "name": "桃",
     "nameZh": "桃",
     "year": 1980,
     "date": "1980年1月15日",
@@ -422,7 +422,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1581",
-    "name": "Hyacynth",
+    "name": "风信子（小型张）",
     "nameZh": "风信子（小型张）",
     "year": 1980,
     "date": "1980年5月20日",
@@ -445,7 +445,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1582",
-    "name": "Meng Liang",
+    "name": "孟良",
     "nameZh": "孟良",
     "year": 1980,
     "date": "1980年1月25日",
@@ -468,7 +468,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1583",
-    "name": "Li Kui",
+    "name": "李逵",
     "nameZh": "李逵",
     "year": 1980,
     "date": "1980年1月25日",
@@ -491,7 +491,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1584",
-    "name": "Huang Gai",
+    "name": "黄盖",
     "nameZh": "黄盖",
     "year": 1980,
     "date": "1980年1月25日",
@@ -514,7 +514,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1585",
-    "name": "Monkey King",
+    "name": "孙悟空",
     "nameZh": "孙悟空",
     "year": 1980,
     "date": "1980年1月25日",
@@ -537,7 +537,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1586",
-    "name": "Lu Zhishen",
+    "name": "鲁智深",
     "nameZh": "鲁智深",
     "year": 1980,
     "date": "1980年1月25日",
@@ -560,7 +560,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1587",
-    "name": "Lian Po",
+    "name": "廉颇",
     "nameZh": "廉颇",
     "year": 1980,
     "date": "1980年1月25日",
@@ -583,7 +583,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1588",
-    "name": "Zhang Fei",
+    "name": "张飞",
     "nameZh": "张飞",
     "year": 1980,
     "date": "1980年1月25日",
@@ -606,7 +606,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1589",
-    "name": "Dou Erdun",
+    "name": "窦尔敦",
     "nameZh": "窦尔敦",
     "year": 1980,
     "date": "1980年1月25日",
@@ -629,7 +629,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1590",
-    "name": "Emblem of Chinese NOC",
+    "name": "中国奥委会会徽",
     "nameZh": "中国奥委会会徽",
     "year": 1980,
     "date": "1980年2月13日",
@@ -652,7 +652,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1591",
-    "name": "Ice speed skating",
+    "name": "速滑",
     "nameZh": "速滑",
     "year": 1980,
     "date": "1980年2月13日",
@@ -675,7 +675,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1592",
-    "name": "Figure Skating",
+    "name": "花样滑冰",
     "nameZh": "花样滑冰",
     "year": 1980,
     "date": "1980年2月13日",
@@ -698,7 +698,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1593",
-    "name": "Skiing",
+    "name": "滑雪",
     "nameZh": "滑雪",
     "year": 1980,
     "date": "1980年2月13日",
@@ -721,7 +721,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1594",
-    "name": "Year of the Monkey",
+    "name": "庚申年",
     "nameZh": "庚申年",
     "year": 1980,
     "date": "1980年2月15日",
@@ -734,7 +734,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "邵柏林、黄永玉",
     "printer": "",
-    "intro": "This 邮票 has been extensively forged over the decades. On the 原版, the black ink was 印刷： 凹版, which gives the black portions of the 邮票 a slightly raised, three dimensional appearance.",
+    "intro": "1980年发行的庚申年猴票是新中国第一套生肖邮票，由画家黄永玉作画、邵柏林设计、姜伟杰雕刻，采用影写版与雕刻版套印。因印量小、消耗大、存世稀少，市价连年攀升，被誉为“金猴”，是中国邮票收藏的标志性品种。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -744,7 +744,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1595",
-    "name": "70th International Working Women's Day: Clara Zetkin",
+    "name": "国际劳动妇女节70周年",
     "nameZh": "国际劳动妇女节70周年",
     "year": 1980,
     "date": "1980年3月8日",
@@ -767,7 +767,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1596",
-    "name": "Reafforestation",
+    "name": "植树造林",
     "nameZh": "植树造林",
     "year": 1980,
     "date": "1980年3月8日",
@@ -790,7 +790,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1597",
-    "name": "Reafforestation",
+    "name": "植树造林",
     "nameZh": "植树造林",
     "year": 1980,
     "date": "1980年3月8日",
@@ -813,7 +813,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1598",
-    "name": "Reafforestation",
+    "name": "植树造林",
     "nameZh": "植树造林",
     "year": 1980,
     "date": "1980年3月8日",
@@ -836,7 +836,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1599",
-    "name": "Reafforestation",
+    "name": "植树造林",
     "nameZh": "植树造林",
     "year": 1980,
     "date": "1980年3月8日",
@@ -859,7 +859,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1600",
-    "name": "2nd Conference of the Chinese Organization for Science",
+    "name": "中国科协第二次全国代表大会",
     "nameZh": "中国科协第二次全国代表大会",
     "year": 1980,
     "date": "1980年3月12日",
@@ -882,7 +882,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1601",
-    "name": "Transport by ship",
+    "name": "邮政运输（轮船）",
     "nameZh": "邮政运输（轮船）",
     "year": 1980,
     "date": "1980年3月20日",
@@ -905,7 +905,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1602",
-    "name": "Transport by bus",
+    "name": "邮政运输（汽车）",
     "nameZh": "邮政运输（汽车）",
     "year": 1980,
     "date": "1980年3月20日",
@@ -928,7 +928,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1603",
-    "name": "Transport by train",
+    "name": "邮政运输（火车）",
     "nameZh": "邮政运输（火车）",
     "year": 1980,
     "date": "1980年3月20日",
@@ -951,7 +951,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1604",
-    "name": "Transport by aircraft",
+    "name": "邮政运输（飞机）",
     "nameZh": "邮政运输（飞机）",
     "year": 1980,
     "date": "1980年3月20日",
@@ -974,7 +974,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1605",
-    "name": "Anti-smoking Campaign",
+    "name": "戒烟",
     "nameZh": "戒烟",
     "year": 1980,
     "date": "1980年4月7日",
@@ -997,7 +997,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1606",
-    "name": "Anti-smoking Campaign",
+    "name": "戒烟",
     "nameZh": "戒烟",
     "year": 1980,
     "date": "1980年4月7日",
@@ -1020,7 +1020,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1607",
-    "name": "Jian Zhen Hall",
+    "name": "鉴真纪念堂",
     "nameZh": "鉴真纪念堂",
     "year": 1980,
     "date": "1980年4月13日",
@@ -1043,7 +1043,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1608",
-    "name": "Jian Zhen monument",
+    "name": "鉴真纪念碑",
     "nameZh": "鉴真纪念碑",
     "year": 1980,
     "date": "1980年4月13日",
@@ -1066,7 +1066,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1609",
-    "name": "Jian Zhen travelling to Japan",
+    "name": "鉴真东渡",
     "nameZh": "鉴真东渡",
     "year": 1980,
     "date": "1980年4月13日",
@@ -1089,7 +1089,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1610",
-    "name": "110th Birthday of Vladimir Lenin",
+    "name": "列宁诞生110周年",
     "nameZh": "列宁诞生110周年",
     "year": 1980,
     "date": "1980年4月22日",
@@ -1112,7 +1112,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1611",
-    "name": "Swallow-shaped kites",
+    "name": "风筝（雏燕）",
     "nameZh": "风筝（雏燕）",
     "year": 1980,
     "date": "1980年5月10日",
@@ -1135,7 +1135,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1612",
-    "name": "Swallow-shaped kites",
+    "name": "风筝（雏燕）",
     "nameZh": "风筝（雏燕）",
     "year": 1980,
     "date": "1980年5月10日",
@@ -1158,7 +1158,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1613",
-    "name": "Swallow-shaped kites",
+    "name": "风筝（沙燕）",
     "nameZh": "风筝（沙燕）",
     "year": 1980,
     "date": "1980年5月10日",
@@ -1181,7 +1181,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1614",
-    "name": "Swallow-shaped kites",
+    "name": "风筝（沙燕）",
     "nameZh": "风筝（沙燕）",
     "year": 1980,
     "date": "1980年5月10日",
@@ -1204,7 +1204,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1615",
-    "name": "The Fable of Bump",
+    "name": "咕咚",
     "nameZh": "咕咚",
     "year": 1980,
     "date": "1980年6月1日",
@@ -1227,7 +1227,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1615",
-    "name": "The Fable of Bump",
+    "name": "咕咚（连票）",
     "nameZh": "咕咚（连票）",
     "year": 1980,
     "date": "1980年6月1日",
@@ -1250,7 +1250,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1616",
-    "name": "The Fable of Bump",
+    "name": "咕咚",
     "nameZh": "咕咚",
     "year": 1980,
     "date": "1980年6月1日",
@@ -1273,7 +1273,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1617",
-    "name": "The Fable of Bump",
+    "name": "咕咚",
     "nameZh": "咕咚",
     "year": 1980,
     "date": "1980年6月1日",
@@ -1296,7 +1296,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1618",
-    "name": "The Fable of Bump",
+    "name": "咕咚",
     "nameZh": "咕咚",
     "year": 1980,
     "date": "1980年6月1日",
@@ -1319,7 +1319,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1619",
-    "name": "Peking Airport Opening",
+    "name": "北京首都机场",
     "nameZh": "北京首都机场",
     "year": 1980,
     "date": "1980年6月20日",
@@ -1342,7 +1342,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1620",
-    "name": "Peking Airport Opening",
+    "name": "北京首都机场",
     "nameZh": "北京首都机场",
     "year": 1980,
     "date": "1980年6月20日",
@@ -1365,7 +1365,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1621",
-    "name": "Sika Stag (Cervus nippon)",
+    "name": "梅花鹿",
     "nameZh": "梅花鹿",
     "year": 1980,
     "date": "1980年7月18日",
@@ -1388,7 +1388,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1622",
-    "name": "Sika Deer (Cervus nippon)",
+    "name": "梅花鹿",
     "nameZh": "梅花鹿",
     "year": 1980,
     "date": "1980年7月18日",
@@ -1411,7 +1411,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1623",
-    "name": "Sika Deer (Cervus nippon)",
+    "name": "梅花鹿",
     "nameZh": "梅花鹿",
     "year": 1980,
     "date": "1980年7月18日",
@@ -1434,7 +1434,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1624",
-    "name": "Lotus",
+    "name": "荷花",
     "nameZh": "荷花",
     "year": 1980,
     "date": "1980年8月4日",
@@ -1447,7 +1447,7 @@ const YEAR_1980 = [
     "spec": "31×38.5毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "鲜花,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1457,7 +1457,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1625",
-    "name": "Lotus",
+    "name": "荷花",
     "nameZh": "荷花",
     "year": 1980,
     "date": "1980年8月4日",
@@ -1470,7 +1470,7 @@ const YEAR_1980 = [
     "spec": "31×38.5毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "鲜花,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1480,7 +1480,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1626",
-    "name": "Lotus",
+    "name": "荷花",
     "nameZh": "荷花",
     "year": 1980,
     "date": "1980年8月4日",
@@ -1493,7 +1493,7 @@ const YEAR_1980 = [
     "spec": "31×38.5毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "鲜花,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1503,7 +1503,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1627",
-    "name": "Lotus",
+    "name": "荷花",
     "nameZh": "荷花",
     "year": 1980,
     "date": "1980年8月4日",
@@ -1516,7 +1516,7 @@ const YEAR_1980 = [
     "spec": "31×38.5毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "鲜花,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1526,7 +1526,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1628",
-    "name": "Lotus",
+    "name": "荷花（小型张）",
     "nameZh": "荷花（小型张）",
     "year": 1980,
     "date": "1980年8月4日",
@@ -1549,7 +1549,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1629",
-    "name": "Pearls cave",
+    "name": "桂林山水（明珠洞）",
     "nameZh": "桂林山水（明珠洞）",
     "year": 1980,
     "date": "1980年8月30日",
@@ -1572,7 +1572,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1630",
-    "name": "River scene",
+    "name": "桂林山水（漓江）",
     "nameZh": "桂林山水（漓江）",
     "year": 1980,
     "date": "1980年8月30日",
@@ -1595,7 +1595,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1631",
-    "name": "Nine Horses Fresco Hill",
+    "name": "桂林山水（九马画山）",
     "nameZh": "桂林山水（九马画山）",
     "year": 1980,
     "date": "1980年8月30日",
@@ -1618,7 +1618,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1632",
-    "name": "Banyan tree",
+    "name": "桂林山水（古榕树）",
     "nameZh": "桂林山水（古榕树）",
     "year": 1980,
     "date": "1980年8月30日",
@@ -1641,7 +1641,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1633",
-    "name": "Western Hills at sunset",
+    "name": "桂林山水（夕照）",
     "nameZh": "桂林山水（夕照）",
     "year": 1980,
     "date": "1980年8月30日",
@@ -1664,7 +1664,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1634",
-    "name": "Moon over Lijiang River",
+    "name": "桂林山水（漓江月夜）",
     "nameZh": "桂林山水（漓江月夜）",
     "year": 1980,
     "date": "1980年8月30日",
@@ -1687,7 +1687,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1635",
-    "name": "Old ferry",
+    "name": "桂林山水（古渡）",
     "nameZh": "桂林山水（古渡）",
     "year": 1980,
     "date": "1980年8月30日",
@@ -1710,7 +1710,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1636",
-    "name": "Yangshuo",
+    "name": "桂林山水（阳朔）",
     "nameZh": "桂林山水（阳朔）",
     "year": 1980,
     "date": "1980年8月30日",
@@ -1733,7 +1733,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1637",
-    "name": "China Exhibition",
+    "name": "中国国际贸易中心",
     "nameZh": "中国国际贸易中心",
     "year": 1980,
     "date": "1980年9月13日",
@@ -1756,7 +1756,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1638",
-    "name": "China Exhibition",
+    "name": "中国国际贸易中心",
     "nameZh": "中国国际贸易中心",
     "year": 1980,
     "date": "1980年9月13日",
@@ -1779,7 +1779,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1639",
-    "name": "2050th anniversary of the foundation of Dacia (Romania)",
+    "name": "达契亚国建国2050周年",
     "nameZh": "达契亚国建国2050周年",
     "year": 1980,
     "date": "1980年9月20日",
@@ -1802,7 +1802,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1640",
-    "name": "\"Clouds over Huangshan\", by Lin Haisu",
+    "name": "联合国教科文组织绘画展（黄山云海）",
     "nameZh": "联合国教科文组织绘画展（黄山云海）",
     "year": 1980,
     "date": "1980年10月8日",
@@ -1815,7 +1815,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "联合国教科文组织,艺术,山,云,印章（标志）",
+    "intro": "黄山以奇松、怪石、云海、温泉、冬雪“五绝”闻名，素有“天下第一奇山”之誉。邮票以写实摄影再现莲花峰、光明顶、迎客松等胜景，展现自然造化之妙。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1825,7 +1825,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1641",
-    "name": "\"Birds on a Magnolia branch\", by Yu Feian",
+    "name": "联合国教科文组织绘画展（白玉兰）",
     "nameZh": "联合国教科文组织绘画展（白玉兰）",
     "year": 1980,
     "date": "1980年10月8日",
@@ -1848,7 +1848,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1642",
-    "name": "\"Two-humped camels\", by Wu Zuoren",
+    "name": "联合国教科文组织绘画展（骆驼）",
     "nameZh": "联合国教科文组织绘画展（骆驼）",
     "year": 1980,
     "date": "1980年10月8日",
@@ -1871,7 +1871,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1643",
-    "name": "Scenes from Tarrying Garden",
+    "name": "苏州园林——留园",
     "nameZh": "苏州园林——留园",
     "year": 1980,
     "date": "1980年10月25日",
@@ -1884,7 +1884,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "园艺",
+    "intro": "苏州古典园林巧于因借、精于体宜，叠山理水、移步换景，为世界文化遗产。邮票辑名园胜景，尽显江南文人意趣。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1894,7 +1894,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1644",
-    "name": "Scenes from Tarrying Garden",
+    "name": "苏州园林——留园",
     "nameZh": "苏州园林——留园",
     "year": 1980,
     "date": "1980年10月25日",
@@ -1907,7 +1907,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "（暂无中文简介）",
+    "intro": "苏州古典园林巧于因借、精于体宜，叠山理水、移步换景，为世界文化遗产。邮票辑名园胜景，尽显江南文人意趣。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1917,7 +1917,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1645",
-    "name": "Scenes from Tarrying Garden",
+    "name": "苏州园林——留园",
     "nameZh": "苏州园林——留园",
     "year": 1980,
     "date": "1980年10月25日",
@@ -1930,7 +1930,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "园艺,建筑物",
+    "intro": "苏州古典园林巧于因借、精于体宜，叠山理水、移步换景，为世界文化遗产。邮票辑名园胜景，尽显江南文人意趣。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1940,7 +1940,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1646",
-    "name": "Scenes from Tarrying Garden",
+    "name": "苏州园林——留园",
     "nameZh": "苏州园林——留园",
     "year": 1980,
     "date": "1980年10月25日",
@@ -1953,7 +1953,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "园艺,建筑物",
+    "intro": "苏州古典园林巧于因借、精于体宜，叠山理水、移步换景，为世界文化遗产。邮票辑名园胜景，尽显江南文人意趣。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1963,7 +1963,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1647",
-    "name": "Xu Guang-qi",
+    "name": "徐光启",
     "nameZh": "徐光启",
     "year": 1980,
     "date": "1980年11月20日",
@@ -1986,7 +1986,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1648",
-    "name": "Li Bing",
+    "name": "李冰",
     "nameZh": "李冰",
     "year": 1980,
     "date": "1980年11月20日",
@@ -2009,7 +2009,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1649",
-    "name": "jia Sixie",
+    "name": "贾思勰",
     "nameZh": "贾思勰",
     "year": 1980,
     "date": "1980年11月20日",
@@ -2032,7 +2032,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1650",
-    "name": "Huang Dao-po",
+    "name": "黄道婆",
     "nameZh": "黄道婆",
     "year": 1980,
     "date": "1980年11月20日",
@@ -2055,7 +2055,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1651",
-    "name": "Pistol shooting",
+    "name": "手枪射击",
     "nameZh": "手枪射击",
     "year": 1980,
     "date": "1980年11月26日",
@@ -2078,7 +2078,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1652",
-    "name": "Gymnastics",
+    "name": "体操",
     "nameZh": "体操",
     "year": 1980,
     "date": "1980年11月26日",
@@ -2101,7 +2101,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1653",
-    "name": "High diving",
+    "name": "跳高",
     "nameZh": "跳高",
     "year": 1980,
     "date": "1980年11月26日",
@@ -2124,7 +2124,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1654",
-    "name": "Volleyball",
+    "name": "排球",
     "nameZh": "排球",
     "year": 1980,
     "date": "1980年11月26日",
@@ -2147,7 +2147,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1655",
-    "name": "Archery",
+    "name": "射箭",
     "nameZh": "射箭",
     "year": 1980,
     "date": "1980年11月26日",
@@ -2170,7 +2170,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1656",
-    "name": "Baiji (Lipotes vexillifer)",
+    "name": "白鱀豚",
     "nameZh": "白鱀豚",
     "year": 1980,
     "date": "1980年12月15日",
@@ -2183,7 +2183,7 @@ const YEAR_1980 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "（暂无中文简介）",
+    "intro": "此为中国特有或濒危珍稀物种，邮票以写实笔法刻画其形神，呼吁生态保护与生物多样性。",
     "stamps": [],
     "mintage": "",
     "color": "黛青色",
@@ -2193,7 +2193,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:1657",
-    "name": "Baiji (Lipotes vexillifer)",
+    "name": "白鱀豚",
     "nameZh": "白鱀豚",
     "year": 1980,
     "date": "1980年12月15日",
@@ -2206,7 +2206,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "环游潜底",
+    "intro": "此为中国特有或濒危珍稀物种，邮票以写实笔法刻画其形神，呼吁生态保护与生物多样性。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -2216,7 +2216,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:BL22",
-    "name": "Hyacynth",
+    "name": "齐白石作品选（小型张）",
     "nameZh": "齐白石作品选（小型张）",
     "year": 1980,
     "date": "1980年5月20日",
@@ -2229,7 +2229,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,画",
+    "intro": "齐白石为近现代国画大师，工花鸟草虫、虾蟹果蔬，妙在似与不似之间。邮票辑其代表作，质朴天趣，盎然生机。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -2239,7 +2239,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Mi:BL23",
-    "name": "Lotus",
+    "name": "荷花（小型张）",
     "nameZh": "荷花（小型张）",
     "year": 1980,
     "date": "1980年8月4日",
@@ -2252,7 +2252,7 @@ const YEAR_1980 = [
     "spec": "70×144毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "鲜花,植物(花卉)",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -2262,7 +2262,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Yt:CN C2345",
-    "name": "The Fable of Bump booklet",
+    "name": "咕咚（小本票）",
     "nameZh": "咕咚（小本票）",
     "year": 1980,
     "date": "1980年6月1日",
@@ -2285,7 +2285,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Yt:CN C2385a",
-    "name": "Dolphins booklet",
+    "name": "白鱀豚（小本票）",
     "nameZh": "白鱀豚（小本票）",
     "year": 1980,
     "date": "1980年12月15日",
@@ -2298,7 +2298,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "Contains 2 booklet 版张s SG numbers 3030a、3031a Back image shows the first one",
+    "intro": "此为中国特有或濒危珍稀物种，邮票以写实笔法刻画其形神，呼吁生态保护与生物多样性。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -2308,7 +2308,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Sg:CN 3030a",
-    "name": "Dolphins booklet pane",
+    "name": "白鱀豚（小本票内页）",
     "nameZh": "白鱀豚（小本票内页）",
     "year": 1980,
     "date": "1980年12月15日",
@@ -2321,7 +2321,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "哺乳动物,海洋哺乳动物,海景,海豚,动物",
+    "intro": "此为中国特有或濒危珍稀物种，邮票以写实笔法刻画其形神，呼吁生态保护与生物多样性。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -2331,7 +2331,7 @@ const YEAR_1980 = [
   },
   {
     "zihao": "Sg:CN 3031a",
-    "name": "Dolphins booklet pane",
+    "name": "白鱀豚（小本票内页）",
     "nameZh": "白鱀豚（小本票内页）",
     "year": 1980,
     "date": "1980年12月15日",
@@ -2344,7 +2344,7 @@ const YEAR_1980 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "哺乳动物,海洋哺乳动物,海景,海豚,动物",
+    "intro": "此为中国特有或濒危珍稀物种，邮票以写实笔法刻画其形神，呼吁生态保护与生物多样性。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",

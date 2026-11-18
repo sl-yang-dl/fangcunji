@@ -8,7 +8,7 @@
 const YEAR_1966 = [
   {
     "zihao": "Mi:919",
-    "name": "Soccer",
+    "name": "儿童体育",
     "nameZh": "儿童体育",
     "year": 1966,
     "date": "1966年2月25日",
@@ -31,7 +31,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:920",
-    "name": "Racing",
+    "name": "儿童体育",
     "nameZh": "儿童体育",
     "year": 1966,
     "date": "1966年2月25日",
@@ -54,7 +54,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:921",
-    "name": "Tobogganing and skating",
+    "name": "儿童体育",
     "nameZh": "儿童体育",
     "year": 1966,
     "date": "1966年2月25日",
@@ -77,7 +77,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:922",
-    "name": "Gymnastics",
+    "name": "儿童体育",
     "nameZh": "儿童体育",
     "year": 1966,
     "date": "1966年2月25日",
@@ -100,7 +100,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:923",
-    "name": "Swimming",
+    "name": "儿童体育",
     "nameZh": "儿童体育",
     "year": 1966,
     "date": "1966年2月25日",
@@ -123,7 +123,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:924",
-    "name": "Rifle practice",
+    "name": "儿童体育",
     "nameZh": "儿童体育",
     "year": 1966,
     "date": "1966年2月25日",
@@ -146,7 +146,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:925",
-    "name": "Jumping rope",
+    "name": "儿童体育",
     "nameZh": "儿童体育",
     "year": 1966,
     "date": "1966年2月25日",
@@ -169,7 +169,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:926",
-    "name": "Table Tennis",
+    "name": "儿童体育",
     "nameZh": "儿童体育",
     "year": 1966,
     "date": "1966年2月25日",
@@ -192,7 +192,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:927",
-    "name": "Mobile Transformer",
+    "name": "特72 新兴工业（机械）",
     "nameZh": "特72 新兴工业（机械）",
     "year": 1966,
     "date": "1966年3月30日",
@@ -215,7 +215,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:928",
-    "name": "Electron microscope",
+    "name": "特72 新兴工业（机械）",
     "nameZh": "特72 新兴工业（机械）",
     "year": 1966,
     "date": "1966年3月30日",
@@ -238,7 +238,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:929",
-    "name": "Gear Grinding Machine",
+    "name": "特72 新兴工业（机械）",
     "nameZh": "特72 新兴工业（机械）",
     "year": 1966,
     "date": "1966年3月30日",
@@ -261,7 +261,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:930",
-    "name": "Vertical Boring and Turning Machine",
+    "name": "特72 新兴工业（机械）",
     "nameZh": "特72 新兴工业（机械）",
     "year": 1966,
     "date": "1966年3月30日",
@@ -284,7 +284,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:931",
-    "name": "Lathe",
+    "name": "特72 新兴工业（机械）",
     "nameZh": "特72 新兴工业（机械）",
     "year": 1966,
     "date": "1966年3月30日",
@@ -307,7 +307,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:932",
-    "name": "Hydraulic Press",
+    "name": "特72 新兴工业（机械）",
     "nameZh": "特72 新兴工业（机械）",
     "year": 1966,
     "date": "1966年3月30日",
@@ -330,7 +330,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:933",
-    "name": "Milling Machine",
+    "name": "特72 新兴工业（机械）",
     "nameZh": "特72 新兴工业（机械）",
     "year": 1966,
     "date": "1966年3月30日",
@@ -353,7 +353,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:934",
-    "name": "Electron Accelerator",
+    "name": "特72 新兴工业（机械）",
     "nameZh": "特72 新兴工业（机械）",
     "year": 1966,
     "date": "1966年3月30日",
@@ -376,7 +376,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:935",
-    "name": "Military and Civilian Workers",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -399,7 +399,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:936",
-    "name": "Train Conductor",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -422,7 +422,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:937",
-    "name": "Red Cross Worker",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -445,7 +445,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:938",
-    "name": "Kindergarten Teacher",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -468,7 +468,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:939",
-    "name": "Road Sweeper",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -491,7 +491,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:940",
-    "name": "Hairdresser",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -514,7 +514,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:941",
-    "name": "Bus Conductor",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -537,7 +537,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:942",
-    "name": "Traveling Saleswoman",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -560,7 +560,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:943",
-    "name": "Canteen Worker",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -583,7 +583,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:944",
-    "name": "Rural Mail Carrier",
+    "name": "妇女职业",
     "nameZh": "妇女职业",
     "year": 1966,
     "date": "1966年5月10日",
@@ -606,7 +606,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:945",
-    "name": "Afro-Asian Writers' Meeting",
+    "name": "亚非作家紧急会议",
     "nameZh": "亚非作家紧急会议",
     "year": 1966,
     "date": "1966年6月27日",
@@ -629,7 +629,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:946",
-    "name": "Afro-Asian Writers' Meeting",
+    "name": "亚非作家紧急会议",
     "nameZh": "亚非作家紧急会议",
     "year": 1966,
     "date": "1966年6月27日",
@@ -652,7 +652,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:947",
-    "name": "Sun Yat-sen",
+    "name": "孙中山诞生一百周年",
     "nameZh": "孙中山诞生一百周年",
     "year": 1966,
     "date": "1966年11月12日",
@@ -675,7 +675,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:948",
-    "name": "Cultural Revolution",
+    "name": "纪121 无产阶级文化大革命",
     "nameZh": "纪121 无产阶级文化大革命",
     "year": 1966,
     "date": "1966年12月31日",
@@ -688,7 +688,7 @@ const YEAR_1966 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "国家元首,名人",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -698,7 +698,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:949",
-    "name": "1st Sports Festival of the New Asian Movement",
+    "name": "纪121 无产阶级文化大革命",
     "nameZh": "纪121 无产阶级文化大革命",
     "year": 1966,
     "date": "1966年12月31日",
@@ -711,7 +711,7 @@ const YEAR_1966 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "运动,节日",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -721,7 +721,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:950",
-    "name": "1st Sports Festival of the New Asian Movement",
+    "name": "纪121 无产阶级文化大革命",
     "nameZh": "纪121 无产阶级文化大革命",
     "year": 1966,
     "date": "1966年12月31日",
@@ -734,7 +734,7 @@ const YEAR_1966 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "运动,节日",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -744,7 +744,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:951",
-    "name": "1st Sports Festival of the New Asian Movement",
+    "name": "纪121 无产阶级文化大革命",
     "nameZh": "纪121 无产阶级文化大革命",
     "year": 1966,
     "date": "1966年12月31日",
@@ -757,7 +757,7 @@ const YEAR_1966 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "运动,图书,节日",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -767,7 +767,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:952",
-    "name": "Lu Hsun",
+    "name": "鲁迅逝世三十周年",
     "nameZh": "鲁迅逝世三十周年",
     "year": 1966,
     "date": "1966年12月31日",
@@ -790,7 +790,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:953",
-    "name": "Lu Hsun",
+    "name": "鲁迅逝世三十周年",
     "nameZh": "鲁迅逝世三十周年",
     "year": 1966,
     "date": "1966年12月31日",
@@ -813,7 +813,7 @@ const YEAR_1966 = [
   },
   {
     "zihao": "Mi:954",
-    "name": "Lu Hsun",
+    "name": "鲁迅逝世三十周年",
     "nameZh": "鲁迅逝世三十周年",
     "year": 1966,
     "date": "1966年12月31日",

@@ -8,7 +8,7 @@
 const YEAR_1960 = [
   {
     "zihao": "Mi:511",
-    "name": "Crop",
+    "name": "特36 全国农业展览馆",
     "nameZh": "特36 全国农业展览馆",
     "year": 1960,
     "date": "1960年1月20日",
@@ -31,7 +31,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:512",
-    "name": "Exposition Nationale d'Agriculture",
+    "name": "特36 全国农业展览馆",
     "nameZh": "特36 全国农业展览馆",
     "year": 1960,
     "date": "1960年1月20日",
@@ -54,7 +54,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:513",
-    "name": "Cattle",
+    "name": "特36 全国农业展览馆",
     "nameZh": "特36 全国农业展览馆",
     "year": 1960,
     "date": "1960年1月20日",
@@ -77,7 +77,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:514",
-    "name": "Fish",
+    "name": "特36 全国农业展览馆",
     "nameZh": "特36 全国农业展览馆",
     "year": 1960,
     "date": "1960年1月20日",
@@ -100,7 +100,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:515",
-    "name": "Conference Hall,Tsunyi",
+    "name": "遵义会议二十五周年",
     "nameZh": "遵义会议二十五周年",
     "year": 1960,
     "date": "1960年1月25日",
@@ -123,7 +123,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:516",
-    "name": "Mao addressing conference",
+    "name": "遵义会议二十五周年",
     "nameZh": "遵义会议二十五周年",
     "year": 1960,
     "date": "1960年1月25日",
@@ -146,7 +146,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:517",
-    "name": "Crossing Chinsha River",
+    "name": "遵义会议二十五周年",
     "nameZh": "遵义会议二十五周年",
     "year": 1960,
     "date": "1960年1月25日",
@@ -169,7 +169,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:518",
-    "name": "Clara Zetkin (1857-1933)",
+    "name": "纪73 国际妇女节五十周年",
     "nameZh": "纪73 国际妇女节五十周年",
     "year": 1960,
     "date": "1960年3月8日",
@@ -192,7 +192,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:519",
-    "name": "Journée internationale des femmes",
+    "name": "纪73 国际妇女节五十周年",
     "nameZh": "纪73 国际妇女节五十周年",
     "year": 1960,
     "date": "1960年3月8日",
@@ -215,7 +215,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:520",
-    "name": "Woman Worker",
+    "name": "纪73 国际妇女节五十周年",
     "nameZh": "纪73 国际妇女节五十周年",
     "year": 1960,
     "date": "1960年3月8日",
@@ -238,7 +238,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:521",
-    "name": "Women of different races",
+    "name": "纪73 国际妇女节五十周年",
     "nameZh": "纪73 国际妇女节五十周年",
     "year": 1960,
     "date": "1960年3月8日",
@@ -261,7 +261,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:522",
-    "name": "10 years of Chinese-Soviet Friendship Treaty",
+    "name": "纪75 中苏同盟条约十周年",
     "nameZh": "纪75 中苏同盟条约十周年",
     "year": 1960,
     "date": "1960年3月10日",
@@ -284,7 +284,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:523",
-    "name": "10 years of Chinese-Sowjet Friendship Treaty",
+    "name": "纪75 中苏同盟条约十周年",
     "nameZh": "纪75 中苏同盟条约十周年",
     "year": 1960,
     "date": "1960年3月10日",
@@ -307,7 +307,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:524",
-    "name": "10 years of Chinese-Sowjet Friendship Treaty",
+    "name": "纪75 中苏同盟条约十周年",
     "nameZh": "纪75 中苏同盟条约十周年",
     "year": 1960,
     "date": "1960年3月10日",
@@ -330,7 +330,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:525",
-    "name": "Flags from Hungary and China",
+    "name": "纪78 匈牙利解放十五周年",
     "nameZh": "纪78 匈牙利解放十五周年",
     "year": 1960,
     "date": "1960年4月4日",
@@ -353,7 +353,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:526",
-    "name": "Hungarian Parliament",
+    "name": "纪78 匈牙利解放十五周年",
     "nameZh": "纪78 匈牙利解放十五周年",
     "year": 1960,
     "date": "1960年4月4日",
@@ -376,7 +376,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:527",
-    "name": "90th Birthday of Vladimir Lenin",
+    "name": "纪74 列宁诞生九十周年",
     "nameZh": "纪74 列宁诞生九十周年",
     "year": 1960,
     "date": "1960年4月22日",
@@ -399,7 +399,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:528",
-    "name": "90th Birthday of Vladimir Lenin",
+    "name": "纪74 列宁诞生九十周年",
     "nameZh": "纪74 列宁诞生九十周年",
     "year": 1960,
     "date": "1960年4月22日",
@@ -422,7 +422,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:529",
-    "name": "90th Birthday of Vladimir Lenin",
+    "name": "纪74 列宁诞生九十周年",
     "nameZh": "纪74 列宁诞生九十周年",
     "year": 1960,
     "date": "1960年4月22日",
@@ -445,7 +445,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:530",
-    "name": "Coat of arms from USSR to the Moon",
+    "name": "特34 月球探测",
     "nameZh": "特34 月球探测",
     "year": 1960,
     "date": "1960年4月30日",
@@ -468,7 +468,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:531",
-    "name": "Spacecraft near the Moon",
+    "name": "特34 月球探测",
     "nameZh": "特34 月球探测",
     "year": 1960,
     "date": "1960年4月30日",
@@ -491,7 +491,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:532",
-    "name": "Flags of China and Czechoslovakia",
+    "name": "纪79 捷克斯洛伐克解放十五周年",
     "nameZh": "纪79 捷克斯洛伐克解放十五周年",
     "year": 1960,
     "date": "1960年5月9日",
@@ -514,7 +514,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:533",
-    "name": "Prague view",
+    "name": "纪79 捷克斯洛伐克解放十五周年",
     "nameZh": "纪79 捷克斯洛伐克解放十五周年",
     "year": 1960,
     "date": "1960年5月9日",
@@ -537,7 +537,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:534",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -550,7 +550,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -560,7 +560,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:535",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -573,7 +573,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -583,7 +583,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:536",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -596,7 +596,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -606,7 +606,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:537",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -619,7 +619,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -629,7 +629,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:538",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -642,7 +642,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -652,7 +652,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:539",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -665,7 +665,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "黑色,橄榄黄色",
@@ -675,7 +675,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:540",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -688,7 +688,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -698,7 +698,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:541",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -711,7 +711,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -721,7 +721,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:542",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -734,7 +734,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -744,7 +744,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:543",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -757,7 +757,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "红色,灰绿色",
@@ -767,7 +767,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:544",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -780,7 +780,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -790,7 +790,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:545",
-    "name": "Goldfish (Carassius auratus auratus)",
+    "name": "特38 金鱼",
     "nameZh": "特38 金鱼",
     "year": 1960,
     "date": "1960年6月1日",
@@ -803,7 +803,7 @@ const YEAR_1960 = [
     "spec": "40×30毫米",
     "designer": "",
     "printer": "",
-    "intro": "动物,鱼类",
+    "intro": "金鱼由野生鲫鱼演化而来，形体锦绣、色彩斑斓，为中国传统观赏鱼。邮票以细腻笔触描绘龙睛、水泡等名种，富丽典雅。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -813,7 +813,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:546",
-    "name": "Pig breed",
+    "name": "特40 养猪",
     "nameZh": "特40 养猪",
     "year": 1960,
     "date": "1960年6月15日",
@@ -836,7 +836,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:547",
-    "name": "Pig breed",
+    "name": "特40 养猪",
     "nameZh": "特40 养猪",
     "year": 1960,
     "date": "1960年6月15日",
@@ -859,7 +859,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:548",
-    "name": "Pig breed",
+    "name": "特40 养猪",
     "nameZh": "特40 养猪",
     "year": 1960,
     "date": "1960年6月15日",
@@ -882,7 +882,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:549",
-    "name": "Pig breed",
+    "name": "特40 养猪",
     "nameZh": "特40 养猪",
     "year": 1960,
     "date": "1960年6月15日",
@@ -905,7 +905,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:550",
-    "name": "Pig breed",
+    "name": "特40 养猪",
     "nameZh": "特40 养猪",
     "year": 1960,
     "date": "1960年6月15日",
@@ -928,7 +928,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:551",
-    "name": "Flag",
+    "name": "纪79 第三次全国文代会",
     "nameZh": "纪79 第三次全国文代会",
     "year": 1960,
     "date": "1960年7月30日",
@@ -951,7 +951,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:552",
-    "name": "3rd National Congress for Literature and Art",
+    "name": "纪79 第三次全国文代会",
     "nameZh": "纪79 第三次全国文代会",
     "year": 1960,
     "date": "1960年7月30日",
@@ -974,7 +974,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:553",
-    "name": "15th. anniv. of Liberation of Korea",
+    "name": "纪73 西藏民主改革",
     "nameZh": "纪73 西藏民主改革",
     "year": 1960,
     "date": "1960年8月15日",
@@ -997,7 +997,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:554",
-    "name": "15th. anniv. of Liberation of Korea",
+    "name": "纪73 西藏民主改革",
     "nameZh": "纪73 西藏民主改革",
     "year": 1960,
     "date": "1960年8月15日",
@@ -1020,7 +1020,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:555",
-    "name": "Central Railway Station Peking",
+    "name": "特35 北京火车站",
     "nameZh": "特35 北京火车站",
     "year": 1960,
     "date": "1960年8月30日",
@@ -1043,7 +1043,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:556",
-    "name": "Central Railway Station Peking",
+    "name": "特35 北京火车站",
     "nameZh": "特35 北京火车站",
     "year": 1960,
     "date": "1960年8月30日",
@@ -1066,7 +1066,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:557",
-    "name": "Chinese-Vietnamese flags and friendship",
+    "name": "纪76 越南民主共和国成立十五周年",
     "nameZh": "纪76 越南民主共和国成立十五周年",
     "year": 1960,
     "date": "1960年9月2日",
@@ -1089,7 +1089,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:558",
-    "name": "Monument",
+    "name": "纪76 越南民主共和国成立十五周年",
     "nameZh": "纪76 越南民主共和国成立十五周年",
     "year": 1960,
     "date": "1960年9月2日",
@@ -1112,7 +1112,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:559",
-    "name": "National Health Promotion",
+    "name": "特43 爱国卫生运动",
     "nameZh": "特43 爱国卫生运动",
     "year": 1960,
     "date": "1960年9月10日",
@@ -1135,7 +1135,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:560",
-    "name": "National health promotion",
+    "name": "特43 爱国卫生运动",
     "nameZh": "特43 爱国卫生运动",
     "year": 1960,
     "date": "1960年9月10日",
@@ -1158,7 +1158,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:561",
-    "name": "National health promotion",
+    "name": "特43 爱国卫生运动",
     "nameZh": "特43 爱国卫生运动",
     "year": 1960,
     "date": "1960年9月10日",
@@ -1181,7 +1181,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:562",
-    "name": "National health promotion",
+    "name": "特43 爱国卫生运动",
     "nameZh": "特43 爱国卫生运动",
     "year": 1960,
     "date": "1960年9月10日",
@@ -1204,7 +1204,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:563",
-    "name": "National health promotion",
+    "name": "特43 爱国卫生运动",
     "nameZh": "特43 爱国卫生运动",
     "year": 1960,
     "date": "1960年9月10日",
@@ -1227,7 +1227,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:564",
-    "name": "Great Hall of the People, outside view",
+    "name": "特37 人民大会堂",
     "nameZh": "特37 人民大会堂",
     "year": 1960,
     "date": "1960年10月1日",
@@ -1250,7 +1250,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:565",
-    "name": "Great Hall of the People, inside view",
+    "name": "特37 人民大会堂",
     "nameZh": "特37 人民大会堂",
     "year": 1960,
     "date": "1960年10月1日",
@@ -1273,7 +1273,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:566",
-    "name": "Norman Bethune (1890-1939), physician",
+    "name": "纪80 白求恩诞生七十周年",
     "nameZh": "纪80 白求恩诞生七十周年",
     "year": 1960,
     "date": "1960年11月20日",
@@ -1296,7 +1296,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:567",
-    "name": "Norman Bethune (1890-1939), physician",
+    "name": "纪80 白求恩诞生七十周年",
     "nameZh": "纪80 白求恩诞生七十周年",
     "year": 1960,
     "date": "1960年11月20日",
@@ -1319,7 +1319,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:568",
-    "name": "Engels addressing congress at The Hague",
+    "name": "纪78 恩格斯诞生一四零周年",
     "nameZh": "纪78 恩格斯诞生一四零周年",
     "year": 1960,
     "date": "1960年11月28日",
@@ -1342,7 +1342,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:569",
-    "name": "Friedrich Engels",
+    "name": "纪78 恩格斯诞生一四零周年",
     "nameZh": "纪78 恩格斯诞生一四零周年",
     "year": 1960,
     "date": "1960年11月28日",
@@ -1365,7 +1365,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:570",
-    "name": "Chrysanthemum",
+    "name": "特44 菊花",
     "nameZh": "特44 菊花",
     "year": 1960,
     "date": "1960年12月10日",
@@ -1378,7 +1378,7 @@ const YEAR_1960 = [
     "spec": "30×40毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "菊花凌霜而开，与梅、兰、竹并称“四君子”，象征高洁。邮票汇集名贵品种，姿态纷呈，为中国传统名花系列之一。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1388,7 +1388,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:571",
-    "name": "Chrysanthemum",
+    "name": "特44 菊花",
     "nameZh": "特44 菊花",
     "year": 1960,
     "date": "1960年12月10日",
@@ -1401,7 +1401,7 @@ const YEAR_1960 = [
     "spec": "30×40毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "菊花凌霜而开，与梅、兰、竹并称“四君子”，象征高洁。邮票汇集名贵品种，姿态纷呈，为中国传统名花系列之一。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1411,7 +1411,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:572",
-    "name": "Chrysanthemum",
+    "name": "特44 菊花",
     "nameZh": "特44 菊花",
     "year": 1960,
     "date": "1960年12月10日",
@@ -1424,7 +1424,7 @@ const YEAR_1960 = [
     "spec": "30×40毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "菊花凌霜而开，与梅、兰、竹并称“四君子”，象征高洁。邮票汇集名贵品种，姿态纷呈，为中国传统名花系列之一。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1434,7 +1434,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:573",
-    "name": "Chrysanthemum",
+    "name": "特44 菊花",
     "nameZh": "特44 菊花",
     "year": 1960,
     "date": "1960年12月10日",
@@ -1447,7 +1447,7 @@ const YEAR_1960 = [
     "spec": "30×40毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "菊花凌霜而开，与梅、兰、竹并称“四君子”，象征高洁。邮票汇集名贵品种，姿态纷呈，为中国传统名花系列之一。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1457,7 +1457,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:574",
-    "name": "Chrysanthemum",
+    "name": "特44 菊花",
     "nameZh": "特44 菊花",
     "year": 1960,
     "date": "1960年12月10日",
@@ -1470,7 +1470,7 @@ const YEAR_1960 = [
     "spec": "30×40毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "菊花凌霜而开，与梅、兰、竹并称“四君子”，象征高洁。邮票汇集名贵品种，姿态纷呈，为中国传统名花系列之一。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1480,7 +1480,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:575",
-    "name": "Chrysanthemum",
+    "name": "特44 菊花",
     "nameZh": "特44 菊花",
     "year": 1960,
     "date": "1960年12月10日",
@@ -1493,7 +1493,7 @@ const YEAR_1960 = [
     "spec": "30×40毫米",
     "designer": "",
     "printer": "",
-    "intro": "鲜花,植物 (花卉)",
+    "intro": "菊花凌霜而开，与梅、兰、竹并称“四君子”，象征高洁。邮票汇集名贵品种，姿态纷呈，为中国传统名花系列之一。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1503,7 +1503,7 @@ const YEAR_1960 = [
   },
   {
     "zihao": "Mi:576",
-    "name": "Yuehin First 10,000-tons freighter",
+    "name": "特39 万吨巨轮",
     "nameZh": "特39 万吨巨轮",
     "year": 1960,
     "date": "1960年12月15日",

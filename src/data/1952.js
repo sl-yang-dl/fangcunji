@@ -8,7 +8,7 @@
 const YEAR_1952 = [
   {
     "zihao": "Mi:133I",
-    "name": "Peasants and Tractor (Original)",
+    "name": "纪14 土地改革",
     "nameZh": "纪14 土地改革",
     "year": 1952,
     "date": "1952年1月1日",
@@ -21,7 +21,7 @@ const YEAR_1952 = [
     "spec": "46×30毫米",
     "designer": "孙传哲、大业印刷公司、上海",
     "printer": "上海大业印刷公司",
-    "intro": "再版票远多于原版。  再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力。",
+    "intro": "再版票远多于原版。再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力",
     "stamps": [],
     "mintage": "2000000",
     "color": "红色",
@@ -31,7 +31,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:134I",
-    "name": "Peasants and Tractor (Original)",
+    "name": "纪14 土地改革",
     "nameZh": "纪14 土地改革",
     "year": 1952,
     "date": "1952年1月1日",
@@ -44,7 +44,7 @@ const YEAR_1952 = [
     "spec": "46×30毫米",
     "designer": "孙传哲、大业印刷公司、上海",
     "printer": "上海大业印刷公司",
-    "intro": "再版票远多于原版。  再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力。",
+    "intro": "再版票远多于原版。再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力",
     "stamps": [],
     "mintage": "2000000",
     "color": "蓝色",
@@ -54,7 +54,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:135I",
-    "name": "Peasants and Tractor (Original)",
+    "name": "纪14 土地改革",
     "nameZh": "纪14 土地改革",
     "year": 1952,
     "date": "1952年1月1日",
@@ -67,7 +67,7 @@ const YEAR_1952 = [
     "spec": "46×30毫米",
     "designer": "孙传哲、大业印刷公司、上海",
     "printer": "上海大业印刷公司",
-    "intro": "再版票远多于原版。  再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力。",
+    "intro": "再版票远多于原版。再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力",
     "stamps": [],
     "mintage": "4000000",
     "color": "棕色",
@@ -77,7 +77,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:136I",
-    "name": "Peasants and Tractor (Original)",
+    "name": "纪14 土地改革",
     "nameZh": "纪14 土地改革",
     "year": 1952,
     "date": "1952年1月1日",
@@ -90,7 +90,7 @@ const YEAR_1952 = [
     "spec": "46×30毫米",
     "designer": "孙传哲、大业印刷公司、上海",
     "printer": "上海大业印刷公司",
-    "intro": "再版票远多于原版。  再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力。",
+    "intro": "再版票远多于原版。再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力",
     "stamps": [],
     "mintage": "7000000",
     "color": "绿色",
@@ -100,7 +100,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:137I",
-    "name": "Potala Palace, Lhasa (Original)",
+    "name": "纪13 和平解放西藏",
     "nameZh": "纪13 和平解放西藏",
     "year": 1952,
     "date": "1952年3月15日",
@@ -113,7 +113,7 @@ const YEAR_1952 = [
     "spec": "43×30毫米",
     "designer": "孙传哲、上海人民印刷厂",
     "printer": "上海人民印刷厂",
-    "intro": "无汉字 大 on the bottom left mural.  再版票远多于原版。  再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力。",
+    "intro": "无汉字 大 . 再版票远多于原版。再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力",
     "stamps": [],
     "mintage": "2000000",
     "color": "红色",
@@ -123,7 +123,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:138I",
-    "name": "Yaks (Original)",
+    "name": "纪13 和平解放西藏",
     "nameZh": "纪13 和平解放西藏",
     "year": 1952,
     "date": "1952年3月15日",
@@ -136,7 +136,7 @@ const YEAR_1952 = [
     "spec": "43×30毫米",
     "designer": "孙传哲、上海人民印刷厂",
     "printer": "上海人民印刷厂",
-    "intro": "无汉字 大 in grass at lower left.  再版票远多于原版。  再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力。",
+    "intro": "无汉字 大 . 再版票远多于原版。再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力",
     "stamps": [],
     "mintage": "3000000",
     "color": "蓝绿",
@@ -146,7 +146,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:139I",
-    "name": "Potala Palace, Lhasa (Original)",
+    "name": "纪13 和平解放西藏",
     "nameZh": "纪13 和平解放西藏",
     "year": 1952,
     "date": "1952年3月15日",
@@ -159,7 +159,7 @@ const YEAR_1952 = [
     "spec": "43×30毫米",
     "designer": "孙传哲、上海人民印刷厂",
     "printer": "上海人民印刷厂",
-    "intro": "无汉字 大 on the bottom left mural.  再版票远多于原版。  再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力。",
+    "intro": "无汉字 大 . 再版票远多于原版。再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力",
     "stamps": [],
     "mintage": "3000000",
     "color": "紫红色",
@@ -169,7 +169,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:140I",
-    "name": "Yaks (Original)",
+    "name": "纪13 和平解放西藏",
     "nameZh": "纪13 和平解放西藏",
     "year": 1952,
     "date": "1952年3月15日",
@@ -182,7 +182,7 @@ const YEAR_1952 = [
     "spec": "43×30毫米",
     "designer": "孙传哲、上海人民印刷厂",
     "printer": "上海人民印刷厂",
-    "intro": "无汉字 大 in grass at lower left.  再版票远多于原版。  再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力。",
+    "intro": "无汉字 大 . 再版票远多于原版。再版票由邮票局制备发售，用于补充售罄邮票的集邮库存，不具邮资效力",
     "stamps": [],
     "mintage": "2000000",
     "color": "暗紫色",
@@ -192,7 +192,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:141A",
-    "name": "Int. Children conference",
+    "name": "纪14 儿童会议（保卫儿童）",
     "nameZh": "纪14 儿童会议（保卫儿童）",
     "year": 1952,
     "date": "1952年4月12日",
@@ -215,7 +215,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:141C",
-    "name": "Int. Children conference",
+    "name": "纪14 儿童会议（保卫儿童）",
     "nameZh": "纪14 儿童会议（保卫儿童）",
     "year": 1952,
     "date": "1952年4月12日",
@@ -228,7 +228,7 @@ const YEAR_1952 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "齿孔为线式 12½ x 12½  x 14 x 12½",
+    "intro": "齿孔为线式 12½ 12½ 14 12½",
     "stamps": [],
     "mintage": "",
     "color": "绿色",
@@ -238,7 +238,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:142A",
-    "name": "Int. Children conference",
+    "name": "纪14 儿童会议（保卫儿童）",
     "nameZh": "纪14 儿童会议（保卫儿童）",
     "year": 1952,
     "date": "1952年4月12日",
@@ -261,7 +261,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:142C",
-    "name": "Int. Children conference",
+    "name": "纪14 儿童会议（保卫儿童）",
     "nameZh": "纪14 儿童会议（保卫儿童）",
     "year": 1952,
     "date": "1952年4月12日",
@@ -274,7 +274,7 @@ const YEAR_1952 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "齿孔为线式 12½ x 12½  x 14 x 12½",
+    "intro": "齿孔为线式 12½ 12½ 14 12½",
     "stamps": [],
     "mintage": "",
     "color": "绿色",
@@ -284,7 +284,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:143",
-    "name": "Labor Day",
+    "name": "纪21 国际劳动节",
     "nameZh": "纪21 国际劳动节",
     "year": 1952,
     "date": "1952年5月1日",
@@ -307,7 +307,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:144",
-    "name": "Labor Day",
+    "name": "纪21 国际劳动节",
     "nameZh": "纪21 国际劳动节",
     "year": 1952,
     "date": "1952年5月1日",
@@ -330,7 +330,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:145",
-    "name": "Labor Day",
+    "name": "纪21 国际劳动节",
     "nameZh": "纪21 国际劳动节",
     "year": 1952,
     "date": "1952年5月1日",
@@ -353,7 +353,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:146",
-    "name": "Radio gymnastics (14-17)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -366,7 +366,7 @@ const YEAR_1952 = [
     "spec": "41×60毫米",
     "designer": "孙传哲",
     "printer": "上海华东税务印刷厂",
-    "intro": "2x 米歇尔 146 + 2x 米歇尔 147 the first top left is 米歇尔 146 (40.1 (14) the bottom left is 米歇尔 146 (40-3 (16)",
+    "intro": "2 米歇尔 146 + 2 米歇尔 147 米歇尔 146(40.1(14)米歇尔 146(40-3(16)",
     "stamps": [],
     "mintage": "",
     "color": "红色",
@@ -376,7 +376,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:146I",
-    "name": "Radio gymnastics (14)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -399,7 +399,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:146II",
-    "name": "Radio gymnastics (16)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -422,7 +422,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:147",
-    "name": "Radio gymnastics (15)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -445,7 +445,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:147II",
-    "name": "Radio gymnastics (17)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -468,7 +468,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:148",
-    "name": "Radio gymnastics (18-21)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -491,7 +491,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:148I",
-    "name": "Radio gymnastics (18)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -514,7 +514,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:148II",
-    "name": "Radio gymnastics (20)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -537,7 +537,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:149",
-    "name": "Radio gymnastics (19)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -560,7 +560,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:150",
-    "name": "Radio gymnastics (21)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -583,7 +583,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:151",
-    "name": "Radio gymnastics (22)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -606,7 +606,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:151",
-    "name": "Radio gymnastics (22-25)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -629,7 +629,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:152I",
-    "name": "Radio gymnastics (23)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -652,7 +652,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:152II",
-    "name": "Radio gymnastics (24)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -675,7 +675,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:153",
-    "name": "Radio gymnastics (25)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -698,7 +698,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:154",
-    "name": "Radio gymnastics (26-29)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -721,7 +721,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:154I",
-    "name": "Radio gymnastics (26)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -744,7 +744,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:154II",
-    "name": "Radio gymnastics (28)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -767,7 +767,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:155",
-    "name": "Radio gymnastics (27)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -790,7 +790,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:156",
-    "name": "Radio gymnastics (29)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -813,7 +813,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:157",
-    "name": "Radio gymnastics (30-33)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -836,7 +836,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:157I",
-    "name": "Radio gymnastics (30)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -859,7 +859,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:157II",
-    "name": "Radio gymnastics (32)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -882,7 +882,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:158",
-    "name": "Radio gymnastics (31)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -905,7 +905,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:159",
-    "name": "Radio gymnastics (33)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -928,7 +928,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:160",
-    "name": "Radio gymnastics (34)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -951,7 +951,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:160",
-    "name": "Radio gymnastics (34-37)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -974,7 +974,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:161",
-    "name": "Radio gymnastics (35)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -997,7 +997,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:162",
-    "name": "Radio gymnastics (36)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1020,7 +1020,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:163",
-    "name": "Radio gymnastics (37)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1043,7 +1043,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:164",
-    "name": "Radio gymnastics",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1066,7 +1066,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:164I",
-    "name": "Radio gymnastics (38)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1089,7 +1089,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:164II",
-    "name": "Radio gymnastics (40)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1112,7 +1112,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:165",
-    "name": "Radio gymnastics (39)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1135,7 +1135,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:166",
-    "name": "Radio gymnastics (41)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1158,7 +1158,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:167",
-    "name": "Radio gymnastics (42-45)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1181,7 +1181,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:167I",
-    "name": "Radio gymnastics (42)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1204,7 +1204,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:167II",
-    "name": "Radio gymnastics (44)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1227,7 +1227,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:168I",
-    "name": "Radio gymnastics (43)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1250,7 +1250,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:168II",
-    "name": "Radio gymnastics (45)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1273,7 +1273,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:169",
-    "name": "Radio gymnastics (46)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1296,7 +1296,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:169",
-    "name": "Radio gymnastics (46-49)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1319,7 +1319,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:170",
-    "name": "Radio gymnastics (47)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1332,7 +1332,7 @@ const YEAR_1952 = [
     "spec": "20.5×30毫米",
     "designer": "孙传哲",
     "printer": "上海华东税务印刷厂",
-    "intro": "印量 40-34  再版 exist, valued at fraction of the 原版 邮票.",
+    "intro": "印量 40-34 再版 , 原版 邮票.",
     "stamps": [],
     "mintage": "",
     "color": "褚红色",
@@ -1342,7 +1342,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:170II",
-    "name": "Radio gymnastics (49)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1365,7 +1365,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:171",
-    "name": "Radio gymnastics (48)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1388,7 +1388,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:172",
-    "name": "Radio gymnastics (50)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1411,7 +1411,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:172",
-    "name": "Radio gymnastics (50-53)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1434,7 +1434,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:173",
-    "name": "Radio gymnastics (51)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1457,7 +1457,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:174",
-    "name": "Radio gymnastics (52)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1480,7 +1480,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:175",
-    "name": "Radio gymnastics (53)",
+    "name": "特4 广播体操",
     "nameZh": "特4 广播体操",
     "year": 1952,
     "date": "1952年6月20日",
@@ -1503,7 +1503,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:176",
-    "name": "\"A Winter Hunt\" (A.D. 386-580)",
+    "name": "特3 敦煌壁画（第一组）",
     "nameZh": "特3 敦煌壁画（第一组）",
     "year": 1952,
     "date": "1952年7月1日",
@@ -1516,7 +1516,7 @@ const YEAR_1952 = [
     "spec": "43×28毫米",
     "designer": "孙传哲、孔绍惠",
     "printer": "上海人民印刷厂",
-    "intro": "画,艺术,打猎,岩画和洞穴壁画",
+    "intro": "敦煌莫高窟始建于前秦，历千年营建，壁画瑰丽恢宏，融中原与西域艺术于一体，为世界文化遗产。邮票据洞窟壁画临摹重现，飞天飘逸、藻井严整。",
     "stamps": [],
     "mintage": "10000000",
     "color": "黑橄榄色",
@@ -1526,7 +1526,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:177",
-    "name": "\"Benefactor\", Sui Dynasty (AD 581-617)",
+    "name": "特3 敦煌壁画（第一组）",
     "nameZh": "特3 敦煌壁画（第一组）",
     "year": 1952,
     "date": "1952年7月1日",
@@ -1539,7 +1539,7 @@ const YEAR_1952 = [
     "spec": "43×28毫米",
     "designer": "孙传哲、孔绍惠",
     "printer": "上海人民印刷厂",
-    "intro": "画,艺术,壁画,岩画和洞穴壁画",
+    "intro": "敦煌莫高窟始建于前秦，历千年营建，壁画瑰丽恢宏，融中原与西域艺术于一体，为世界文化遗产。邮票据洞窟壁画临摹重现，飞天飘逸、藻井严整。",
     "stamps": [],
     "mintage": "10000000",
     "color": "棕色",
@@ -1549,7 +1549,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:178",
-    "name": "\"Celestial Flight\", Tang Dynasty (AD 618-906)",
+    "name": "特3 敦煌壁画（第一组）",
     "nameZh": "特3 敦煌壁画（第一组）",
     "year": 1952,
     "date": "1952年7月1日",
@@ -1562,7 +1562,7 @@ const YEAR_1952 = [
     "spec": "43×28毫米",
     "designer": "孙传哲、孔绍惠",
     "printer": "上海人民印刷厂",
-    "intro": "画,艺术,壁画,岩画和洞穴壁画",
+    "intro": "敦煌莫高窟始建于前秦，历千年营建，壁画瑰丽恢宏，融中原与西域艺术于一体，为世界文化遗产。邮票据洞窟壁画临摹重现，飞天飘逸、藻井严整。",
     "stamps": [],
     "mintage": "10000000",
     "color": "深蓝灰色",
@@ -1572,7 +1572,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:179",
-    "name": "Dragon (Tang Dynasty, AD 618-906)",
+    "name": "特3 敦煌壁画（第一组）",
     "nameZh": "特3 敦煌壁画（第一组）",
     "year": 1952,
     "date": "1952年7月1日",
@@ -1585,7 +1585,7 @@ const YEAR_1952 = [
     "spec": "43×28毫米",
     "designer": "孙传哲、孔绍惠",
     "printer": "上海人民印刷厂",
-    "intro": "画,龙,艺术,壁画,岩画和洞穴壁画",
+    "intro": "敦煌莫高窟始建于前秦，历千年营建，壁画瑰丽恢宏，融中原与西域艺术于一体，为世界文化遗产。邮票据洞窟壁画临摹重现，飞天飘逸、藻井严整。",
     "stamps": [],
     "mintage": "10000000",
     "color": "紫色",
@@ -1595,7 +1595,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:180",
-    "name": "Marco Polo Bridge, near Peking",
+    "name": "纪16 抗日战争十五周年纪念",
     "nameZh": "纪16 抗日战争十五周年纪念",
     "year": 1952,
     "date": "1952年7月7日",
@@ -1618,7 +1618,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:181",
-    "name": "Cavalry Passing Through Great Wall",
+    "name": "纪16 抗日战争十五周年纪念",
     "nameZh": "纪16 抗日战争十五周年纪念",
     "year": 1952,
     "date": "1952年7月7日",
@@ -1641,7 +1641,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:182",
-    "name": "Departure of New Fourth Army",
+    "name": "纪16 抗日战争十五周年纪念",
     "nameZh": "纪16 抗日战争十五周年纪念",
     "year": 1952,
     "date": "1952年7月7日",
@@ -1664,7 +1664,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:183",
-    "name": "Mao Tse-tung and Gen. Chu Teh",
+    "name": "纪16 抗日战争十五周年纪念",
     "nameZh": "纪16 抗日战争十五周年纪念",
     "year": 1952,
     "date": "1952年7月7日",
@@ -1687,7 +1687,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:184",
-    "name": "25 Years Chinese Army",
+    "name": "纪17 中国人民解放军建军二十五周年",
     "nameZh": "纪17 中国人民解放军建军二十五周年",
     "year": 1952,
     "date": "1952年8月1日",
@@ -1710,7 +1710,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:185",
-    "name": "25 years Chinese Army",
+    "name": "纪17 中国人民解放军建军二十五周年",
     "nameZh": "纪17 中国人民解放军建军二十五周年",
     "year": 1952,
     "date": "1952年8月1日",
@@ -1733,7 +1733,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:186",
-    "name": "25 years Chinese Army",
+    "name": "纪17 中国人民解放军建军二十五周年",
     "nameZh": "纪17 中国人民解放军建军二十五周年",
     "year": 1952,
     "date": "1952年8月1日",
@@ -1756,7 +1756,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:187",
-    "name": "25 years Chinese Army",
+    "name": "纪17 中国人民解放军建军二十五周年",
     "nameZh": "纪17 中国人民解放军建军二十五周年",
     "year": 1952,
     "date": "1952年8月1日",
@@ -1779,7 +1779,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:188",
-    "name": "Huai River barrage",
+    "name": "特5 建设祖国（第二组）",
     "nameZh": "特5 建设祖国（第二组）",
     "year": 1952,
     "date": "1952年10月1日",
@@ -1802,7 +1802,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:189",
-    "name": "Chungking-Chengtu Railway Viaduct",
+    "name": "特5 建设祖国（第二组）",
     "nameZh": "特5 建设祖国（第二组）",
     "year": 1952,
     "date": "1952年10月1日",
@@ -1825,7 +1825,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:190",
-    "name": "Oil refinery",
+    "name": "特5 建设祖国（第二组）",
     "nameZh": "特5 建设祖国（第二组）",
     "year": 1952,
     "date": "1952年10月1日",
@@ -1848,7 +1848,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:191",
-    "name": "Tractor, disk harrows and combine drill",
+    "name": "特5 建设祖国（第二组）",
     "nameZh": "特5 建设祖国（第二组）",
     "year": 1952,
     "date": "1952年10月1日",
@@ -1871,7 +1871,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:192",
-    "name": "Freedom conference",
+    "name": "纪18 亚洲及太平洋区域和平会议",
     "nameZh": "纪18 亚洲及太平洋区域和平会议",
     "year": 1952,
     "date": "1952年10月2日",
@@ -1894,7 +1894,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:193",
-    "name": "Freedom conference",
+    "name": "纪18 亚洲及太平洋区域和平会议",
     "nameZh": "纪18 亚洲及太平洋区域和平会议",
     "year": 1952,
     "date": "1952年10月2日",
@@ -1917,7 +1917,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:194",
-    "name": "Freedom conference",
+    "name": "纪18 亚洲及太平洋区域和平会议",
     "nameZh": "纪18 亚洲及太平洋区域和平会议",
     "year": 1952,
     "date": "1952年10月2日",
@@ -1940,7 +1940,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:195",
-    "name": "Freedom Conference",
+    "name": "纪18 亚洲及太平洋区域和平会议",
     "nameZh": "纪18 亚洲及太平洋区域和平会议",
     "year": 1952,
     "date": "1952年10月2日",
@@ -1963,7 +1963,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:196",
-    "name": "Military help for Korea",
+    "name": "纪19 中国人民志愿军出国作战二周年",
     "nameZh": "纪19 中国人民志愿军出国作战二周年",
     "year": 1952,
     "date": "1952年11月15日",
@@ -1986,7 +1986,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:197",
-    "name": "Military Help for Korea",
+    "name": "纪19 中国人民志愿军出国作战二周年",
     "nameZh": "纪19 中国人民志愿军出国作战二周年",
     "year": 1952,
     "date": "1952年11月15日",
@@ -2009,7 +2009,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:198",
-    "name": "Military help for Korea",
+    "name": "纪19 中国人民志愿军出国作战二周年",
     "nameZh": "纪19 中国人民志愿军出国作战二周年",
     "year": 1952,
     "date": "1952年11月15日",
@@ -2032,7 +2032,7 @@ const YEAR_1952 = [
   },
   {
     "zihao": "Mi:199",
-    "name": "Military help for Korea",
+    "name": "纪19 中国人民志愿军出国作战二周年",
     "nameZh": "纪19 中国人民志愿军出国作战二周年",
     "year": 1952,
     "date": "1952年11月15日",

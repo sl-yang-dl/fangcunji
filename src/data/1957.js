@@ -8,7 +8,7 @@
 const YEAR_1957 = [
   {
     "zihao": "Mi:318",
-    "name": "Gate of Heavenly Peace",
+    "name": "特15 首都名胜",
     "nameZh": "特15 首都名胜",
     "year": 1957,
     "date": "1957年2月20日",
@@ -31,7 +31,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:330",
-    "name": "Shot put",
+    "name": "纪39 第一届全国工人运动会（铅球）",
     "nameZh": "纪39 第一届全国工人运动会（铅球）",
     "year": 1957,
     "date": "1957年3月20日",
@@ -54,7 +54,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:331",
-    "name": "Weight lifting",
+    "name": "纪39 第一届全国工人运动会（举重）",
     "nameZh": "纪39 第一届全国工人运动会（举重）",
     "year": 1957,
     "date": "1957年3月20日",
@@ -77,7 +77,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:332",
-    "name": "Running",
+    "name": "纪39 第一届全国工人运动会（赛跑）",
     "nameZh": "纪39 第一届全国工人运动会（赛跑）",
     "year": 1957,
     "date": "1957年3月20日",
@@ -100,7 +100,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:333",
-    "name": "Cycling",
+    "name": "纪39 第一届全国工人运动会",
     "nameZh": "纪39 第一届全国工人运动会",
     "year": 1957,
     "date": "1957年3月20日",
@@ -123,7 +123,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:334",
-    "name": "Football",
+    "name": "纪39 第一届全国工人运动会",
     "nameZh": "纪39 第一届全国工人运动会",
     "year": 1957,
     "date": "1957年3月20日",
@@ -146,7 +146,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:335",
-    "name": "Truck Factory No. 1",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1957,
     "date": "1957年5月1日",
@@ -169,7 +169,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:336",
-    "name": "Truck Factory No. 1",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1957,
     "date": "1957年5月1日",
@@ -192,7 +192,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:337",
-    "name": "People’s Liberation Army, 30th anniv.",
+    "name": "纪17 中国人民解放军建军二十五周年",
     "nameZh": "纪17 中国人民解放军建军二十五周年",
     "year": 1957,
     "date": "1957年8月10日",
@@ -215,7 +215,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:338",
-    "name": "People’s Liberation Army, 30th anniv.",
+    "name": "纪17 中国人民解放军建军二十五周年",
     "nameZh": "纪17 中国人民解放军建军二十五周年",
     "year": 1957,
     "date": "1957年8月10日",
@@ -238,7 +238,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:339",
-    "name": "People’s Liberation Army, 30th anniv.",
+    "name": "纪17 中国人民解放军建军二十五周年",
     "nameZh": "纪17 中国人民解放军建军二十五周年",
     "year": 1957,
     "date": "1957年8月10日",
@@ -261,7 +261,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:340",
-    "name": "People’s Liberation Army, 30th anniv.",
+    "name": "纪17 中国人民解放军建军二十五周年",
     "nameZh": "纪17 中国人民解放军建军二十五周年",
     "year": 1957,
     "date": "1957年8月10日",
@@ -284,7 +284,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:341",
-    "name": "Lisunov Li-2 over airport scene",
+    "name": "航2 航空邮票",
     "nameZh": "航2 航空邮票",
     "year": 1957,
     "date": "1957年9月20日",
@@ -307,7 +307,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:342",
-    "name": "Lisunov Li-2 over mountain highway",
+    "name": "航2 航空邮票",
     "nameZh": "航2 航空邮票",
     "year": 1957,
     "date": "1957年9月20日",
@@ -330,7 +330,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:343",
-    "name": "Lisunov Li-2 over railway tracks",
+    "name": "航2 航空邮票",
     "nameZh": "航2 航空邮票",
     "year": 1957,
     "date": "1957年9月20日",
@@ -353,7 +353,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:344",
-    "name": "Lisunov Li-2 over collier at station",
+    "name": "航2 航空邮票",
     "nameZh": "航2 航空邮票",
     "year": 1957,
     "date": "1957年9月20日",
@@ -376,7 +376,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:345",
-    "name": "Congress Emblem",
+    "name": "纪41 国际工会联合会第四代表大会",
     "nameZh": "纪41 国际工会联合会第四代表大会",
     "year": 1957,
     "date": "1957年9月30日",
@@ -399,7 +399,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:346",
-    "name": "Congress Emblem",
+    "name": "纪41 国际工会联合会第四代表大会",
     "nameZh": "纪41 国际工会联合会第四代表大会",
     "year": 1957,
     "date": "1957年9月30日",
@@ -422,7 +422,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:347",
-    "name": "Yangtze River Bridge",
+    "name": "纪43 武汉长江大桥",
     "nameZh": "纪43 武汉长江大桥",
     "year": 1957,
     "date": "1957年10月1日",
@@ -445,7 +445,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:348",
-    "name": "Yangtze River Bridge",
+    "name": "纪43 武汉长江大桥",
     "nameZh": "纪43 武汉长江大桥",
     "year": 1957,
     "date": "1957年10月1日",
@@ -468,7 +468,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:349",
-    "name": "40th anniv. of Russian October Revolution",
+    "name": "纪40 伟大的十月社会主义革命四十周年",
     "nameZh": "纪40 伟大的十月社会主义革命四十周年",
     "year": 1957,
     "date": "1957年11月7日",
@@ -481,7 +481,7 @@ const YEAR_1957 = [
     "spec": "28×38毫米",
     "designer": "",
     "printer": "",
-    "intro": "革命,纪念日",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "胭脂红",
@@ -491,7 +491,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:350",
-    "name": "40th anniv. of Russian October Revolution",
+    "name": "纪40 伟大的十月社会主义革命四十周年",
     "nameZh": "纪40 伟大的十月社会主义革命四十周年",
     "year": 1957,
     "date": "1957年11月7日",
@@ -504,7 +504,7 @@ const YEAR_1957 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "纪念日",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "紫棕色",
@@ -514,7 +514,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:351",
-    "name": "40th anniv. of Russian October Revolution",
+    "name": "纪40 伟大的十月社会主义革命四十周年",
     "nameZh": "纪40 伟大的十月社会主义革命四十周年",
     "year": 1957,
     "date": "1957年11月7日",
@@ -527,7 +527,7 @@ const YEAR_1957 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "鸟类,植物 (花卉),纪念日",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "蓝绿",
@@ -537,7 +537,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:352",
-    "name": "40th anniv. of Russian October Revolution",
+    "name": "纪40 伟大的十月社会主义革命四十周年",
     "nameZh": "纪40 伟大的十月社会主义革命四十周年",
     "year": 1957,
     "date": "1957年11月7日",
@@ -550,7 +550,7 @@ const YEAR_1957 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "纪念日",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "红棕色",
@@ -560,7 +560,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:353",
-    "name": "40th Anniversary of Russian October Revolution",
+    "name": "纪40 伟大的十月社会主义革命四十周年",
     "nameZh": "纪40 伟大的十月社会主义革命四十周年",
     "year": 1957,
     "date": "1957年11月7日",
@@ -573,7 +573,7 @@ const YEAR_1957 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "纪念日",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "蓝色",
@@ -583,7 +583,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:354",
-    "name": "Yellow River control plan",
+    "name": "特18 治理黄河",
     "nameZh": "特18 治理黄河",
     "year": 1957,
     "date": "1957年12月30日",
@@ -606,7 +606,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:355",
-    "name": "Yellow River control plan",
+    "name": "特18 治理黄河",
     "nameZh": "特18 治理黄河",
     "year": 1957,
     "date": "1957年12月30日",
@@ -629,7 +629,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:356",
-    "name": "Yellow River control plan",
+    "name": "特18 治理黄河",
     "nameZh": "特18 治理黄河",
     "year": 1957,
     "date": "1957年12月30日",
@@ -652,7 +652,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:357",
-    "name": "Yellow River control plan",
+    "name": "特18 治理黄河",
     "nameZh": "特18 治理黄河",
     "year": 1957,
     "date": "1957年12月30日",
@@ -675,7 +675,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:358",
-    "name": "Agricultural cooperation",
+    "name": "特20 农业合作化",
     "nameZh": "特20 农业合作化",
     "year": 1957,
     "date": "1957年12月30日",
@@ -698,7 +698,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:359",
-    "name": "Agricultural cooperation",
+    "name": "特20 农业合作化",
     "nameZh": "特20 农业合作化",
     "year": 1957,
     "date": "1957年12月30日",
@@ -721,7 +721,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:360",
-    "name": "Agricultural cooperation",
+    "name": "特20 农业合作化",
     "nameZh": "特20 农业合作化",
     "year": 1957,
     "date": "1957年12月30日",
@@ -744,7 +744,7 @@ const YEAR_1957 = [
   },
   {
     "zihao": "Mi:361",
-    "name": "Agricultural cooperation",
+    "name": "特20 农业合作化",
     "nameZh": "特20 农业合作化",
     "year": 1957,
     "date": "1957年12月30日",

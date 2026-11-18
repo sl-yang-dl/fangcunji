@@ -8,7 +8,7 @@
 const YEAR_1953 = [
   {
     "zihao": "Mi:200",
-    "name": "Int. womens day",
+    "name": "纪21 国际妇女节",
     "nameZh": "纪21 国际妇女节",
     "year": 1953,
     "date": "1953年3月8日",
@@ -31,7 +31,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:201",
-    "name": "Int. womens day",
+    "name": "纪21 国际妇女节",
     "nameZh": "纪21 国际妇女节",
     "year": 1953,
     "date": "1953年3月8日",
@@ -54,7 +54,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:202",
-    "name": "Scenes from the world of work",
+    "name": "普6 不同图案普通邮票",
     "nameZh": "普6 不同图案普通邮票",
     "year": 1953,
     "date": "1953年3月25日",
@@ -77,7 +77,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:203",
-    "name": "Shepherdess",
+    "name": "普6 不同图案普通邮票",
     "nameZh": "普6 不同图案普通邮票",
     "year": 1953,
     "date": "1953年3月25日",
@@ -100,7 +100,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:204",
-    "name": "Scenes from the world of work",
+    "name": "普6 不同图案普通邮票",
     "nameZh": "普6 不同图案普通邮票",
     "year": 1953,
     "date": "1953年3月25日",
@@ -123,7 +123,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:205",
-    "name": "Lathe Operator",
+    "name": "普6 不同图案普通邮票",
     "nameZh": "普6 不同图案普通邮票",
     "year": 1953,
     "date": "1953年3月25日",
@@ -146,7 +146,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:206",
-    "name": "Scenes from the world of work",
+    "name": "普6 不同图案普通邮票",
     "nameZh": "普6 不同图案普通邮票",
     "year": 1953,
     "date": "1953年3月25日",
@@ -169,7 +169,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:207",
-    "name": "Corner tower of Forbidden City, Peking",
+    "name": "普6 不同图案普通邮票",
     "nameZh": "普6 不同图案普通邮票",
     "year": 1953,
     "date": "1953年5月23日",
@@ -192,7 +192,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:208",
-    "name": "Karl Marx",
+    "name": "纪22 马克思诞生一三五周年",
     "nameZh": "纪22 马克思诞生一三五周年",
     "year": 1953,
     "date": "1953年5月20日",
@@ -215,7 +215,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:209",
-    "name": "Karl Marx",
+    "name": "纪22 马克思诞生一三五周年",
     "nameZh": "纪22 马克思诞生一三五周年",
     "year": 1953,
     "date": "1953年5月20日",
@@ -238,7 +238,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:210",
-    "name": "Workers and Flags",
+    "name": "纪23 中国工会第七次全国代表大会",
     "nameZh": "纪23 中国工会第七次全国代表大会",
     "year": 1953,
     "date": "1953年6月25日",
@@ -261,7 +261,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:211",
-    "name": "Workers and Flags",
+    "name": "纪23 中国工会第七次全国代表大会",
     "nameZh": "纪23 中国工会第七次全国代表大会",
     "year": 1953,
     "date": "1953年6月25日",
@@ -284,7 +284,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:212",
-    "name": "Peace dove",
+    "name": "纪24 保卫世界和平（第三组）",
     "nameZh": "纪24 保卫世界和平（第三组）",
     "year": 1953,
     "date": "1953年7月25日",
@@ -307,7 +307,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:213",
-    "name": "Peace dove",
+    "name": "纪24 保卫世界和平（第三组）",
     "nameZh": "纪24 保卫世界和平（第三组）",
     "year": 1953,
     "date": "1953年7月25日",
@@ -330,7 +330,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:214",
-    "name": "Peace dove",
+    "name": "纪24 保卫世界和平（第三组）",
     "nameZh": "纪24 保卫世界和平（第三组）",
     "year": 1953,
     "date": "1953年7月25日",
@@ -353,7 +353,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:215",
-    "name": "Horseman and steed (A.D. 386-580)",
+    "name": "特6 伟大祖国（第三组）",
     "nameZh": "特6 伟大祖国（第三组）",
     "year": 1953,
     "date": "1953年9月1日",
@@ -376,7 +376,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:216",
-    "name": "Court Players (A.D. 386-580)",
+    "name": "特6 伟大祖国（第三组）",
     "nameZh": "特6 伟大祖国（第三组）",
     "year": 1953,
     "date": "1953年9月1日",
@@ -399,7 +399,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:217",
-    "name": "Battle scene (A.D. 581-617)",
+    "name": "特6 伟大祖国（第三组）",
     "nameZh": "特6 伟大祖国（第三组）",
     "year": 1953,
     "date": "1953年9月1日",
@@ -422,7 +422,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:218",
-    "name": "Ox-drawn Palanquin (A.D. 618-906)",
+    "name": "特6 伟大祖国（第三组）",
     "nameZh": "特6 伟大祖国（第三组）",
     "year": 1953,
     "date": "1953年9月1日",
@@ -445,7 +445,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:219",
-    "name": "Mao Tse-tung and Stalin at Kremlin",
+    "name": "纪20 伟大的十月革命三十五周年",
     "nameZh": "纪20 伟大的十月革命三十五周年",
     "year": 1953,
     "date": "1953年10月5日",
@@ -458,7 +458,7 @@ const YEAR_1953 = [
     "spec": "47×28毫米",
     "designer": "孙传哲、刘国桐",
     "printer": "北京人民印刷厂",
-    "intro": "（暂无中文简介）",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "6000000",
     "color": "绿色",
@@ -468,7 +468,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:220",
-    "name": "Vladimir Lenin addressing revolutionaries",
+    "name": "纪20 伟大的十月革命三十五周年",
     "nameZh": "纪20 伟大的十月革命三十五周年",
     "year": 1953,
     "date": "1953年10月5日",
@@ -481,7 +481,7 @@ const YEAR_1953 = [
     "spec": "47×28毫米",
     "designer": "孙传哲、刘国桐",
     "printer": "北京人民印刷厂",
-    "intro": "（暂无中文简介）",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "6000000",
     "color": "胭脂玫瑰红",
@@ -491,7 +491,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:221",
-    "name": "Statue of Stalin",
+    "name": "纪20 伟大的十月革命三十五周年",
     "nameZh": "纪20 伟大的十月革命三十五周年",
     "year": 1953,
     "date": "1953年10月5日",
@@ -504,7 +504,7 @@ const YEAR_1953 = [
     "spec": "28×47毫米",
     "designer": "孙传哲、刘国桐",
     "printer": "北京人民印刷厂",
-    "intro": "（暂无中文简介）",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "5000000",
     "color": "蓝色",
@@ -514,7 +514,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:222",
-    "name": "Stalin making speech",
+    "name": "纪20 伟大的十月革命三十五周年",
     "nameZh": "纪20 伟大的十月革命三十五周年",
     "year": 1953,
     "date": "1953年10月5日",
@@ -527,7 +527,7 @@ const YEAR_1953 = [
     "spec": "28×47毫米",
     "designer": "孙传哲、刘国桐",
     "printer": "北京人民印刷厂",
-    "intro": "（暂无中文简介）",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "7000000",
     "color": "亮棕色",
@@ -537,7 +537,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:223",
-    "name": "Oldest Compass (Magnetic Iron Spoons on Bronze Plate)",
+    "name": "特7 伟大祖国（第四组）",
     "nameZh": "特7 伟大祖国（第四组）",
     "year": 1953,
     "date": "1953年12月1日",
@@ -560,7 +560,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:224",
-    "name": "Instrument for Earthquake Measurement",
+    "name": "特7 伟大祖国（第四组）",
     "nameZh": "特7 伟大祖国（第四组）",
     "year": 1953,
     "date": "1953年12月1日",
@@ -583,7 +583,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:225",
-    "name": "Drum Cart to Measure Distance",
+    "name": "特7 伟大祖国（第四组）",
     "nameZh": "特7 伟大祖国（第四组）",
     "year": 1953,
     "date": "1953年12月1日",
@@ -606,7 +606,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:226",
-    "name": "François Rabelais (1494-1553)",
+    "name": "纪24 保卫世界和平（第三组）",
     "nameZh": "纪24 保卫世界和平（第三组）",
     "year": 1953,
     "date": "1953年12月30日",
@@ -629,7 +629,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:227",
-    "name": "José Martí (1853-1895)",
+    "name": "纪24 保卫世界和平（第三组）",
     "nameZh": "纪24 保卫世界和平（第三组）",
     "year": 1953,
     "date": "1953年12月30日",
@@ -652,7 +652,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:228",
-    "name": "Qu Yuan (c. 340–278 BC)",
+    "name": "纪24 保卫世界和平（第三组）",
     "nameZh": "纪24 保卫世界和平（第三组）",
     "year": 1953,
     "date": "1953年12月30日",
@@ -675,7 +675,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:229",
-    "name": "Nicolaus Copernicus (1473-1543)",
+    "name": "纪24 保卫世界和平（第三组）",
     "nameZh": "纪24 保卫世界和平（第三组）",
     "year": 1953,
     "date": "1953年12月30日",
@@ -698,7 +698,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:A225",
-    "name": "Astronomical Instrument",
+    "name": "特7 伟大祖国（第四组）",
     "nameZh": "特7 伟大祖国（第四组）",
     "year": 1953,
     "date": "1953年12月1日",
@@ -721,7 +721,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:M1",
-    "name": "Military post",
+    "name": "军1 军人贴用邮票（黄军邮）",
     "nameZh": "军1 军人贴用邮票（黄军邮）",
     "year": 1953,
     "date": "1953年4月1日",
@@ -734,7 +734,7 @@ const YEAR_1953 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "版d to servicemen at the rate of two a month. Withdraw was ordered in October of 1954",
+    "intro": "版 . 1954",
     "stamps": [],
     "mintage": "",
     "color": "朱红色,红橘色,橙黄色",
@@ -744,7 +744,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:M2",
-    "name": "Military post",
+    "name": "军1 军人贴用邮票（黄军邮）",
     "nameZh": "军1 军人贴用邮票（黄军邮）",
     "year": 1953,
     "date": "1953年4月1日",
@@ -767,7 +767,7 @@ const YEAR_1953 = [
   },
   {
     "zihao": "Mi:M3",
-    "name": "Military post",
+    "name": "军1 军人贴用邮票（黄军邮）",
     "nameZh": "军1 军人贴用邮票（黄军邮）",
     "year": 1953,
     "date": "1953年4月1日",

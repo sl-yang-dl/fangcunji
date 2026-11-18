@@ -8,7 +8,7 @@
 const YEAR_1954 = [
   {
     "zihao": "Mi:230",
-    "name": "Gate of Heavenly Peace",
+    "name": "普7 天安门",
     "nameZh": "普7 天安门",
     "year": 1954,
     "date": "1954年7月1日",
@@ -31,7 +31,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:231",
-    "name": "Gate of Heavenly Peace",
+    "name": "普7 天安门",
     "nameZh": "普7 天安门",
     "year": 1954,
     "date": "1954年5月1日",
@@ -54,7 +54,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:232",
-    "name": "Gate of Heavenly Peace",
+    "name": "普7 天安门",
     "nameZh": "普7 天安门",
     "year": 1954,
     "date": "1954年9月15日",
@@ -77,7 +77,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:233",
-    "name": "Gate of Heavenly Peace",
+    "name": "普7 天安门",
     "nameZh": "普7 天安门",
     "year": 1954,
     "date": "1954年7月1日",
@@ -100,7 +100,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:234",
-    "name": "Gate of Heavenly Peace",
+    "name": "普7 天安门",
     "nameZh": "普7 天安门",
     "year": 1954,
     "date": "1954年5月1日",
@@ -123,7 +123,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:235",
-    "name": "Gate of Heavenly Peace",
+    "name": "普7 天安门",
     "nameZh": "普7 天安门",
     "year": 1954,
     "date": "1954年5月1日",
@@ -146,7 +146,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:236",
-    "name": "Gate of Heavenly Peace",
+    "name": "普7 天安门",
     "nameZh": "普7 天安门",
     "year": 1954,
     "date": "1954年9月15日",
@@ -169,7 +169,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:237",
-    "name": "Gate of Heavenly Peace",
+    "name": "普7 天安门",
     "nameZh": "普7 天安门",
     "year": 1954,
     "date": "1954年7月1日",
@@ -192,7 +192,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:238",
-    "name": "Economic progress",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年5月1日",
@@ -215,7 +215,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:239",
-    "name": "Economic progress",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年5月1日",
@@ -238,7 +238,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:240",
-    "name": "Economic progress",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年5月1日",
@@ -261,7 +261,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:241",
-    "name": "Economic progress",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年5月1日",
@@ -284,7 +284,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:242",
-    "name": "Economic progress",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年5月1日",
@@ -307,7 +307,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:243",
-    "name": "Economic progress",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年5月1日",
@@ -330,7 +330,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:244",
-    "name": "Economic progress",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年5月1日",
@@ -353,7 +353,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:245",
-    "name": "Economic progress",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年5月1日",
@@ -376,7 +376,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:246",
-    "name": "Lenin-Stalin",
+    "name": "纪25 列宁逝世三十周年",
     "nameZh": "纪25 列宁逝世三十周年",
     "year": 1954,
     "date": "1954年6月30日",
@@ -399,7 +399,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:247",
-    "name": "Vladimir Lenin (1870-1924)",
+    "name": "纪25 列宁逝世三十周年",
     "nameZh": "纪25 列宁逝世三十周年",
     "year": 1954,
     "date": "1954年6月30日",
@@ -422,7 +422,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:248",
-    "name": "Vladimir Lenin (1870-1924)",
+    "name": "纪25 列宁逝世三十周年",
     "nameZh": "纪25 列宁逝世三十周年",
     "year": 1954,
     "date": "1954年6月10日",
@@ -445,7 +445,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:249",
-    "name": "Neolithic Period Pottery Vessels",
+    "name": "特9 伟大祖国（第五组）",
     "nameZh": "特9 伟大祖国（第五组）",
     "year": 1954,
     "date": "1954年8月25日",
@@ -468,7 +468,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:250",
-    "name": "Neolithic Period Pottery Vessels",
+    "name": "特9 伟大祖国（第五组）",
     "nameZh": "特9 伟大祖国（第五组）",
     "year": 1954,
     "date": "1954年8月25日",
@@ -491,7 +491,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:251",
-    "name": "Neolithic Period Pottery Vessels",
+    "name": "特9 伟大祖国（第五组）",
     "nameZh": "特9 伟大祖国（第五组）",
     "year": 1954,
     "date": "1954年8月25日",
@@ -514,7 +514,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:252",
-    "name": "Neolithic Period Pottery Vessels",
+    "name": "特9 伟大祖国（第五组）",
     "nameZh": "特9 伟大祖国（第五组）",
     "year": 1954,
     "date": "1954年8月25日",
@@ -537,7 +537,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:253",
-    "name": "Steel mill",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年10月1日",
@@ -560,7 +560,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:254",
-    "name": "Steel mill",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年10月1日",
@@ -583,7 +583,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:255",
-    "name": "Stalin",
+    "name": "纪26 斯大林逝世一周年",
     "nameZh": "纪26 斯大林逝世一周年",
     "year": 1954,
     "date": "1954年10月15日",
@@ -606,7 +606,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:256",
-    "name": "Stalin",
+    "name": "纪26 斯大林逝世一周年",
     "nameZh": "纪26 斯大林逝世一周年",
     "year": 1954,
     "date": "1954年10月15日",
@@ -629,7 +629,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:257",
-    "name": "Stalin",
+    "name": "纪26 斯大林逝世一周年",
     "nameZh": "纪26 斯大林逝世一周年",
     "year": 1954,
     "date": "1954年10月15日",
@@ -652,7 +652,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:258",
-    "name": "Industry and Culture exposition",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1954,
     "date": "1954年11月7日",
@@ -665,7 +665,7 @@ const YEAR_1954 = [
     "spec": "59×29毫米",
     "designer": "刘硕仁、孔绍惠",
     "printer": "北京人民印刷厂",
-    "intro": "Russian Economic、Cultural Exhibition, 北京",
+    "intro": "、, 北京",
     "stamps": [],
     "mintage": "5000000",
     "color": "红棕色",
@@ -675,7 +675,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:259",
-    "name": "Technical Progress",
+    "name": "特8 经济建设（技术）",
     "nameZh": "特8 经济建设（技术）",
     "year": 1954,
     "date": "1954年12月15日",
@@ -698,7 +698,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:260",
-    "name": "Technical Progress",
+    "name": "特8 经济建设（技术）",
     "nameZh": "特8 经济建设（技术）",
     "year": 1954,
     "date": "1954年12月15日",
@@ -721,7 +721,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:261",
-    "name": "Woman leaving the vote",
+    "name": "纪28 第一届全国人民代表大会",
     "nameZh": "纪28 第一届全国人民代表大会",
     "year": 1954,
     "date": "1954年12月30日",
@@ -744,7 +744,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:262",
-    "name": "1st Session of National Congress",
+    "name": "纪28 第一届全国人民代表大会",
     "nameZh": "纪28 第一届全国人民代表大会",
     "year": 1954,
     "date": "1954年12月30日",
@@ -767,7 +767,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:263",
-    "name": "New Constitution",
+    "name": "纪30 中华人民共和国宪法",
     "nameZh": "纪30 中华人民共和国宪法",
     "year": 1954,
     "date": "1954年12月30日",
@@ -790,7 +790,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:264",
-    "name": "New Constitution",
+    "name": "纪30 中华人民共和国宪法",
     "nameZh": "纪30 中华人民共和国宪法",
     "year": 1954,
     "date": "1954年12月30日",
@@ -813,7 +813,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:P10",
-    "name": "Digit in a rhombus",
+    "name": "欠1 欠资邮票（菱形数字）",
     "nameZh": "欠1 欠资邮票（菱形数字）",
     "year": 1954,
     "date": "1954年9月15日",
@@ -836,7 +836,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:P11",
-    "name": "Digit in a rhombus",
+    "name": "欠1 欠资邮票（菱形数字）",
     "nameZh": "欠1 欠资邮票（菱形数字）",
     "year": 1954,
     "date": "1954年9月15日",
@@ -859,7 +859,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:P12",
-    "name": "Digit in a rhombus",
+    "name": "欠1 欠资邮票（菱形数字）",
     "nameZh": "欠1 欠资邮票（菱形数字）",
     "year": 1954,
     "date": "1954年9月15日",
@@ -882,7 +882,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:P13",
-    "name": "Digit in a rhombus",
+    "name": "欠1 欠资邮票（菱形数字）",
     "nameZh": "欠1 欠资邮票（菱形数字）",
     "year": 1954,
     "date": "1954年9月15日",
@@ -905,7 +905,7 @@ const YEAR_1954 = [
   },
   {
     "zihao": "Mi:P14",
-    "name": "Digit in a rhombus",
+    "name": "欠1 欠资邮票（菱形数字）",
     "nameZh": "欠1 欠资邮票（菱形数字）",
     "year": 1954,
     "date": "1954年8月18日",

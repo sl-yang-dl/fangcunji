@@ -8,7 +8,7 @@
 const YEAR_1969 = [
   {
     "zihao": "Mi:1029",
-    "name": "Jangtse bridge",
+    "name": "南京长江大桥",
     "nameZh": "南京长江大桥",
     "year": 1969,
     "date": "1969年5月1日",
@@ -31,7 +31,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1030",
-    "name": "Jangtse bridge",
+    "name": "南京长江大桥",
     "nameZh": "南京长江大桥",
     "year": 1969,
     "date": "1969年5月1日",
@@ -54,7 +54,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1031",
-    "name": "Jangtse bridge",
+    "name": "南京长江大桥",
     "nameZh": "南京长江大桥",
     "year": 1969,
     "date": "1969年5月1日",
@@ -77,7 +77,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1032",
-    "name": "Jangtse bridge",
+    "name": "南京长江大桥",
     "nameZh": "南京长江大桥",
     "year": 1969,
     "date": "1969年5月1日",
@@ -100,7 +100,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1033",
-    "name": "Singer in Role of Li Yuhe",
+    "name": "革命现代京剧《红灯记》",
     "nameZh": "革命现代京剧《红灯记》",
     "year": 1969,
     "date": "1969年8月1日",
@@ -113,7 +113,7 @@ const YEAR_1969 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "Songs from \"The Red Lantern\" Opera 浏览器",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -123,7 +123,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1034",
-    "name": "Singer in Role of Li Tiemei",
+    "name": "革命现代京剧《红灯记》",
     "nameZh": "革命现代京剧《红灯记》",
     "year": 1969,
     "date": "1969年8月1日",
@@ -136,7 +136,7 @@ const YEAR_1969 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "Songs from \"The Red Lantern\" Opera 浏览器",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -146,7 +146,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1035",
-    "name": "Agriculture students",
+    "name": "知识青年上山下乡",
     "nameZh": "知识青年上山下乡",
     "year": 1969,
     "date": "1969年10月1日",
@@ -169,7 +169,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1036",
-    "name": "Agriculture students",
+    "name": "知识青年上山下乡",
     "nameZh": "知识青年上山下乡",
     "year": 1969,
     "date": "1969年10月1日",
@@ -192,7 +192,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1037",
-    "name": "Agriculture students",
+    "name": "知识青年上山下乡",
     "nameZh": "知识青年上山下乡",
     "year": 1969,
     "date": "1969年10月1日",
@@ -215,7 +215,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1038",
-    "name": "Agriculture students",
+    "name": "知识青年上山下乡",
     "nameZh": "知识青年上山下乡",
     "year": 1969,
     "date": "1969年10月1日",
@@ -238,7 +238,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1039",
-    "name": "To defend the frontier",
+    "name": "毛泽东思想胜利万岁",
     "nameZh": "毛泽东思想胜利万岁",
     "year": 1969,
     "date": "1969年10月1日",
@@ -261,7 +261,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1040",
-    "name": "Military and civilian defensive coast defence",
+    "name": "毛泽东思想胜利万岁",
     "nameZh": "毛泽东思想胜利万岁",
     "year": 1969,
     "date": "1969年10月1日",
@@ -284,7 +284,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1041",
-    "name": "Civil-military unity",
+    "name": "毛泽东思想胜利万岁",
     "nameZh": "毛泽东思想胜利万岁",
     "year": 1969,
     "date": "1969年10月1日",
@@ -307,7 +307,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1042",
-    "name": "Military and civilian defensive coast defence",
+    "name": "毛泽东思想胜利万岁",
     "nameZh": "毛泽东思想胜利万岁",
     "year": 1969,
     "date": "1969年10月1日",
@@ -330,7 +330,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1043",
-    "name": "To defend the frontier",
+    "name": "毛泽东思想胜利万岁",
     "nameZh": "毛泽东思想胜利万岁",
     "year": 1969,
     "date": "1969年10月1日",
@@ -353,7 +353,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1044A",
-    "name": "Farm Woman",
+    "name": "中国人民",
     "nameZh": "中国人民",
     "year": 1969,
     "date": "1969年10月1日",
@@ -376,7 +376,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1044C",
-    "name": "Farm Woman",
+    "name": "中国人民",
     "nameZh": "中国人民",
     "year": 1969,
     "date": "1969年10月1日",
@@ -399,7 +399,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1045A",
-    "name": "Foundry worker",
+    "name": "中国人民",
     "nameZh": "中国人民",
     "year": 1969,
     "date": "1969年10月1日",
@@ -422,7 +422,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1045C",
-    "name": "Foundry worker",
+    "name": "中国人民",
     "nameZh": "中国人民",
     "year": 1969,
     "date": "1969年10月1日",
@@ -445,7 +445,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1046A",
-    "name": "Soldier",
+    "name": "中国人民",
     "nameZh": "中国人民",
     "year": 1969,
     "date": "1969年10月1日",
@@ -468,7 +468,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1048",
-    "name": "Gate of Heavenly Peace type II",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1969,
     "date": "1969年10月1日",
@@ -481,7 +481,7 @@ const YEAR_1969 = [
     "spec": "27.5×22.5毫米",
     "designer": "",
     "printer": "",
-    "intro": "Two types of this 邮票 were released: Type I - Strong definite halo around the sun Type II - Halo missing, white around sun gradually turns to red",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -491,7 +491,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Mi:1049C",
-    "name": "Pagoda Hill,Yenan",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1969,
     "date": "1969年10月1日",
@@ -504,7 +504,7 @@ const YEAR_1969 = [
     "spec": "27.5×22.5毫米",
     "designer": "",
     "printer": "",
-    "intro": "无背胶",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -514,7 +514,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Sn:CN 1011a",
-    "name": "Civil-military unity",
+    "name": "毛泽东思想胜利万岁",
     "nameZh": "毛泽东思想胜利万岁",
     "year": 1969,
     "date": "1969年10月1日",
@@ -537,7 +537,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Sn:CN 1018a",
-    "name": "Soldier",
+    "name": "中国人民",
     "nameZh": "中国人民",
     "year": 1969,
     "date": "1969年10月1日",
@@ -560,7 +560,7 @@ const YEAR_1969 = [
   },
   {
     "zihao": "Sn:CN 1025a",
-    "name": "Gate of Heavenly Peace type I",
+    "name": "革命圣地",
     "nameZh": "革命圣地",
     "year": 1969,
     "date": "1969年10月1日",
@@ -573,7 +573,7 @@ const YEAR_1969 = [
     "spec": "27.5×22.5毫米",
     "designer": "",
     "printer": "",
-    "intro": "Two types of this 邮票 were released: Type I - Strong definite halo around the sun Type II - Halo missing, white around sun gradually turns to red",
+    "intro": "文革时期邮票题材集中于领袖像、语录、工农兵与样板戏，设计具强烈时代特征，是特殊历史阶段的实物见证。",
     "stamps": [],
     "mintage": "",
     "color": "多色的",

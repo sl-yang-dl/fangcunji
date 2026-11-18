@@ -8,7 +8,7 @@
 const YEAR_1959 = [
   {
     "zihao": "Mi:426",
-    "name": "Paper cutouts",
+    "name": "特27 民间艺术（剪纸）",
     "nameZh": "特27 民间艺术（剪纸）",
     "year": 1959,
     "date": "1959年1月1日",
@@ -31,7 +31,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:427",
-    "name": "Paper cutouts",
+    "name": "特27 民间艺术（剪纸）",
     "nameZh": "特27 民间艺术（剪纸）",
     "year": 1959,
     "date": "1959年1月1日",
@@ -54,7 +54,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:428",
-    "name": "Paper Cutouts",
+    "name": "特27 民间艺术（剪纸）",
     "nameZh": "特27 民间艺术（剪纸）",
     "year": 1959,
     "date": "1959年1月1日",
@@ -77,7 +77,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:429",
-    "name": "Paper cutouts",
+    "name": "特27 民间艺术（剪纸）",
     "nameZh": "特27 民间艺术（剪纸）",
     "year": 1959,
     "date": "1959年1月1日",
@@ -90,7 +90,7 @@ const YEAR_1959 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "No gum 版",
+    "intro": "版",
     "stamps": [],
     "mintage": "",
     "color": "黑色,深蓝色",
@@ -100,7 +100,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:430",
-    "name": "Great Leap Forward",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1959,
     "date": "1959年2月15日",
@@ -123,7 +123,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:431",
-    "name": "Great Leap Forward",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1959,
     "date": "1959年2月15日",
@@ -146,7 +146,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:432",
-    "name": "Great Leap Forward",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1959,
     "date": "1959年5月27日",
@@ -169,7 +169,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:433",
-    "name": "International Women’s Day",
+    "name": "国际妇女节",
     "nameZh": "国际妇女节",
     "year": 1959,
     "date": "1959年3月8日",
@@ -192,7 +192,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:434",
-    "name": "International Women’s Day",
+    "name": "国际妇女节",
     "nameZh": "国际妇女节",
     "year": 1959,
     "date": "1959年3月8日",
@@ -215,7 +215,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:435",
-    "name": "Museum of Natural History",
+    "name": "特31 自然博物馆",
     "nameZh": "特31 自然博物馆",
     "year": 1959,
     "date": "1959年4月1日",
@@ -238,7 +238,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:436",
-    "name": "Museum of Natural History",
+    "name": "特31 自然博物馆",
     "nameZh": "特31 自然博物馆",
     "year": 1959,
     "date": "1959年4月1日",
@@ -261,7 +261,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:437",
-    "name": "Barley",
+    "name": "特30 农业大跃进（农作物）",
     "nameZh": "特30 农业大跃进（农作物）",
     "year": 1959,
     "date": "1959年4月25日",
@@ -284,7 +284,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:437",
-    "name": "Harvest",
+    "name": "特30 农业大跃进（农作物）",
     "nameZh": "特30 农业大跃进（农作物）",
     "year": 1959,
     "date": "1959年4月25日",
@@ -297,7 +297,7 @@ const YEAR_1959 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "星,农业,植物 (花卉),谷物,蔬菜",
+    "intro": "星,农业,植物(花卉),谷物,蔬菜",
     "stamps": [],
     "mintage": "",
     "color": "朱红色",
@@ -307,7 +307,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:438",
-    "name": "Rice",
+    "name": "特30 农业大跃进（农作物）",
     "nameZh": "特30 农业大跃进（农作物）",
     "year": 1959,
     "date": "1959年4月25日",
@@ -330,7 +330,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:439",
-    "name": "Cotton",
+    "name": "特30 农业大跃进（农作物）",
     "nameZh": "特30 农业大跃进（农作物）",
     "year": 1959,
     "date": "1959年4月25日",
@@ -353,7 +353,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:440",
-    "name": "Soya",
+    "name": "特30 农业大跃进（农作物）",
     "nameZh": "特30 农业大跃进（农作物）",
     "year": 1959,
     "date": "1959年4月25日",
@@ -376,7 +376,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:441",
-    "name": "International Labor Day",
+    "name": "纪21 国际劳动节",
     "nameZh": "纪21 国际劳动节",
     "year": 1959,
     "date": "1959年5月1日",
@@ -399,7 +399,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:442",
-    "name": "International Labor Day",
+    "name": "纪21 国际劳动节",
     "nameZh": "纪21 国际劳动节",
     "year": 1959,
     "date": "1959年5月1日",
@@ -422,7 +422,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:443",
-    "name": "International Labor Day",
+    "name": "纪21 国际劳动节",
     "nameZh": "纪21 国际劳动节",
     "year": 1959,
     "date": "1959年5月1日",
@@ -445,7 +445,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:444",
-    "name": "Opening of New Peking Airport",
+    "name": "特29 首都机场",
     "nameZh": "特29 首都机场",
     "year": 1959,
     "date": "1959年6月20日",
@@ -468,7 +468,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:445",
-    "name": "Opening of new Peking Airport",
+    "name": "特29 首都机场",
     "nameZh": "特29 首都机场",
     "year": 1959,
     "date": "1959年6月20日",
@@ -491,7 +491,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:446",
-    "name": "40th anniv. of the May 4th students’ uprising.",
+    "name": "纪63 五四运动四十周年",
     "nameZh": "纪63 五四运动四十周年",
     "year": 1959,
     "date": "1959年7月1日",
@@ -514,7 +514,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:447",
-    "name": "40th anniv. of the May 4th students’ uprising.",
+    "name": "纪63 五四运动四十周年",
     "nameZh": "纪63 五四运动四十周年",
     "year": 1959,
     "date": "1959年7月1日",
@@ -537,7 +537,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:448",
-    "name": "Frédéric Joliot-Curie (1900-1958)",
+    "name": "纪65 世界和平运动十周年",
     "nameZh": "纪65 世界和平运动十周年",
     "year": 1959,
     "date": "1959年7月25日",
@@ -560,7 +560,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:449",
-    "name": "People of different races",
+    "name": "纪65 世界和平运动十周年",
     "nameZh": "纪65 世界和平运动十周年",
     "year": 1959,
     "date": "1959年7月25日",
@@ -583,7 +583,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:450",
-    "name": "Stamp Printing Plant",
+    "name": "特26 邮票印刷厂",
     "nameZh": "特26 邮票印刷厂",
     "year": 1959,
     "date": "1959年8月15日",
@@ -596,7 +596,7 @@ const YEAR_1959 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "无背胶 版  Chinese-Czech Co-operation in Postage 邮票 Production",
+    "intro": "无背胶 版 - - 邮票",
     "stamps": [],
     "mintage": "",
     "color": "暗蓝绿色",
@@ -606,7 +606,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:451",
-    "name": "Tabletennis championships",
+    "name": "纪70 全国乒乓球锦标赛",
     "nameZh": "纪70 全国乒乓球锦标赛",
     "year": 1959,
     "date": "1959年8月30日",
@@ -629,7 +629,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:452",
-    "name": "Tabletennis championships",
+    "name": "纪70 全国乒乓球锦标赛",
     "nameZh": "纪70 全国乒乓球锦标赛",
     "year": 1959,
     "date": "1959年8月30日",
@@ -652,7 +652,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:453",
-    "name": "Soviet Space Rocket",
+    "name": "特27 宇宙火箭",
     "nameZh": "特27 宇宙火箭",
     "year": 1959,
     "date": "1959年9月10日",
@@ -665,7 +665,7 @@ const YEAR_1959 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "无背胶 版   Launching of First Lunar Rocket",
+    "intro": "无背胶 版",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -675,7 +675,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:454",
-    "name": "Sun Rising over “Industry and Agriculture\"",
+    "name": "特8 经济建设",
     "nameZh": "特8 经济建设",
     "year": 1959,
     "date": "1959年9月25日",
@@ -698,7 +698,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:455",
-    "name": "Backyard Steel Production",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -721,7 +721,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:456",
-    "name": "Farming",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -744,7 +744,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:457",
-    "name": "Trade",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -767,7 +767,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:458",
-    "name": "Education",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -790,7 +790,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:459",
-    "name": "Militia",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -813,7 +813,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:460",
-    "name": "Communal dining",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -836,7 +836,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:461",
-    "name": "Nursery",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -859,7 +859,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:462",
-    "name": "Care for the aged",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -882,7 +882,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:463",
-    "name": "Health services",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -905,7 +905,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:464",
-    "name": "Flutist; culture and sports",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -928,7 +928,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:465",
-    "name": "Flower symbolizing",
+    "name": "纪73 人民公社化",
     "nameZh": "纪73 人民公社化",
     "year": 1959,
     "date": "1959年9月25日",
@@ -951,7 +951,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:466",
-    "name": "Mao and Gate of Heavently Peace",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年9月28日",
@@ -974,7 +974,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:467",
-    "name": "Marx, Lenin and Kremlin",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年9月28日",
@@ -997,7 +997,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:468",
-    "name": "Dove over globe",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年9月28日",
@@ -1020,7 +1020,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:469",
-    "name": "Coat of Arms",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1043,7 +1043,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:470",
-    "name": "Coat of Arms",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1066,7 +1066,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:471",
-    "name": "Coat of Arms",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1089,7 +1089,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:472",
-    "name": "Coat of Arms",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1112,7 +1112,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:473",
-    "name": "Blast Furnaces",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1135,7 +1135,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:474",
-    "name": "Large coal mine",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1158,7 +1158,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:475",
-    "name": "Planer, Wuhan heavy machinery plant",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1181,7 +1181,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:476",
-    "name": "Wuhan Yangtze River Bridge",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1204,7 +1204,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:477",
-    "name": "Combine harvester",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1227,7 +1227,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:478",
-    "name": "Hsinankiang Hydroelectric Station",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1250,7 +1250,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:479",
-    "name": "Spinning machine",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1273,7 +1273,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:480",
-    "name": "Kirin chemical fertilizer plant",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1296,7 +1296,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:481",
-    "name": "Celebration at Gate of Heavenly Gate",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1319,7 +1319,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:482",
-    "name": "Workers and factory",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1342,7 +1342,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:483",
-    "name": "People rejoicing",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1365,7 +1365,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:484",
-    "name": "Mao Proclaiming Republic",
+    "name": "纪71 中华人民共和国成立十周年",
     "nameZh": "纪71 中华人民共和国成立十周年",
     "year": 1959,
     "date": "1959年10月1日",
@@ -1388,7 +1388,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:485",
-    "name": "Pioneers’ emblem",
+    "name": "纪64 中国少年先锋队建队十周年",
     "nameZh": "纪64 中国少年先锋队建队十周年",
     "year": 1959,
     "date": "1959年11月10日",
@@ -1411,7 +1411,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:486",
-    "name": "Pioneer Bugler",
+    "name": "纪64 中国少年先锋队建队十周年",
     "nameZh": "纪64 中国少年先锋队建队十周年",
     "year": 1959,
     "date": "1959年11月10日",
@@ -1434,7 +1434,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:487",
-    "name": "Schoolgirl",
+    "name": "纪64 中国少年先锋队建队十周年",
     "nameZh": "纪64 中国少年先锋队建队十周年",
     "year": 1959,
     "date": "1959年11月10日",
@@ -1457,7 +1457,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:488",
-    "name": "10 years Youth Organisation",
+    "name": "纪64 中国少年先锋队建队十周年",
     "nameZh": "纪64 中国少年先锋队建队十周年",
     "year": 1959,
     "date": "1959年11月10日",
@@ -1480,7 +1480,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:489",
-    "name": "Boy planting tree",
+    "name": "纪64 中国少年先锋队建队十周年",
     "nameZh": "纪64 中国少年先锋队建队十周年",
     "year": 1959,
     "date": "1959年11月10日",
@@ -1503,7 +1503,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:490",
-    "name": "10 years Youth Organisation",
+    "name": "纪64 中国少年先锋队建队十周年",
     "nameZh": "纪64 中国少年先锋队建队十周年",
     "year": 1959,
     "date": "1959年11月10日",
@@ -1526,7 +1526,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:491",
-    "name": "Industry exposition",
+    "name": "特32 工业交通展览",
     "nameZh": "特32 工业交通展览",
     "year": 1959,
     "date": "1959年12月1日",
@@ -1549,7 +1549,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:492",
-    "name": "Industry exposition",
+    "name": "特32 工业交通展览",
     "nameZh": "特32 工业交通展览",
     "year": 1959,
     "date": "1959年12月1日",
@@ -1572,7 +1572,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:493",
-    "name": "New Culture Palace",
+    "name": "特28 民族文化宫",
     "nameZh": "特28 民族文化宫",
     "year": 1959,
     "date": "1959年12月10日",
@@ -1595,7 +1595,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:494",
-    "name": "New Culture Palace",
+    "name": "特28 民族文化宫",
     "nameZh": "特28 民族文化宫",
     "year": 1959,
     "date": "1959年12月10日",
@@ -1618,7 +1618,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:495",
-    "name": "Statue of Sport",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1641,7 +1641,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:496",
-    "name": "Parachuting",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1664,7 +1664,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:497",
-    "name": "Pistol-Shooting",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1687,7 +1687,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:498",
-    "name": "Diving",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1700,7 +1700,7 @@ const YEAR_1959 = [
     "spec": "",
     "designer": "",
     "printer": "",
-    "intro": "运动,水上运动,潜水 （潜水浮潜）",
+    "intro": "运动,水上运动,潜水（潜水浮潜）",
     "stamps": [],
     "mintage": "",
     "color": "多色的",
@@ -1710,7 +1710,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:499",
-    "name": "Table-Tennis",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1733,7 +1733,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:500",
-    "name": "Weightlifting",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1756,7 +1756,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:501",
-    "name": "High Jumping",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1779,7 +1779,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:502",
-    "name": "Rowing",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1802,7 +1802,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:503",
-    "name": "Running",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1825,7 +1825,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:504",
-    "name": "Basketball",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1848,7 +1848,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:505",
-    "name": "Fencing",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1871,7 +1871,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:506",
-    "name": "Motor Cycling",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1894,7 +1894,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:507",
-    "name": "Gymnastics",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1917,7 +1917,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:508",
-    "name": "Cycling",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1940,7 +1940,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:509",
-    "name": "Horce racing",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
@@ -1963,7 +1963,7 @@ const YEAR_1959 = [
   },
   {
     "zihao": "Mi:510",
-    "name": "Football",
+    "name": "纪72 第一届全国运动会",
     "nameZh": "纪72 第一届全国运动会",
     "year": 1959,
     "date": "1959年12月28日",
