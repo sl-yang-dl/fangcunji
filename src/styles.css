@@ -819,7 +819,7 @@ body::before {
 /* 弹窗内留言板：作为与“邮票介绍”同级的分区，用细分隔线 + 适度间距明确分区 */
 .modal .guestbook {
   margin: 0;
-  padding: 22px 0 0;
+  padding: 42px 0 0;
   background: transparent;
   border-top: 1px solid var(--line);
 }
