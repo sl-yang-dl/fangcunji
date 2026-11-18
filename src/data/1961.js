@@ -435,7 +435,7 @@ const YEAR_1961 = [
     "spec": "30×40毫米",
     "designer": "",
     "printer": "",
-    "intro": "Chan Tien-yu",
+    "intro": "（暂无中文简介）",
     "stamps": [],
     "mintage": "",
     "color": "灰色",
