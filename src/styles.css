@@ -816,12 +816,12 @@ body::before {
   background: var(--paper);
   border-top: 1px solid var(--line);
 }
-/* 弹窗内留言板：作为与“邮票介绍”同级的分区，消除上方大留白 */
+/* 弹窗内留言板：作为与“邮票介绍”同级的分区，用细分隔线 + 适度间距明确分区 */
 .modal .guestbook {
   margin: 0;
-  padding: 0;
+  padding: 22px 0 0;
   background: transparent;
-  border-top: none;
+  border-top: 1px solid var(--line);
 }
 .modal .guestbook-inner {
   max-width: none;
@@ -837,6 +837,7 @@ body::before {
   margin-bottom: 14px;
 }
 .modal .guestbook-head h2 {
+  flex: 1;
   font-size: 16px;
   font-weight: 700;
   color: var(--cinnabar);
