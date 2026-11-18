@@ -1,0 +1,55 @@
+# ============================================================
+# 邮票图片批量处理（可选 · 手动触发）
+#
+# 目的：
+#   你把原始图片（png/jpg）放进仓库根目录 assets-src/stamps/，
+#   命名与 src/data.js 中邮票的 id 保持一致（可带任意扩展名）。
+#   手动触发本工作流，它会把每张图：
+#     1. 转成 WebP
+#     2. 压缩（限制最长边、适当质量）
+#     3. 输出到 public/stamps/{id}.webp
+#     4. 同步更新 src/data.js 中对应邮票的 image 字段
+#   然后自动提交改动（push 到当前分支），无需手动处理。
+#
+# 为什么用"手动触发"而不是放进部署流程：
+#   - 图片是"数据资产"，转换一次、提交成果即可；
+#   - 每次部署都现转会拖慢部署、且本地 dev 看不到产物；
+#   - 只有新增图片时才需要手动跑一次本工作流。
+#
+# 触发方式：
+#   仓库 Actions 页面 -> 左侧 "Stamp images" -> Run workflow -> 选择分支 -> Run
+# ============================================================
+name: Stamp images
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: 安装图片处理依赖
+        run: npm i -D sharp
+
+      - name: 转换 / 压缩 / 更新 data.js
+        run: node scripts/process-stamp-images.mjs
+
+      - name: 提交图片与数据改动
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(stamps): process stamp images to webp"
+          file_pattern: "public/stamps/ src/data.js"

@@ -1,0 +1,939 @@
+/* =====================================================================
+   中国邮票图鉴 · 新中式「流金岁月」· 丹青年鉴
+   风格：东方极简杂志感 · 温润纸质 · 传统中国色
+   色系：月白 / 古籍纸 / 黛青 / 胭脂 / 流金 / 竹青
+   布局：主内容为纵向时间轴，每一年一个节点并展示该年邮票
+   ===================================================================== */
+
+:root {
+  --paper: #f4efe3;          /* 月白底 */
+  --paper-deep: #ece3d0;     /* 古籍纸 */
+  --paper-card: #fbf7ec;     /* 卡片纸 */
+  --ink: #332f28;            /* 墨黑 */
+  --ink-soft: #7d7260;       /* 淡墨 */
+  --ink-faint: #a89b82;      /* 极淡墨 */
+  --cinnabar: #a63a3a;       /* 胭脂 */
+  --cinnabar-deep: #842a2a;  /* 深胭脂 */
+  --cinnabar-deepest: #5d1c1c; /* 最深胭脂 */
+  --daiqing: #2b4149;        /* 黛青 */
+  --daiqing-deep: #1f3138;   /* 深黛青 */
+  --daiqing-soft: #52707b;   /* 浅黛青 */
+  --gold: #c9a24b;           /* 流金 */
+  --gold-light: #e3cd90;     /* 浅流金 */
+  --gold-dark: #a37e2f;      /* 深流金 */
+  --bamboo: #7a8b6f;         /* 竹青 */
+  --line: #e0d5bb;           /* 细墨线 */
+  --line-strong: #d1c1a0;    /* 重墨线 */
+  --shadow: 0 10px 30px rgba(74, 58, 34, 0.12);
+  --shadow-hover: 0 24px 52px rgba(74, 58, 34, 0.22);
+  --radius: 10px;
+  --radius-sm: 6px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  background-color: var(--paper);
+  /* 温润纸质 + 若有若无的流金与胭脂晕染 */
+  background-image:
+    radial-gradient(circle at 18% 10%, rgba(201,162,75,0.06), transparent 40%),
+    radial-gradient(circle at 82% 16%, rgba(166,58,58,0.04), transparent 40%),
+    radial-gradient(circle at 50% 92%, rgba(43,65,73,0.04), transparent 45%);
+  background-attachment: fixed;
+  color: var(--ink);
+  min-height: 100vh;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 古籍纸纤维颗粒 */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.4;
+  background-image:
+    repeating-radial-gradient(circle at 20% 30%, rgba(120,100,70,0.05) 0 0.5px, transparent 0.6px 2px);
+  mix-blend-mode: multiply;
+}
+
+::selection { background: var(--cinnabar); color: #fdf6e3; }
+
+/* ===== 顶部导航：黛青流金长卷 ===== */
+.site-header {
+  position: relative;
+  background:
+    linear-gradient(180deg, var(--daiqing-deep) 0%, var(--daiqing) 55%, #33505a 100%);
+  color: #f2ead7;
+  padding: 50px 0 118px;
+  overflow: hidden;
+}
+.site-header::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 15% 25%, rgba(255,250,235,0.09), transparent 40%),
+    radial-gradient(circle at 85% 18%, rgba(201,162,75,0.12), transparent 36%);
+  pointer-events: none;
+}
+
+/* 顶部流金细线与对称回纹 */
+.header-filigree {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 400px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, rgba(201,162,75,0.7) 18%, rgba(201,162,75,0.7) 82%, transparent);
+}
+.header-filigree::before,
+.header-filigree::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 7px; height: 7px;
+  border: 1.5px solid rgba(201,162,75,0.8);
+  transform: translateY(-50%) rotate(45deg);
+}
+.header-filigree::before { left: 6px; }
+.header-filigree::after { right: 6px; }
+
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 28px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  z-index: 2;
+}
+
+.brand { display: flex; flex-direction: column; gap: 16px; }
+.brand-row { display: flex; align-items: center; gap: 18px; }
+
+/* 胭脂白文印 LOGO */
+.brand-seal {
+  width: 62px;
+  height: 62px;
+  border-radius: 5px;
+  background: var(--cinnabar);
+  color: #fbf2dd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", serif;
+  font-size: 38px;
+  font-weight: 700;
+  box-shadow: 0 8px 24px rgba(160,40,30,0.5), inset 0 0 0 2px rgba(251,242,221,0.5);
+  position: relative;
+  flex-shrink: 0;
+}
+.brand-seal::after {
+  content: "";
+  position: absolute;
+  inset: 5px;
+  border: 1.5px solid rgba(251,242,221,0.38);
+  border-radius: 2px;
+}
+
+.brand-text { text-align: left; }
+.brand-title {
+  font-size: 42px;
+  font-weight: 800;
+  letter-spacing: 5px;
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", "Songti SC", serif;
+  text-shadow: 0 3px 16px rgba(0,0,0,0.4);
+  color: #faf3e0;
+  line-height: 1.15;
+}
+.brand-title .zh {
+  color: var(--gold-light);
+  font-size: 0.72em;
+}
+.brand-sub {
+  font-size: 13px;
+  opacity: 0.85;
+  letter-spacing: 4px;
+  margin-top: 6px;
+  color: #d9caa6;
+}
+.brand-rule { display: flex; align-items: center; gap: 10px; max-width: 320px; }
+.brand-rule span { flex: 1; height: 1px; background: linear-gradient(90deg, transparent, rgba(201,162,75,0.6)); }
+.brand-rule i { width: 7px; height: 7px; background: var(--gold); border-radius: 50%; box-shadow: 0 0 10px rgba(227,205,144,0.9); }
+
+.brand-colophon {
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", serif;
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: rgba(217,202,166,0.8);
+  border-left: 2px solid var(--gold);
+  padding-left: 12px;
+}
+
+.header-stats {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(15,25,30,0.4);
+  border: 1px solid rgba(201,162,75,0.28);
+  padding: 14px 20px;
+  border-radius: 8px;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+}
+.stat { text-align: center; padding: 0 8px; min-width: 74px; }
+.stat-num {
+  font-size: 30px;
+  font-weight: 800;
+  display: block;
+  color: #faf3e0;
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+  font-family: Georgia, "Songti SC", serif;
+}
+.stat-num.gold { color: var(--gold-light); }
+.stat-label { font-size: 11px; opacity: 0.85; letter-spacing: 2px; margin-top: 3px; display: block; color: #d9caa6; }
+
+/* 卷边波 */
+.header-wave {
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 100%;
+  height: 66px;
+  display: block;
+  filter: drop-shadow(0 -4px 10px rgba(0,0,0,0.1));
+}
+
+/* ===== 工具栏 ===== */
+.toolbar { padding: 28px 0 6px; position: relative; z-index: 3; }
+.toolbar-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 28px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px;
+}
+.search-box {
+  flex: 1 1 280px;
+  display: flex;
+  align-items: center;
+  background: var(--paper-card);
+  border: 1px solid var(--line-strong);
+  border-radius: 40px;
+  padding: 0 8px 0 18px;
+  height: 48px;
+  box-shadow: var(--shadow);
+  transition: border-color .2s, box-shadow .2s;
+}
+.search-box:focus-within { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(201,162,75,0.18); }
+.search-icon { color: var(--gold-dark); margin-right: 10px; flex-shrink: 0; }
+.search-box input {
+  border: none;
+  outline: none;
+  background: transparent;
+  width: 100%;
+  font-size: 14px;
+  color: var(--ink);
+}
+.search-clear {
+  border: none;
+  background: var(--paper-deep);
+  color: var(--ink-soft);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 15px;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+.search-clear.show { display: flex; }
+
+.filter-group { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.filter-label { font-size: 12px; color: var(--ink-soft); letter-spacing: 1px; font-family: "Kaiti SC", serif; }
+.filter-select {
+  border: 1px solid var(--line-strong);
+  background: var(--paper-card);
+  border-radius: 8px;
+  padding: 11px 12px;
+  font-size: 13px;
+  color: var(--ink);
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  transition: border-color .2s;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23a37e2f'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  padding-right: 30px;
+}
+.filter-select:hover, .filter-select:focus { border-color: var(--gold); outline: none; }
+.filter-btn {
+  border: 1px solid var(--line-strong);
+  background: var(--paper-card);
+  border-radius: 8px;
+  padding: 11px 16px;
+  font-size: 13px;
+  color: var(--ink);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  box-shadow: var(--shadow);
+  transition: all .2s;
+}
+.filter-btn:hover { border-color: var(--cinnabar); color: var(--cinnabar); transform: translateY(-1px); }
+.filter-btn.ghost { background: transparent; box-shadow: none; }
+.filter-btn.active { background: var(--daiqing); color: #f2ead7; border-color: var(--daiqing); }
+.btn-icon { font-size: 12px; }
+
+/* ===== 视图切换（卡片 / 月份横轴）===== */
+.view-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  background: var(--paper-card);
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  padding: 3px;
+}
+.view-btn {
+  border: none;
+  background: transparent;
+  padding: 7px 14px;
+  font-size: 13px;
+  font-family: "Kaiti SC", serif;
+  color: var(--ink-soft);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all .18s ease;
+}
+.view-btn:hover { color: var(--cinnabar); }
+.view-btn.active {
+  background: var(--cinnabar);
+  color: #f7f0dd;
+  box-shadow: 0 2px 6px rgba(166,58,58,0.35);
+}
+
+/* ===== 分类标签 ===== */
+.tabs { max-width: 1100px; margin: 16px auto 4px; padding: 0 28px; }
+.tabs-inner {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  overflow-x: auto;
+  padding-bottom: 6px;
+  scrollbar-width: none;
+}
+.tabs-inner::-webkit-scrollbar { display: none; }
+.tab-chip {
+  border: 1px solid var(--line-strong);
+  background: var(--paper-card);
+  border-radius: 20px;
+  padding: 8px 18px;
+  font-size: 13px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all .22s;
+  color: var(--ink-soft);
+  box-shadow: var(--shadow);
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", serif;
+  letter-spacing: 1px;
+}
+.tab-chip:hover { border-color: var(--gold); color: var(--cinnabar); transform: translateY(-2px); }
+.tab-chip.active {
+  background: var(--cinnabar);
+  color: #fbf2dd;
+  border-color: var(--cinnabar);
+  box-shadow: 0 6px 16px rgba(166,58,58,0.3);
+}
+
+/* ===== 结果条 ===== */
+.grid-wrap { max-width: 1100px; margin: 0 auto; padding: 0 28px; }
+.grid-result-bar {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 16px 2px 10px;
+}
+.grid-count { font-size: 13px; color: var(--ink-soft); font-family: "Kaiti SC", serif; }
+.grid-count b { color: var(--cinnabar); font-size: 16px; font-weight: 800; }
+.grid-hint { font-size: 12px; color: var(--ink-faint); margin-left: auto; }
+
+/* ================================================================
+   卡片网格视图（全部年代 / 选中年份-卡片视图）
+   ================================================================ */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(205px, 1fr));
+  gap: 24px;
+  padding: 8px 0 56px;
+}
+
+/* ================================================================
+   月份视图：按月份为单位分隔成区块（横轴即按月分隔）
+   ================================================================ */
+.tl-h {
+  display: block;
+  padding: 8px 0 20px;
+}
+
+/* 各月份卡片区块 */
+.tl-month {
+  margin: 0 auto 8px;
+  max-width: 960px;
+  padding: 6px 0 30px;
+}
+.tl-month-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin: 0 0 22px;
+  position: relative;
+}
+.tl-month-title .m-num {
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", serif;
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: var(--cinnabar);
+  line-height: 1;
+}
+.tl-month-title .m-num small {
+  font-size: 13px;
+  letter-spacing: 1px;
+  color: var(--gold-dark);
+  vertical-align: 4px;
+  margin-left: 2px;
+}
+.tl-month-title .m-cnt {
+  font-size: 12px;
+  color: var(--ink-soft);
+  letter-spacing: 1px;
+  font-family: "Kaiti SC", serif;
+  background: var(--paper-card);
+  border: 1px solid var(--line-strong);
+  border-radius: 20px;
+  padding: 3px 14px;
+}
+.tl-month-title .m-cnt b { color: var(--gold-dark); font-weight: 800; }
+/* 月份标题两侧细线 */
+.tl-month-title::before,
+.tl-month-title::after {
+  content: "";
+  height: 1px;
+  flex: 1;
+  max-width: 120px;
+  background: linear-gradient(90deg, transparent, var(--line-strong));
+}
+.tl-month-title::before { background: linear-gradient(90deg, transparent, var(--line-strong)); }
+.tl-month-title::after { background: linear-gradient(90deg, var(--line-strong), transparent); }
+
+/* 各月份邮票网格 */
+.tl-grid {
+  max-width: 960px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(205px, 1fr));
+  gap: 24px;
+}
+
+/* ===== 邮票卡片 ===== */
+.stamp-card {
+  background: var(--paper-card);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  transition: transform .25s ease, box-shadow .25s ease;
+  border: 1px solid var(--line);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+/* 内衬金线裱边 */
+.stamp-card::after {
+  content: "";
+  position: absolute;
+  inset: 5px;
+  border: 1px solid rgba(201,162,75,0.3);
+  border-radius: 6px;
+  pointer-events: none;
+  z-index: 1;
+}
+.stamp-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius);
+  padding: 1px;
+  background: linear-gradient(160deg, rgba(201,162,75,0.6), transparent 32%, transparent 68%, rgba(166,58,58,0.42));
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  opacity: 0;
+  transition: opacity .3s;
+  pointer-events: none;
+  z-index: 4;
+}
+.stamp-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-hover);
+}
+.stamp-card:hover::before { opacity: 1; }
+
+.stamp-thumb {
+  height: 205px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 18px 16px 12px;
+  position: relative;
+  background:
+    radial-gradient(circle at 50% 20%, rgba(255,253,244,0.6), transparent 60%),
+    linear-gradient(180deg, #fdf9ec, #f1e8d4);
+  overflow: hidden;
+  border-bottom: 1px solid var(--line);
+}
+.stamp-thumb::before {
+  content: "";
+  position: absolute;
+  width: 140px; height: 140px;
+  right: -40px; top: -40px;
+  background: radial-gradient(circle, rgba(201,162,75,0.13), transparent 70%);
+  pointer-events: none;
+}
+.stamp-thumb svg {
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  filter: drop-shadow(0 5px 10px rgba(74,58,34,0.2));
+  transition: transform .25s ease;
+  position: relative;
+  z-index: 2;
+}
+.stamp-card.landscape .stamp-thumb { height: 200px; padding-left: 14px; padding-right: 14px; }
+.stamp-card.portrait .stamp-thumb svg { height: 100%; }
+.stamp-card.souvenir .stamp-thumb { height: 220px; padding: 26px 22px; }
+.stamp-card.souvenir .stamp-thumb svg { height: 100%; }
+
+.stamp-card:hover .stamp-thumb svg { transform: scale(1.02) rotate(-0.5deg); }
+
+.souvenir-tag {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 5;
+  background: var(--cinnabar);
+  color: #fbf2dd;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 3px 10px;
+  border-radius: 3px;
+  font-family: "Kaiti SC", serif;
+  box-shadow: inset 0 0 0 1px rgba(251,242,221,0.3), 0 3px 8px rgba(160,40,30,0.4);
+}
+
+.stamp-info {
+  padding: 14px 16px 16px;
+  position: relative;
+  z-index: 2;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.stamp-name {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: var(--ink);
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", serif;
+  letter-spacing: 1px;
+}
+.stamp-meta {
+  font-size: 12px;
+  color: var(--ink-soft);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.stamp-cat {
+  display: inline-block;
+  background: var(--paper-deep);
+  color: var(--daiqing);
+  border-radius: 3px;
+  padding: 1px 8px;
+  font-size: 11px;
+  font-weight: 600;
+}
+.stamp-zihao {
+  display: inline-block;
+  background: linear-gradient(135deg, rgba(166,58,58,0.08), rgba(166,58,58,0.02));
+  border: 1px solid var(--line-strong);
+  border-radius: 5px;
+  padding: 3px 10px;
+  font-size: 11px;
+  color: var(--cinnabar);
+  margin-top: 10px;
+  width: fit-content;
+  letter-spacing: 1px;
+  font-family: Georgia, serif;
+}
+
+/* ===== 空状态 ===== */
+.empty-state {
+  text-align: center;
+  padding: 80px 20px;
+  color: var(--ink-soft);
+  font-size: 15px;
+  font-family: "Kaiti SC", serif;
+}
+.empty-state .empty-art {
+  width: 72px;
+  height: 72px;
+  margin: 0 auto 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--cinnabar);
+  color: #fbf2dd;
+  border-radius: 6px;
+  font-size: 38px;
+  box-shadow: inset 0 0 0 2px rgba(251,242,221,0.4), 0 6px 16px rgba(160,40,30,0.35);
+  font-family: "Kaiti SC", serif;
+}
+
+/* ===== 页脚 ===== */
+.site-footer {
+  text-align: center;
+  padding: 34px 20px;
+  color: var(--ink-soft);
+  font-size: 12px;
+  border-top: 1px solid var(--line-strong);
+  background: var(--paper-deep);
+  position: relative;
+}
+.site-footer::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 140px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+.site-footer .foot-note { margin-top: 6px; opacity: 0.8; font-size: 11px; font-family: "Kaiti SC", serif; }
+
+/* ===== 详情弹窗：画卷 ===== */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(20, 15, 10, 0.62);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  padding: 24px;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+.modal-overlay.open { display: flex; animation: fade-in .25s ease; }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+
+.modal {
+  background: var(--paper-card);
+  border-radius: 14px;
+  max-width: 780px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 34px 90px rgba(20,15,10,0.55);
+  position: relative;
+  animation: rise .32s cubic-bezier(.2,.8,.3,1.2);
+  border: 1px solid rgba(201,162,75,0.45);
+  padding: 8px;
+}
+.modal::before {
+  content: "";
+  position: absolute;
+  inset: 8px;
+  border: 1px solid rgba(201,162,75,0.35);
+  border-radius: 8px;
+  pointer-events: none;
+  z-index: 5;
+}
+.modal::-webkit-scrollbar { width: 8px; }
+.modal::-webkit-scrollbar-thumb { background: var(--line-strong); border-radius: 4px; }
+@keyframes rise { from { transform: translateY(24px) scale(0.97); opacity: 0; } to { transform: translateY(0) scale(1); opacity: 1; } }
+
+.modal-close {
+  position: absolute;
+  top: 20px;
+  right: 22px;
+  border: none;
+  background: var(--cinnabar);
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  font-size: 22px;
+  color: #fbf2dd;
+  cursor: pointer;
+  z-index: 6;
+  line-height: 1;
+  transition: all .2s;
+  box-shadow: 0 4px 10px rgba(160,40,30,0.4);
+}
+.modal-close:hover { background: var(--cinnabar-deep); transform: rotate(90deg); }
+
+.modal-body { position: relative; z-index: 2; }
+.modal-hero {
+  padding: 30px 30px 0;
+  display: flex;
+  gap: 28px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 26px;
+}
+.modal-stamp-pic {
+  width: 200px;
+  flex-shrink: 0;
+  height: 230px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--line-strong);
+  box-shadow: var(--shadow);
+  background:
+    radial-gradient(circle at 50% 20%, rgba(255,253,244,0.6), transparent 60%),
+    linear-gradient(180deg, #fdf9ec, #f1e8d4);
+  padding: 10px;
+}
+.modal-stamp-pic svg {
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  filter: drop-shadow(0 6px 12px rgba(74,58,34,0.22));
+}
+.modal-stamp-pic.landscape { width: 250px; height: 190px; }
+.modal-stamp-pic.portrait { height: 250px; }
+.modal-stamp-pic.square { height: 220px; }
+.modal-heading { flex: 1; min-width: 250px; }
+.modal-title {
+  font-size: 28px;
+  font-weight: 800;
+  margin-bottom: 10px;
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", serif;
+  letter-spacing: 2px;
+  color: var(--ink);
+}
+.modal-sub { font-size: 13px; color: var(--ink-soft); margin-bottom: 14px; font-family: "Kaiti SC", serif; }
+.modal-en { font-size: 13px; color: var(--ink-soft); margin-bottom: 6px; letter-spacing: 0.5px; }
+.modal-zihao {
+  display: inline-block;
+  background: var(--cinnabar);
+  color: #fbf2dd;
+  border-radius: 5px;
+  padding: 4px 14px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 16px;
+  box-shadow: inset 0 0 0 1px rgba(251,242,221,0.3), 0 4px 12px rgba(166,58,58,0.3);
+  font-family: Georgia, serif;
+}
+
+.modal-specs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+  width: 100%;
+  margin-top: 4px;
+}
+.spec {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 9px 13px;
+}
+.spec-label { font-size: 11px; color: var(--ink-soft); margin-bottom: 3px; letter-spacing: 1px; font-family: "Kaiti SC", serif; }
+.spec-value { font-size: 13px; font-weight: 600; color: var(--ink); }
+
+.modal-content { padding: 26px 30px 32px; }
+.modal-section { margin-bottom: 22px; }
+.modal-section h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--cinnabar);
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: "Kaiti SC", serif;
+  letter-spacing: 1px;
+}
+.modal-section h3 .sec-dot { width: 10px; height: 10px; background: var(--gold); border-radius: 2px; transform: rotate(45deg); box-shadow: 0 2px 6px rgba(201,162,75,0.4); }
+.modal-section h3::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--line), transparent); }
+.modal-section p { font-size: 14px; line-height: 1.95; color: var(--ink); }
+
+.stamp-pieces { display: flex; flex-wrap: wrap; gap: 8px; }
+.stamp-piece {
+  background: var(--paper);
+  border: 1px solid var(--line-strong);
+  border-radius: 5px;
+  padding: 5px 12px;
+  font-size: 13px;
+  color: var(--ink);
+  font-family: "Kaiti SC", serif;
+}
+
+/* ===== 留言板 ===== */
+.guestbook {
+  padding: 48px 20px 72px;
+  background: var(--paper);
+  border-top: 1px solid var(--line);
+}
+/* 弹窗内的留言板：紧凑布局，去掉页面级外衬 */
+.modal .guestbook {
+  padding: 8px 0 4px;
+  background: transparent;
+  border-top: 1px solid var(--line);
+  margin-top: 4px;
+}
+.modal .guestbook-inner {
+  max-width: none;
+  margin: 0;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 24px 0 8px;
+  box-shadow: none;
+}
+.guestbook-inner {
+  max-width: 760px;
+  margin: 0 auto;
+  background: var(--paper-card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 32px 36px 36px;
+  box-shadow: 0 10px 30px rgba(60,40,20,0.06);
+}
+.guestbook-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.guestbook-head .sec-dot {
+  width: 10px; height: 10px;
+  background: var(--gold);
+  border-radius: 2px;
+  transform: rotate(45deg);
+  box-shadow: 0 2px 6px rgba(201,162,75,0.4);
+}
+.guestbook-head h2 {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 0;
+  letter-spacing: 1px;
+}
+.guestbook-desc {
+  font-size: 13px;
+  color: var(--ink-soft);
+  margin: 0 0 24px;
+  line-height: 1.7;
+}
+.guestbook-form { display: flex; flex-direction: column; gap: 14px; }
+.gb-input, .gb-textarea {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid var(--line-strong);
+  background: var(--paper);
+  border-radius: 6px;
+  padding: 11px 14px;
+  font-size: 14px;
+  font-family: inherit;
+  color: var(--ink);
+  transition: border-color .2s, box-shadow .2s;
+}
+.gb-input { max-width: 320px; }
+.gb-textarea { resize: vertical; line-height: 1.7; }
+.gb-input:focus, .gb-textarea:focus {
+  outline: none;
+  border-color: var(--gold);
+  box-shadow: 0 0 0 3px rgba(201,162,75,0.18);
+}
+.gb-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.gb-counter { font-size: 12px; color: var(--ink-soft); }
+.gb-submit {
+  border: none;
+  background: var(--cinnabar);
+  color: #fbf2dd;
+  border-radius: 8px;
+  padding: 12px 26px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all .2s;
+  box-shadow: 0 6px 16px rgba(166,58,58,0.25);
+}
+.gb-submit:hover:not(:disabled) { transform: translateY(-2px); box-shadow: 0 10px 22px rgba(166,58,58,0.35); }
+.gb-submit:disabled { opacity: 0.5; cursor: not-allowed; }
+.gb-tip { margin-top: 16px; padding: 12px 14px; border-radius: 6px; font-size: 13px; line-height: 1.7; }
+.gb-tip.success { background: rgba(120,170,120,0.12); color: #2f6b3a; border: 1px solid rgba(120,170,120,0.35); }
+.gb-tip.error { background: rgba(180,60,50,0.08); color: var(--cinnabar-deepest); border: 1px solid rgba(180,60,50,0.3); }
+
+/* ===== 滚动条 ===== */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--paper); }
+::-webkit-scrollbar-thumb { background: var(--line-strong); border-radius: 6px; }
+::-webkit-scrollbar-thumb:hover { background: var(--gold); }
+
+/* ===== 响应式 ===== */
+@media (max-width: 720px) {
+  .header-inner { flex-direction: column; align-items: flex-start; gap: 18px; }
+  .brand-title { font-size: 32px; letter-spacing: 3px; }
+  .brand-seal { width: 52px; height: 52px; font-size: 32px; }
+  .header-stats { align-self: stretch; justify-content: center; }
+  .site-header { padding: 38px 0 100px; }
+  .modal-hero { flex-direction: column; }
+  .modal-stamp-pic { width: 100%; max-width: 220px; }
+  .toolbar-inner, .tabs, .grid-wrap { padding-left: 18px; padding-right: 18px; }
+  /* 月份视图：移动端标题左对齐，网格收窄 */
+  .tl-month-title { justify-content: flex-start; }
+  .tl-month-title::before, .tl-month-title::after { display: none; }
+  .tl-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 16px; }
+  .grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 16px; }
+  .guestbook-inner { padding: 24px 18px 26px; }
+  .gb-actions { flex-direction: column; align-items: stretch; }
+  .gb-submit { width: 100%; }
+}

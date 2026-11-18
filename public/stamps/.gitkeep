@@ -1,0 +1,12 @@
+# 本地邮票图片目录
+#
+# 说明：
+# - 每套邮票的图片统一放这里，文件名与 src/data.js 中该邮票的 id 一致，
+#   扩展名为 webp，例如：t46-hou.webp
+# - 该目录属于 public/，Vite 构建时会原样复制到 dist/，不会被 hash 或打包。
+# - 图片为空时，前端会回退到 SVG 风格化占位图（见 src/utils.js 的 stampArtFor）。
+#
+# 生成方式（推荐）：
+# - 少量图片：本地用 cwebp / sharp / 在线工具把 png/jpg 转成 webp 后放入。
+# - 批量图片：把原始 png/jpg 放入仓库根目录 assets-src/stamps/，
+#   手动触发 .github/workflows/images.yml 自动压缩并输出到这里。

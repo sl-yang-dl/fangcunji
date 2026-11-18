@@ -1,0 +1,93 @@
+# ============================================================
+# 留言板 · GitHub Actions 代理（推荐，更安全）
+#
+# 作用：
+#   前端把留言 POST 到本工作流的 workflow_dispatch 端点，
+#   由本工作流在服务器端使用仓库的 GITHUB_TOKEN 创建 Issue。
+#   这样 Issue 创建所需的凭据只存在于 Actions 运行环境中，
+#   不会被打包进前端产物，从而避免在浏览器中暴露 token。
+#
+# 触发方式（需在仓库设置中配置一个低权限 token，见 README）：
+#   POST /repos/{owner}/{repo}/actions/workflows/guestbook-proxy.yml/dispatches
+#   Authorization: Bearer <低权限token>
+#   Content-Type: application/json
+#   body: { "ref": "main", "inputs": { "nickname": "...", "message": "..." } }
+#
+# 权限说明：
+#   - 创建 Issue 需要仓库的 issues:write 权限
+#   - 这里使用 Actions 自动提供的 GITHUB_TOKEN（在下方 permissions 声明）
+# ============================================================
+name: Guestbook Proxy
+
+on:
+  workflow_dispatch:
+    inputs:
+      nickname:
+        description: "留言昵称"
+        required: true
+        type: string
+      stampName:
+        description: "相关邮票名称（可选）"
+        required: false
+        type: string
+      message:
+        description: "留言内容"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  create-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 构造 Issue 标题与正文
+        id: body
+        run: |
+          # 从 stdin 读取输入，避免引号 / 换行被 shell 破坏
+          NICKNAME="${{ github.event.inputs.nickname }}"
+          STAMP="${{ github.event.inputs.stampName }}"
+          MESSAGE="${{ github.event.inputs.message }}"
+
+          ISSUE_TITLE="留言：${NICKNAME}"
+          if [ -n "$STAMP" ]; then
+            ISSUE_TITLE="${ISSUE_TITLE} / ${STAMP}"
+          fi
+          ISSUE_TITLE="${ISSUE_TITLE} / $(date '+%Y-%m-%d')"
+
+          ISSUE_BODY="**昵称**：${NICKNAME}"
+          if [ -n "$STAMP" ]; then
+            ISSUE_BODY="${ISSUE_BODY}"$'\n\n'"**相关邮票**：${STAMP}"
+          fi
+          ISSUE_BODY="${ISSUE_BODY}"$'\n\n---'$'\n\n'"${MESSAGE}"
+          ISSUE_BODY="${ISSUE_BODY}"$'\n\n---'$'\n\n'"_来自「中国邮票图鉴」留言板（经 GitHub Actions 代理提交）_"
+          ISSUE_BODY="${ISSUE_BODY}"$'\n\n'"_提交时间：$(date '+%Y-%m-%d %H:%M:%S %Z')_"
+
+          # 写入文件，供下一步使用（比环境变量更安全，避免特殊字符问题）
+          printf '%s' "${ISSUE_TITLE}" > issue_title.txt
+          printf '%s' "${ISSUE_BODY}" > issue_body.txt
+        shell: bash
+
+      - name: 通过 GITHUB_TOKEN 创建 Issue
+        run: |
+          TITLE=$(cat issue_title.txt)
+          BODY=$(cat issue_body.txt)
+
+          # 用 Python 构造 JSON，避免 shell 转义问题
+          python3 - <<'PY'
+          import json, os
+          title = open("issue_title.txt", encoding="utf-8").read()
+          body = open("issue_body.txt", encoding="utf-8").read()
+          with open("payload.json", "w", encoding="utf-8") as f:
+              json.dump({"title": title, "body": body}, f, ensure_ascii=False)
+          PY
+
+          curl -sS -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            -H "Content-Type: application/json" \
+            --data-binary @payload.json \
+            "https://api.github.com/repos/${{ github.repository }}/issues"

@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+
+# Node
+node_modules/
+dist/
+
+# 环境变量（含 GitHub token，切勿提交）
+.env
+.env.local
+
+# 内部规划文档（不公开）
+上线方案.md
+
+# 一次性 / 草稿脚本（非产品组成）
+scripts/_*
+
+# 原始邮票图片（体积大，不入库；只入库 public/stamps/ 压缩后的 webp）
+assets-src/
