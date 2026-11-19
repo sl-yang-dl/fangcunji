@@ -854,7 +854,7 @@ body::before {
   height: 1px;
   background: linear-gradient(90deg, var(--line), transparent);
 }
-.modal .guestbook-desc { margin: 0 0 16px; font-size: 13px; color: var(--ink-soft); line-height: 1.7; }
+.modal .guestbook-desc { margin: 0 0 24px; font-size: 13px; color: var(--ink-soft); line-height: 1.7; }
 
 /* 表单卡片：让留言输入区成为一块独立、聚焦的面板 */
 .gb-panel {
