@@ -1,5 +1,6 @@
 // 工具函数：从原生 app.js 迁移
 
+import { pickMotif } from "./motifs.js";
 export function hashCode(str) {
   let h = 0;
   for (let i = 0; i < str.length; i++) {
@@ -83,7 +84,7 @@ function pickInitial(name) {
 }
 
 // 生成按真实比例的邮票 SVG
-export function stampArt(id, name, color, zihao, year, faceValue, ratio) {
+export function stampArt(id, name, color, zihao, year, faceValue, ratio, motif) {
   const seed = hashCode(id || name);
   const H = 230;
   const W = Math.max(120, Math.round(H * ratio));
@@ -121,6 +122,11 @@ export function stampArt(id, name, color, zihao, year, faceValue, ratio) {
   const faceY = H - 26;
   const nameSize = type === "landscape" ? 12 : 13;
 
+  // 中央「月洞窗」：有主题图案则放 emoji，否则回退到名称首字印章
+  const motifHtml = motif
+    ? '<text x="' + cx + '" y="' + cy + '" text-anchor="middle" dominant-baseline="central" font-size="' + (circR * 1.3).toFixed(1) + '">' + escapeXml(motif) + '</text>'
+    : '<text x="' + cx + '" y="' + (cy + Math.round(circR * 0.38)) + '" text-anchor="middle" font-family="Kaiti SC,STKaiti,KaiTi,serif" font-size="' + initSize + '" font-weight="700" fill="' + c3 + '" opacity="0.95">' + escapeXml(initial) + '</text>';
+
   return (
     '<svg viewBox="0 0 ' + W + ' ' + H + '" xmlns="http://www.w3.org/2000/svg" role="img">' +
     '<defs>' +
@@ -137,10 +143,9 @@ export function stampArt(id, name, color, zihao, year, faceValue, ratio) {
     '<g fill="#fbf7ef">' + perfs + '</g>' +
     '<rect x="' + pad + '" y="' + pad + '" width="' + iw + '" height="' + ih + '" rx="6" fill="url(#' + gradId + ')"/>' +
     '<rect x="' + (pad + 4) + '" y="' + (pad + 4) + '" width="' + (iw - 8) + '" height="' + (ih - 8) + '" rx="4" fill="none" stroke="rgba(255,255,255,0.55)" stroke-width="1.4"/>' +
-    '<circle cx="' + cx + '" cy="' + cy + '" r="' + circR + '" fill="url(#' + dotsId + ')"/>' +
-    '<circle cx="' + cx + '" cy="' + cy + '" r="' + circR + '" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="1.6"/>' +
-    '<circle cx="' + cx + '" cy="' + cy + '" r="' + Math.round(circR * 0.8) + '" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="0.8" stroke-dasharray="3 3"/>' +
-    '<text x="' + cx + '" y="' + (cy + Math.round(circR * 0.38)) + '" text-anchor="middle" font-family="Kaiti SC,STKaiti,KaiTi,serif" font-size="' + initSize + '" font-weight="700" fill="' + c3 + '" opacity="0.95">' + escapeXml(initial) + '</text>' +
+    '<circle cx="' + cx + '" cy="' + cy + '" r="' + (circR + 5) + '" fill="none" stroke="rgba(201,162,75,0.55)" stroke-width="1.2"/>' +
+    '<circle cx="' + cx + '" cy="' + cy + '" r="' + circR + '" fill="#fbf7ef" stroke="rgba(166,58,58,0.4)" stroke-width="1.5"/>' +
+    motifHtml +
     '<g transform="rotate(-6 ' + (pad + 20) + ' ' + (pad + 22) + ')">' +
     '<rect x="' + (pad + 8) + '" y="' + (pad + 10) + '" width="22" height="22" rx="2" fill="#b23a24" opacity="0.85"/>' +
     '<rect x="' + (pad + 11) + '" y="' + (pad + 13) + '" width="16" height="16" rx="1" fill="none" stroke="rgba(253,243,223,0.6)" stroke-width="1"/>' +
@@ -185,6 +190,7 @@ export function stampArtFor(stamp) {
       '<img src="' + escapeXml(stampImageUrl(stamp.image, stamp)) + '" alt="' + escapeXml(stamp.name) + '" style="width:100%;height:100%;object-fit:contain;">'
     );
   }
+  const motif = pickMotif(stamp);
   return stampArt(
     stamp.id,
     stamp.name,
@@ -192,7 +198,8 @@ export function stampArtFor(stamp) {
     stamp.zihao,
     stamp.year,
     stamp.faceValue,
-    g.ratio
+    g.ratio,
+    motif
   );
 }
 
