@@ -1,6 +1,7 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { stampGeometry, stampArtFor } from "../utils.js";
 import Guestbook from "./Guestbook.jsx";
+import Zihao from "./Zihao.jsx";
 
 function specItems(s) {
   const items = [
@@ -18,15 +19,19 @@ function specItems(s) {
 }
 
 export default function StampModal({ stamp, onClose }) {
+  const [zoom, setZoom] = useState(false);
   // ESC 关闭
   useEffect(() => {
     if (!stamp) return;
     const onKey = (e) => {
-      if (e.key === "Escape") onClose();
+      if (e.key === "Escape") {
+        if (zoom) setZoom(false);
+        else onClose();
+      }
     };
     document.addEventListener("keydown", onKey);
     return () => document.removeEventListener("keydown", onKey);
-  }, [stamp, onClose]);
+  }, [stamp, onClose, zoom]);
 
   if (!stamp) return null;
 
@@ -36,7 +41,7 @@ export default function StampModal({ stamp, onClose }) {
     .map((i) => (
       <div className="spec" key={i[0]}>
         <div className="spec-label">{i[0]}</div>
-        <div className="spec-value">{i[1]}</div>
+        <div className="spec-value">{i[0] === "志号" ? <Zihao value={i[1]} /> : i[1]}</div>
       </div>
     ));
   const stampsHtml =
@@ -91,7 +96,19 @@ export default function StampModal({ stamp, onClose }) {
         <button className="modal-close" onClick={onClose}>×</button>
         <div className="modal-body">
           <div className="modal-hero">
-            <div className={modalPicCls} dangerouslySetInnerHTML={{ __html: stampArtFor(stamp) }} />
+            <div
+            className={modalPicCls + " zoomable"}
+            dangerouslySetInnerHTML={{ __html: stampArtFor(stamp) }}
+            onClick={() => setZoom(true)}
+            role="button"
+            tabIndex={0}
+            onKeyDown={(e) => {
+              if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                setZoom(true);
+              }
+            }}
+          />
             <div className="modal-heading">
               <div className="modal-title">{stamp.nameZh || stamp.name}</div>
               {stamp.nameZh && stamp.nameZh !== stamp.name ? (
@@ -101,7 +118,7 @@ export default function StampModal({ stamp, onClose }) {
                 {stamp.theme || ""}
                 {stamp.date ? " · " + stamp.date : ""}
               </div>
-              {stamp.zihao ? <span className="modal-zihao">{stamp.zihao}</span> : null}
+              {stamp.zihao ? <Zihao value={stamp.zihao} className="modal-zihao" /> : null}
               <div className="modal-specs">{specs}</div>
             </div>
           </div>
@@ -116,6 +133,20 @@ export default function StampModal({ stamp, onClose }) {
           </div>
         </div>
       </div>
+      {zoom && (
+        <div className="zoom-overlay" onClick={() => setZoom(false)}>
+          <button className="zoom-close" aria-label="关闭放大" onClick={() => setZoom(false)}>×</button>
+          <div
+            className="zoom-pic"
+            onClick={(e) => e.stopPropagation()}
+            dangerouslySetInnerHTML={{ __html: stampArtFor(stamp) }}
+          />
+          <div className="zoom-caption">
+            {stamp.nameZh || stamp.name}
+            {stamp.nameZh && stamp.nameZh !== stamp.name ? " · " + stamp.name : ""}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

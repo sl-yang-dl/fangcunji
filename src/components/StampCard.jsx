@@ -1,5 +1,6 @@
 import { memo } from "react";
 import { stampGeometry, stampArtFor } from "../utils.js";
+import Zihao from "./Zihao.jsx";
 
 function StampCard({ stamp, onOpen }) {
   const g = stampGeometry(stamp);
@@ -24,7 +25,8 @@ function StampCard({ stamp, onOpen }) {
           <span className="stamp-cat">{stamp.category}</span>
         </div>
         <span className="stamp-zihao">
-          {stamp.nameZh && stamp.name !== stamp.nameZh ? stamp.name + " · " : ""}{stamp.zihao || ""}
+          {stamp.nameZh && stamp.name !== stamp.nameZh ? stamp.name + " · " : ""}
+          <Zihao value={stamp.zihao} />
         </span>
       </div>
     </div>
