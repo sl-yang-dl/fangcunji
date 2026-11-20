@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { stampGeometry, stampArtFor } from "../utils.js";
+import { STAMP_NOTES } from "../data/notes.js";
 import Guestbook from "./Guestbook.jsx";
 
 function specItems(s) {
@@ -30,9 +31,13 @@ export default function StampModal({ stamp, onClose }) {
 
   if (!stamp) return null;
 
-  const g = stampGeometry(stamp);
+  // 合并 issue 里提取的深度资料（原图 + 说明等）
+  const note = STAMP_NOTES[stamp.id];
+  const s = note ? { ...stamp, image: note.image ?? stamp.image } : stamp;
+
+  const g = stampGeometry(s);
   const modalPicCls = "modal-stamp-pic " + g.type;
-  const specs = specItems(stamp)
+  const specs = specItems(s)
     .map((i) => (
       <div className="spec" key={i[0]}>
         <div className="spec-label">{i[0]}</div>
@@ -40,16 +45,49 @@ export default function StampModal({ stamp, onClose }) {
       </div>
     ));
   const stampsHtml =
-    stamp.stamps && stamp.stamps.length ? (
+    s.stamps && s.stamps.length ? (
       <div className="modal-section">
         <h3><span className="sec-dot"></span>全套图案</h3>
         <div className="stamp-pieces">
-          {stamp.stamps.map((p, idx) => (
+          {s.stamps.map((p, idx) => (
             <span className="stamp-piece" key={idx}>{p}</span>
           ))}
         </div>
       </div>
     ) : null;
+
+  const noteSections = note ? (
+    <>
+      {note.story && note.story.length ? (
+        <div className="modal-section">
+          <h3><span className="sec-dot"></span>邮票说明</h3>
+          {note.story.map((p, i) => <p key={i}>{p}</p>)}
+        </div>
+      ) : null}
+      {note.publish && note.publish.length ? (
+        <div className="modal-section">
+          <h3><span className="sec-dot"></span>出版信息</h3>
+          <dl className="note-publish">
+            {note.publish.map(([k, v], i) => (
+              <div className="note-publish-row" key={i}><dt>{k}</dt><dd>{v}</dd></div>
+            ))}
+          </dl>
+        </div>
+      ) : null}
+      {note.anecdote && note.anecdote.length ? (
+        <div className="modal-section">
+          <h3><span className="sec-dot"></span>背后故事</h3>
+          {note.anecdote.map((p, i) => <p key={i}>{p}</p>)}
+        </div>
+      ) : null}
+      {note.knowledge && note.knowledge.length ? (
+        <div className="modal-section">
+          <h3><span className="sec-dot"></span>相关知识</h3>
+          {note.knowledge.map((p, i) => <p key={i}>{p}</p>)}
+        </div>
+      ) : null}
+    </>
+  ) : null;
 
   return (
     <div className="modal-overlay open" onClick={(e) => { if (e.target === e.currentTarget) onClose(); }}>
@@ -57,17 +95,17 @@ export default function StampModal({ stamp, onClose }) {
         <button className="modal-close" onClick={onClose}>×</button>
         <div className="modal-body">
           <div className="modal-hero">
-            <div className={modalPicCls} dangerouslySetInnerHTML={{ __html: stampArtFor(stamp) }} />
+            <div className={modalPicCls} dangerouslySetInnerHTML={{ __html: stampArtFor(s) }} />
             <div className="modal-heading">
-              <div className="modal-title">{stamp.nameZh || stamp.name}</div>
-              {stamp.nameZh && stamp.nameZh !== stamp.name ? (
-                <div className="modal-en">{stamp.name}</div>
+              <div className="modal-title">{s.nameZh || s.name}</div>
+              {s.nameZh && s.nameZh !== s.name ? (
+                <div className="modal-en">{s.name}</div>
               ) : null}
               <div className="modal-sub">
-                {stamp.theme || ""}
-                {stamp.date ? " · " + stamp.date : ""}
+                {s.theme || ""}
+                {s.date ? " · " + s.date : ""}
               </div>
-              {stamp.zihao ? <span className="modal-zihao">{stamp.zihao}</span> : null}
+              {s.zihao ? <span className="modal-zihao">{s.zihao}</span> : null}
               <div className="modal-specs">{specs}</div>
             </div>
           </div>
@@ -75,9 +113,10 @@ export default function StampModal({ stamp, onClose }) {
             {stampsHtml}
             <div className="modal-section">
               <h3><span className="sec-dot"></span>邮票介绍</h3>
-              <p>{stamp.intro || "暂无介绍"}</p>
+              <p>{s.intro || "暂无介绍"}</p>
             </div>
-            <Guestbook stampName={stamp.name} />
+            {noteSections}
+            <Guestbook stampName={s.name} />
           </div>
         </div>
       </div>

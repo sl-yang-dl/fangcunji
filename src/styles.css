@@ -798,6 +798,11 @@ body::before {
 .modal-section h3 .sec-dot { width: 10px; height: 10px; background: var(--gold); border-radius: 2px; transform: rotate(45deg); box-shadow: 0 2px 6px rgba(201,162,75,0.4); }
 .modal-section h3::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--line), transparent); }
 .modal-section p { font-size: 14px; line-height: 1.95; color: var(--ink); }
+.note-publish { margin: 0; }
+.note-publish-row { display: flex; gap: 14px; padding: 5px 0; border-bottom: 1px dashed var(--line); font-size: 13px; }
+.note-publish-row:last-child { border-bottom: none; }
+.note-publish dt { flex: 0 0 88px; color: var(--ink-soft); }
+.note-publish dd { margin: 0; flex: 1; color: var(--ink); }
 
 .stamp-pieces { display: flex; flex-wrap: wrap; gap: 8px; }
 .stamp-piece {
