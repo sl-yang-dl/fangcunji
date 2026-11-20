@@ -354,6 +354,27 @@ body::before {
   letter-spacing: 1px;
 }
 .tab-chip:hover { border-color: var(--gold); color: var(--cinnabar); transform: translateY(-2px); }
+.tab-chip.zodiac {
+  border-color: var(--cinnabar);
+  color: var(--cinnabar);
+  font-weight: 600;
+  background: linear-gradient(180deg, #fff6e6 0%, #fdeccb 100%);
+}
+.tab-chip.zodiac:hover { color: var(--cinnabar); transform: translateY(-2px); }
+.tab-chip.zodiac.active { color: #fbf2dd; }
+.tab-count {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 0 7px;
+  border-radius: 10px;
+  background: rgba(166,58,58,0.14);
+  color: var(--cinnabar);
+  font-size: 11px;
+  font-family: -apple-system, "PingFang SC", sans-serif;
+  letter-spacing: 0;
+  vertical-align: 1px;
+}
+.tab-chip.zodiac.active .tab-count { background: rgba(251,242,221,0.28); color: #fbf2dd; }
 .tab-chip.active {
   background: var(--cinnabar);
   color: #fbf2dd;

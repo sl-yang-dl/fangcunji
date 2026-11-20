@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import STAMP_DATA from "./data.js";
+import { isZodiac } from "./utils.js";
 import Header from "./components/Header.jsx";
 import Toolbar from "./components/Toolbar.jsx";
 import Tabs from "./components/Tabs.jsx";
@@ -16,12 +17,13 @@ export default function App() {
   const [activeId, setActiveId] = useState(null);
 
   // 派生数据：类别（Colnect 专题过多且为英文，顶部标签改为按"类别"分组）
+  // 「生肖」为独立策划分类：按名称含"干支+年"识别，置于最前
   const categories = useMemo(() => {
     const map = {};
     STAMP_DATA.forEach((s) => {
       map[s.category] = (map[s.category] || 0) + 1;
     });
-    return Object.keys(map).sort();
+    return ["生肖", ...Object.keys(map).sort()];
   }, []);
 
   const years = useMemo(() => {
@@ -34,11 +36,20 @@ export default function App() {
       .sort((a, b) => a - b);
   }, []);
 
+  const zodiacCount = useMemo(
+    () => STAMP_DATA.filter((s) => isZodiac(s.name)).length,
+    []
+  );
+
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
     return STAMP_DATA.filter((s) => {
       if (year !== "all" && String(s.year) !== year) return false;
-      if (category !== "all" && s.category !== category) return false;
+      if (category === "生肖") {
+        if (!isZodiac(s.name)) return false;
+      } else if (category !== "all" && s.category !== category) {
+        return false;
+      }
       if (q) {
         const hay = (
           s.name + " " + (s.zihao || "") + " " + (s.theme || "") + " " + (s.intro || "")
@@ -83,7 +94,12 @@ export default function App() {
         setView={setView}
         onReset={handleReset}
       />
-      <Tabs categories={categories} category={category} setCategory={setCategory} />
+      <Tabs
+        categories={categories}
+        category={category}
+        setCategory={setCategory}
+        zodiacCount={zodiacCount}
+      />
       <StampGrid
         list={filtered}
         view={year !== "all" ? view : "card"}

@@ -1,4 +1,4 @@
-export default function Tabs({ categories, category, setCategory }) {
+export default function Tabs({ categories, category, setCategory, zodiacCount }) {
   return (
     <nav className="tabs">
       <div className="tabs-inner">
@@ -11,10 +11,17 @@ export default function Tabs({ categories, category, setCategory }) {
         {categories.map((c) => (
           <button
             key={c}
-            className={"tab-chip" + (category === c ? " active" : "")}
+            className={
+              "tab-chip" +
+              (c === "生肖" ? " zodiac" : "") +
+              (category === c ? " active" : "")
+            }
             onClick={() => setCategory(c)}
           >
             {c}
+            {c === "生肖" && zodiacCount != null && (
+              <span className="tab-count">{zodiacCount}</span>
+            )}
           </button>
         ))}
       </div>

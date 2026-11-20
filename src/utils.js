@@ -1,6 +1,16 @@
 // 工具函数：从原生 app.js 迁移
 
 import { pickMotif } from "./motifs.js";
+
+// 生肖邮票识别：名称含「干支+年」（如 壬申年 / 丙午年（马））
+const TIAN = ["甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"];
+const DI = ["子", "丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥"];
+const GANZHI = TIAN.flatMap((t) => DI.map((d) => t + d));
+const ZODIAC_RE = new RegExp("(" + GANZHI.join("|") + ")年");
+export function isZodiac(name) {
+  return ZODIAC_RE.test(name || "");
+}
+
 export function hashCode(str) {
   let h = 0;
   for (let i = 0; i < str.length; i++) {
